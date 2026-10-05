@@ -1,0 +1,15 @@
+# announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает.
+# profile-title: VPN AE
+# profile-update-interval: 1
+# profile-web-page-url: none
+# support-url: none
+# generated-by: VPN Checker
+# generated-at: 2026-10-04 18:47
+# servers-count: 6
+
+vless://f8a9654f-252e-bc36-1ba0-d7b6691bff7d@45.88.13.6:443?encryption=none&security=reality&sni=download.nvidia.com&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&type=xhttp&path=%2F&mode=auto&fp=android#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+vless://0fa8cefb-573d-3c23-c1c3-c1f945eebe36@45.88.13.6:443?path=%2F&security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&type=xhttp&sni=download.nvidia.com&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+vless://f8a9654f-252e-bc36-1ba0-d7b6691bff7d@45.88.13.6:443?encryption=none&security=reality&sni=download.nvidia.com&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&type=xhttp&path=%2F&mode=auto&fp=random#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+vless://7f11e9f2-3d2b-46d9-b520-29c6cab78744@r1256197.s2537.vm.mydomain.zone:443?encryption=none&security=reality&sni=r1256197.s2537.vm.mydomain.zone&fp=random&pbk=-XhK_SoQ-5CyefHn-QBhsSpnq2mFHRBod6ramT2J9lg&type=xhttp&path=%2F&mode=auto#🇦🇪 ОАЭ
+vless://0fa8cefb-573d-3c23-c1c3-c1f945eebe36@45.88.13.6:443?path=%2F&security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&type=xhttp&sni=download.nvidia.com&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+vless://f8a9654f-252e-bc36-1ba0-d7b6691bff7d@45.88.13.6:443?encryption=none&security=reality&sni=download.nvidia.com&fp=random&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&type=xhttp&path=%2F&mode=auto#🇦🇪 ОАЭ

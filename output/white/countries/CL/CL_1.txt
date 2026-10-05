@@ -1,0 +1,13 @@
+# announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает.
+# profile-title: VPN CL
+# profile-update-interval: 1
+# profile-web-page-url: none
+# support-url: none
+# generated-by: VPN Checker
+# generated-at: 2026-10-04 18:47
+# servers-count: 4
+
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?encryption=none&security=none&sni=platform103.halalkhor.info&type=ws&host=platform103.halalkhor.info&path=%2Fplatform103#🇨🇱 Чили
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?path=%2Fplatform103&security=none&type=ws#🇨🇱 Чили
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?security=none&type=ws&path=%2Fplatform109&host=platform109.halalkhor.info&sni=platform109.halalkhor.info#🇨🇱 Чили
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?host=%5B%27platform109.halalkhor.info%27%5D&path=%2Fplatform109&security=none&type=ws#🇨🇱 Чили

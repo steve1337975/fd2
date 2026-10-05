@@ -1,0 +1,8 @@
+{
+    "timeout": 5,
+    "max_concurrent_checks": 500,
+    "max_lines_per_file": 200,
+    "geoip_db_path": "GeoLite2-Country.mmdb",
+    "shuffle_servers": true,
+    "log_servers": true
+}

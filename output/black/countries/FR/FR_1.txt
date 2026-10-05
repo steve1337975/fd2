@@ -1,0 +1,13 @@
+# announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает.
+# profile-title: VPN FR
+# profile-update-interval: 1
+# profile-web-page-url: none
+# support-url: none
+# generated-by: VPN Checker
+# generated-at: 2026-10-04 18:47
+# servers-count: 4
+
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?type=tcp#🇩🇪 Германия
+hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=www.docker.com&security=tls#🇫🇷 Франция
+vless://fdc1206a-9d2e-42b7-b615-9ccea8cf70ee@bulbul.color-panel.ir:8080?type=tcp&host=play.google.com#🇫🇷 Франция
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=raw#🇬🇧 Великобритания

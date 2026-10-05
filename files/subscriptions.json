@@ -1,0 +1,23 @@
+[
+    {
+        "type": "white",
+        "urls": [
+            "https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt",
+            "https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt",
+            "https://raw.githack.com/FLAT447/v2ray-lists/main/WHITE_FULL.txt",
+            "https://raw.githack.com/zieng2/wl/main/vless_universal.txt",
+            "https://raw.githack.com/flaafix/AetrisVPN/refs/heads/main/AetrisVPN.txt",
+            "https://raw.githack.com/flaafix/AetrisVPN-white-list-lite/main/AetrisVPN.txt"
+        ]
+    },
+    {
+        "type": "black",
+        "urls": [
+            "https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS_WEAK_DPI_RUS.txt",
+            "https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt",
+            "https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt",
+            "https://raw.githack.com/FLAT447/v2ray-lists/main/BLACK_FULL.txt",
+            "https://raw.githack.com/flaafix/AetrisVPN-black-list/main/configs.txt"
+        ]
+    }
+]

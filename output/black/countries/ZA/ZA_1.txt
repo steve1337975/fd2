@@ -1,0 +1,10 @@
+# announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает.
+# profile-title: VPN ZA
+# profile-update-interval: 1
+# profile-web-page-url: none
+# support-url: none
+# generated-by: VPN Checker
+# generated-at: 2026-10-04 05:44
+# servers-count: 1
+
+vless://4758aee6-6d1a-4306-b460-2398b5af4e35@34.35.174.85:443?fp=chrome&pbk=dcox8XXfkOCmKn3kgrloj6wY5o1_0brJOi2mczYmAT4&security=reality&sid=5ced03e42cc31aab&sni=www.cloudflare.com#🇿🇦 ЮАР

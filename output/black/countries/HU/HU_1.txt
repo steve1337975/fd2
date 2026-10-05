@@ -1,0 +1,13 @@
+# announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает.
+# profile-title: VPN HU
+# profile-update-interval: 1
+# profile-web-page-url: none
+# support-url: none
+# generated-by: VPN Checker
+# generated-at: 2026-10-04 18:47
+# servers-count: 4
+
+vless://3aef55f1-4824-432e-82ce-6f8a9e8b2700@37.221.212.163:443?encryption=none&fp=firefox&host=hu0202.bearbeer.digital&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&security=reality&sni=hu0202.bearbeer.digital&type=xhttp#🇭🇺 Венгрия
+vless://3aef55f1-4824-432e-82ce-6f8a9e8b2700@37.221.210.188:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hu888.bearbeer.digital&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&spx=%2F&type=tcp&fp=qq#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://3aef55f1-4824-432e-82ce-6f8a9e8b2700@37.221.212.163:443?encryption=none&security=reality&sni=hu0202.bearbeer.digital&fp=random&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&spx=%2F&type=xhttp&path=%2F&host=hu0202.bearbeer.digital&mode=auto#🇭🇺 Венгрия
+vless://3aef55f1-4824-432e-82ce-6f8a9e8b2700@37.221.210.188:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=hu888.bearbeer.digital&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&spx=%2F&type=tcp&fp=random#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D

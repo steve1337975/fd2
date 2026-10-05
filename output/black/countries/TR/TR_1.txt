@@ -1,0 +1,16 @@
+# announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает.
+# profile-title: VPN TR
+# profile-update-interval: 1
+# profile-web-page-url: none
+# support-url: none
+# generated-by: VPN Checker
+# generated-at: 2026-10-04 18:47
+# servers-count: 7
+
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@193.223.106.13:33742?encryption=none&host=fi-966ffd3f4f.shamanapp.online&path=%2FShamanXHTTP2026&security=tls&sni=fi-966ffd3f4f.shamanapp.online&type=xhttp&fp=safari#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@fi-966ffd3f4f.shamanapp.online:33742?mode=stream-up&path=%2FShamanXHTTP2026&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fi-966ffd3f4f.shamanapp.online&type=xhttp&sni=fi-966ffd3f4f.shamanapp.online&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D
+vless://6173cf69-1fd6-4f69-b7f4-c5811925785a@93.190.8.153:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция
+vless://6173cf69-1fd6-4f69-b7f4-c5811925785a@93.190.9.232:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@fi-966ffd3f4f.shamanapp.online:33742?mode=stream-up&path=%2FShamanXHTTP2026&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fi-966ffd3f4f.shamanapp.online&type=xhttp&sni=fi-966ffd3f4f.shamanapp.online&fp=android#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D
+vless://6173cf69-1fd6-4f69-b7f4-c5811925785a@93.190.9.112:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇹🇷 Турция
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@193.223.106.13:33742?encryption=none&host=fi-966ffd3f4f.shamanapp.online&path=%2FShamanXHTTP2026&security=tls&sni=fi-966ffd3f4f.shamanapp.online&type=xhttp&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Istanbul%20%7C%20%5BBL%5D

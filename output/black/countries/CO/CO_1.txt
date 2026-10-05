@@ -1,0 +1,10 @@
+# announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает.
+# profile-title: VPN CO
+# profile-update-interval: 1
+# profile-web-page-url: none
+# support-url: none
+# generated-by: VPN Checker
+# generated-at: 2026-10-04 00:00
+# servers-count: 1
+
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.104.107.41:8090#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%2C%20Bogot%C3%A1%20%7C%20%5BBL%5D

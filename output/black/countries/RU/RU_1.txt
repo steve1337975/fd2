@@ -1,0 +1,25 @@
+# announce: 🔰 Нажми на спидометр или молнию, чтобы проверить соединение. Меньше ms - лучше | n/a - не работает.
+# profile-title: VPN RU
+# profile-update-interval: 1
+# profile-web-page-url: none
+# support-url: none
+# generated-by: VPN Checker
+# generated-at: 2026-10-04 18:47
+# servers-count: 16
+
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@94.228.166.86:8443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&mode=auto&path=%2Fxhttp&security=reality&encryption=none&pbk=R3xeImGP5Bsx42LkRruIs3vIKHnPVR9aodbouAiemzM&fp=chrome&type=xhttp&sni=cdn-nl.cahmes.space&sid=d73a212e98084d3b#🇷🇺 Россия
+vless://42b2279b-3564-495f-b72e-44f29dd9f8f1@130.49.177.191:443?encryption=none&security=reality&sni=d7.archive.rubuntu.space&pbk=gu2PLGKCCabl2bdHqJosM8XLUn0uTwqDt1P5L4IBdSg&sid=4b4d0e7c&type=xhttp&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22hKeepAlivePeriod%22%3A20%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%22300-600%22%2C%22maxConcurrency%22%3A%228-16%22%2C%22maxConnections%22%3A0%7D%7D&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?sni=ru.xiaoliyu.cyou&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://65616081-1772-49d7-a793-42bc13d22f69@ru-1-8.imnotgay.party:443?encryption=none&type=tcp&security=reality&sni=ru-1-8.imnotgay.party&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20St%20Petersburg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://65616081-1772-49d7-a793-42bc13d22f69@ru-1-2.imnotgay.party:443?encryption=none&type=tcp&security=reality&sni=ru-1-2.imnotgay.party&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&fp=firefox#🇷🇺 Россия
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?sni=ru.xiaoliyu.cyou#🇷🇺 Россия
+vless://42b2279b-3564-495f-b72e-44f29dd9f8f1@130.49.177.191:443?encryption=none&security=reality&sni=d7.archive.rubuntu.space&pbk=gu2PLGKCCabl2bdHqJosM8XLUn0uTwqDt1P5L4IBdSg&sid=4b4d0e7c&type=xhttp&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2264-128%22%2C%22hKeepAlivePeriod%22%3A20%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%22300-600%22%2C%22maxConcurrency%22%3A%228-16%22%2C%22maxConnections%22%3A0%7D%7D&fp=random#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://65616081-1772-49d7-a793-42bc13d22f69@176.57.218.235:443?encryption=none&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&security=reality&sni=ru-1-8.imnotgay.party&type=tcp&fp=chrome#🇷🇺 Россия
+vless://65616081-1772-49d7-a793-42bc13d22f69@ru-1-8.imnotgay.party:443?encryption=none&type=tcp&security=reality&sni=ru-1-8.imnotgay.party&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&fp=firefox#🇷🇺 Россия
+vless://65616081-1772-49d7-a793-42bc13d22f69@ru-1-7.imnotgay.party:443?encryption=none&type=tcp&security=reality&sni=ru-1-7.imnotgay.party&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&fp=firefox#🇷🇺 Россия
+vless://65616081-1772-49d7-a793-42bc13d22f69@ru-1-8.imnotgay.party:443?encryption=none&type=tcp&security=reality&sni=ru-1-8.imnotgay.party&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20St%20Petersburg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://81167507-b634-4f56-9555-33e4fd660ce0@193.187.95.124:443?type=tcp&security=reality&fp=firefox&pbk=8bMoXjt19DiBhVEEzx2xxe9dsgYOerlQC6yf0JDOoQE&sid=6f01a3e0f21267&sni=github.com#🇷🇺 Россия
+vless://65616081-1772-49d7-a793-42bc13d22f69@ru-1-5.imnotgay.party:443?encryption=none&type=tcp&security=reality&sni=ru-1-5.imnotgay.party&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&fp=firefox#🇷🇺 Россия
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptaFhZRHZhU2ZIekhaWEJzd0Mvem8vbzhWcWRVM1hTQnB3V3gwNTBZNk1VPQ@130.49.189.158:43558#🇷🇺 Россия
+vless://65616081-1772-49d7-a793-42bc13d22f69@ru-1-9.imnotgay.party:443?encryption=none&type=tcp&security=reality&sni=ru-1-9.imnotgay.party&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&fp=firefox#🇷🇺 Россия
+vless://65616081-1772-49d7-a793-42bc13d22f69@ru-1-5.imnotgay.party:443?type=tcp&security=reality&fp=firefox&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&sni=ru-1-5.imnotgay.party#🇷🇺 Россия
