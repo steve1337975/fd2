@@ -1,0 +1,13 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN CZ — #1
+# profile-update-interval: 1
+# generated-at: 2026-10-05 18:22
+# servers-count: 7
+
+vless://c7cb3a66-991f-4796-aeed-2926aae9f3f9@153.76.185.158:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%87%A8%F0%9F%87%BF%20AetrisVPN
+vless://d342d11e-d224-4463-b982-532309285094@95.182.95.178:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D
+vless://490ad8af-7bb1-4910-a9b9-e4474c56853f@153.76.185.152:3090?type=grpc&mode=multi&serviceName=vless#🇨🇿 Чехия
+vless://d342d11e-d224-4463-b982-532309285094@95.182.95.178:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
+vless://a0c33380-fc9e-4080-959c-9cc5357fbe31@153.76.185.160:3090?type=grpc&mode=multi&serviceName=vless#🇨🇿 Чехия
+vless://490ad8af-7bb1-4910-a9b9-e4474c56853f@153.76.185.157:3090?type=grpc&mode=multi&serviceName=vless#🇨🇿 Чехия
+vless://c7cb3a66-991f-4796-aeed-2926aae9f3f9@153.76.185.158:3090?type=grpc&mode=multi&serviceName=vless#🇨🇿 Чехия

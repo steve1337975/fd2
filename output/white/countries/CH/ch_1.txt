@@ -1,7 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN HYSTERIA2 — #1
+# profile-title: VPN CH — #1
 # profile-update-interval: 1
 # generated-at: 2026-10-05 18:22
 # servers-count: 1
 
-hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@45.151.101.97:2443/?sni=hy2.78.141.219.189.nip.io#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?encryption=none&fp=&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&security=reality&sid=ad86e2d52ff40ebd&sni=www.apple.com&type=tcp#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇨🇭 Швейцария

@@ -1,0 +1,14 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN SC — #1
+# profile-update-interval: 1
+# generated-at: 2026-10-05 18:22
+# servers-count: 8
+
+vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.182:443?encryption=none&flow=xtls-rprx-vision&pbk=fpYQ3Ml1YhTM0tbf4Ixxx03gxMtOno3iGaq3uoxIszs&security=reality&sid=a7268acdcfef5862&sni=ai.yump.online&type=tcp&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.185:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA&security=reality&sid=f6d23c76d0362796&sni=cdn249.yump.online&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@45.147.31.64:2443/?sni=hy2.78.141.219.189.nip.io#🇸🇨 SC
+ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#🇸🇨 SC
+vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.182:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fpYQ3Ml1YhTM0tbf4Ixxx03gxMtOno3iGaq3uoxIszs&security=reality&sid=a7268acdcfef5862&sni=ai.yump.online&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://635ac0f9-5e30-4f1d-a74b-604cbbfcf05c@45.95.96.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gemini.yump.online&fp=firefox&security=reality&pbk=lG_61uLyha583CFPxkdXqBW-inIkP8Ejxy3ZIRD0bUU&sid=43c9094a4a1eb1c9#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
+vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.170:443?encryption=none&flow=xtls-rprx-vision&pbk=cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA&security=reality&sid=f6d23c76d0362796&sni=ai.rtnode.site&type=tcp&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN

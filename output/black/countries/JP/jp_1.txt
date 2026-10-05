@@ -1,0 +1,17 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN JP — #1
+# profile-update-interval: 1
+# generated-at: 2026-10-05 18:22
+# servers-count: 11
+
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.251.167.81:443?encryption=none&security=tls&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&host=fzo5i.ir46.90k.hh.ov0.kdns.fr#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%5BBL%5D
+vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%5BBL%5D
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?encryption=none&security=none&fp=random&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
+vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B7%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=tcp#🇯🇵 Япония
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@153.121.36.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&security=reality&sid=1a&sni=www.amazon.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
+trojan://6a77ffdb-1799-43de-b17b-57868378d040@45.76.218.34:32676?security=tls&sni=lazeno.vip&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
+vless://08aaab35-a42d-4755-a03e-20c18cb1b3e8@45.192.201.140:443?fp=firefox&host=argo6.5671234.xyz&path=%2Fe8e2cecb6188f7fb&security=tls&sni=argo6.5671234.xyz&type=ws#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taipei%20%7C%20%5BBL%5D
+vless://08aaab35-a42d-4755-a03e-20c18cb1b3e8@45.192.201.140:443?&security=tls&fp=chrome&sni=argo6.5671234.xyz&type=ws&headerType=none&host=argo6.5671234.xyz&path=%2Fe8e2cecb6188f7fb#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taipei%20%7C%20%5BBL%5D

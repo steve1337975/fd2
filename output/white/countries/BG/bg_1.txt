@@ -1,7 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN HYSTERIA2 — #1
+# profile-title: VPN BG — #1
 # profile-update-interval: 1
 # generated-at: 2026-10-05 18:22
 # servers-count: 1
 
-hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@45.151.101.97:2443/?sni=hy2.78.141.219.189.nip.io#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@193.148.57.60:24444?security=reality&encryption=none&pbk=l84FK9JIi4Bx-mhBZIm4K4Td5V_ekOobJmkvNAvklSM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=107acb307423c5aa&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN

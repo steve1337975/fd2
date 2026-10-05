@@ -1,0 +1,33 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN DE — #1
+# profile-update-interval: 1
+# generated-at: 2026-10-05 18:22
+# servers-count: 27
+
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20AetrisVPN
+vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@node05.tomalgopas.fun:443?type=grpc&security=reality&fp=firefox&pbk=MMx79S7VEpPYOIYUXLkDUKyv_rzYJ7GTML4FKmmHlmg&sni=samsung.com&serviceName=vless-grpc#🇩🇪 Германия
+vless://d342d11e-d224-4463-b982-532309285094@130.17.12.35:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%B6%20%7C%20%5BBL%5D
+vless://81d8f575-a9c3-03e7-be6b-c0e1dc1d2e20@91.233.8.141:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw&security=reality&sid=6e5f2a3b&sni=tnt-cloud.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@51.75.67.209:80?type=ws#🇩🇪 Германия
+vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@51.75.67.209:80?encryption=none&security=none&type=ws&path=%2F#🇩🇪 Германия
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+vless://b812a4e0-c90a-4864-8ffb-2af71d69d4f4@50.7.157.235:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=edge-fr.extazy.org&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&sid=ba4b2afa9e7193ea&type=tcp&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
+vless://f0a52dd3-4377-4402-a450-210bc81bcf25@109.176.202.7:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XU7da9vkBex4TUPo1d-ctFY_N6zouBiCRnbnUK82i3Q&security=reality&sid=fee1f986a72444db&sni=id-nl-01.mintrocket.org&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@de-2.srv.dvzh.net:443?security=reality&encryption=none&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de-2.srv.dvzh.net&sid=e4e77e76e6e49da7#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Bergen-Enkheim%29%20%7C%20%5BBL%5D
+vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@de-2.srv.dvzh.net:443?security=reality&encryption=none&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de-2.srv.dvzh.net&sid=e4e77e76e6e49da7#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Bergen-Enkheim%29%20%7C%20%5BBL%5D
+vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@node2.tomalgopas.fun:443?type=grpc&security=reality&fp=firefox&pbk=MMx79S7VEpPYOIYUXLkDUKyv_rzYJ7GTML4FKmmHlmg&sni=samsung.com&serviceName=vless-grpc#🇩🇪 Германия
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?encryption=none&security=none&sni=milo.rubinaz.xyz&type=tcp&headerType=none#🇬🇧 Великобритания
+vless://e40131eb-087a-48e1-9d0d-c7db5049ce1f@de.xelnivo.ir:13805?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=firefox&pbk=rlWw1txOKfyTIegqGc5YUQo1CxqZEXBPeQZppA6H014&sid=8f798d413a5dbf01&spx=/link#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@81.90.28.169:443?type=grpc&security=reality&fp=firefox&pbk=MMx79S7VEpPYOIYUXLkDUKyv_rzYJ7GTML4FKmmHlmg&sni=samsung.com&serviceName=vless-grpc#🇩🇪 Германия
+vless://d342d11e-d224-4463-b982-532309285094@130.17.12.35:443?sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/fp=chrome&security=tls#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%B6%20%7C%20%5BBL%5D
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@51.75.67.209:80?encryption=none&security=none&type=ws&path=%2F#%F0%9F%87%AA%F0%9F%87%BA%20AetrisVPN
+trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.35:443?security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&type=grpc&serviceName=ajv&path=%2F&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://0e6cd6ca-fba2-4b86-923c-f0a021f7ad15@142.132.140.143:1003?type=tcp&packetEncoding=none#🇩🇪 Германия
+vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@node5.tomalgopas.fun:443?type=grpc&security=reality&fp=firefox&pbk=MMx79S7VEpPYOIYUXLkDUKyv_rzYJ7GTML4FKmmHlmg&sni=samsung.com&serviceName=vless-grpc#🇩🇪 Германия
+trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.35:443?security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&type=grpc&serviceName=ajv&path=%2F&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://3464a5bd-6a17-4ac3-8ca9-86a54c1aac7b@138.124.106.141:443?type=grpc&security=reality&fp=firefox&pbk=MMx79S7VEpPYOIYUXLkDUKyv_rzYJ7GTML4FKmmHlmg&sni=samsung.com&serviceName=vless-grpc#🇩🇪 Германия
+vless://91344c03-b37f-42c5-90f1-cbb95c5cf256@de-2.srv.dvzh.net:443?&security=reality&flow=xtls-rprx-vision&pbk=9GEc6lOjnGQyyE1951OZSBMWt4uCXsOjKyj9fysxHH0&sid=e4e77e76e6e49da7&fp=firefox&sni=de-2.srv.dvzh.net&type=tcp&headerType=none&host=de-2.srv.dvzh.net&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Bergen-Enkheim%29%20%7C%20%5BBL%5D
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080/?type=tcp&encryption=none&flow=#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053/?type=tcp&encryption=none&flow=&packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@de-8d4c7a0695.shamanapp.online:443/?type=xhttp&encryption=none&flow=&host=de-8d4c7a0695.shamanapp.online&path=%2FShamanXHTTP2026&mode=packet-up&security=tls&sni=de-8d4c7a0695.shamanapp.online&alpn=h2&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN

@@ -1,0 +1,7 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN AE — #1
+# profile-update-interval: 1
+# generated-at: 2026-10-05 18:22
+# servers-count: 1
+
+vless://bfa65651-8308-4517-96c0-bac568509f96@89.125.100.29:443?encryption=none&fp=chrome&headerType=none&pbk=%2DbdfPh42n5vMnPsrknIDPOzEOMsI1TlY9AjDPSggaR0&security=reality&sid=1c10c8c03e2f0484&sni=nl2.yabloko.top&type=tcp#AetrisVPN White list ┃ ✅ SNI: nl2.yabloko.top ┃ 🇩🇪 Германия

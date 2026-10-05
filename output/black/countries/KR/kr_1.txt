@@ -1,7 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN HYSTERIA2 — #1
+# profile-title: VPN KR — #1
 # profile-update-interval: 1
 # generated-at: 2026-10-05 18:22
 # servers-count: 1
 
-hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@45.151.101.97:2443/?sni=hy2.78.141.219.189.nip.io#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://81c4547b-e5d8-4af8-baf0-91c5c0c05a9b@icn-a-01.auuas.com:1891?security=reality&flow=xtls-rprx-vision&pbk=mKvw6P0pTdasFPgyT3d_rHJSJfA-aaCxV8krGByqQS0&sid=8378f267&sni=www.npmjs.com&type=tcp&headerType=none&host=www.npmjs.com&path=%2F&fp=android#%F0%9F%87%B0%F0%9F%87%B7%20AetrisVPN
