@@ -1,12 +1,8 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN SG — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 19:01
-# servers-count: 6
+# generated-at: 2026-10-06 22:59
+# servers-count: 2
 
-vless://d342d11e-d224-4463-b982-532309285094@43.174.193.1:443?security=tls&type=ws&sni=ccc.010304.xyz&path=%2F&host=ccc.010304.xyz#%F0%9F%87%AC%F0%9F%87%A7%20AetrisVPN
-vless://40af9131-d540-448a-bc56-5bba147a1dc3@27.50.49.154:2083?type=ws&security=tls&fp=chrome&host=proxy-34l.pages.dev#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-vless://40af9131-d540-448a-bc56-5bba147a1dc3@27.50.49.242:8443?type=ws&security=tls&fp=random&host=proxy-1cu.pages.dev&ed=2560#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@27.50.48.8:443?security=tls&fp=chrome&packet-encoding=xudp&sni=vless2-8vx.pages.dev&type=ws&headerType=none&host=vless2-8vx.pages.dev&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
 vless://cb15cce9-73ed-4928-b38c-462f0732cbe9@217.217.254.126:2053?encryption=none&fp=firefox&pbk=VzRjuHwcY-nLqkEIJS4S1CpButKc90Bh0gDbphyZ0Tw&security=reality&sid=87829de0e2bb82cb&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20AetrisVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZXBwM285bmc4ZWo1OXV2@45.128.12.20:14249#🇸🇬 Сингапур
+vless://c538c9dd-2e3f-488f-a8ca-ac5b7c0773f3@47.237.74.17:16263?type=tcp&packetEncoding=none#🇸🇬 Сингапур

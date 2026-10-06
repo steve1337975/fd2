@@ -1,9 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN EE — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 19:01
-# servers-count: 3
+# generated-at: 2026-10-06 22:59
+# servers-count: 6
 
-vless://919a2568-3add-44ec-a769-915adad37bd2@185.155.55.3:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ee-nf.reddotcorp.org&fp=chrome&security=reality&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&sid=661766b2bcef440a#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
-vless://919a2568-3add-44ec-a769-915adad37bd2@185.155.55.3:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&security=reality&sid=661766b2bcef440a&sni=ee-nf.reddotcorp.org&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
-vless://f622c73a-1532-4832-8e15-754191752209@13.143.239.67:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fQvafZ0GP7J-BM4z0Y3zcnu9iNTdbC-eto3XccpK_Ec&security=reality&sid=1ca2119aa517c7&sni=eeconverter.teddylink.com&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?type=ws#🇪🇪 Эстония
+vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@95.85.242.166:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ee-root.sworkingvpn.com&fp=chrome&security=reality&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
+vless://06c4e938-2954-478f-a870-ca1b163e30e9@94.183.170.135:443?type=ws&sni=94.183.170.135&packetEncoding=none#🇪🇪 Эстония
+vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@95.85.242.166:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=ee-root.sworkingvpn.com&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
+vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@95.85.242.166:443?encryption=none&flow=xtls-rprx-vision&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=ee-root.sworkingvpn.com&type=tcp&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
+vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@95.85.242.166:443?encryption=none&flow=xtls-rprx-vision&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=ee-root.sworkingvpn.com&type=tcp&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D

@@ -1,8 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN JP — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 19:01
-# servers-count: 2
+# generated-at: 2026-10-06 22:59
+# servers-count: 6
 
+vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?encryption=none&path=/#🇯🇵 Япония
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=tcp&sni=152.69.195.67#🇯🇵 Япония
+vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?type=raw#🇯🇵 Япония
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#🇯🇵 Япония
-hysteria2://my_super_password_123@158.101.148.79:443?sni=open.2ml.bid#🇯🇵 Япония
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=tcp&packetEncoding=none#🇯🇵 Япония
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@154.31.114.162:8443?encryption=none&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN

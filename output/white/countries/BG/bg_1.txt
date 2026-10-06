@@ -1,0 +1,8 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN BG — #1
+# profile-update-interval: 1
+# generated-at: 2026-10-06 22:59
+# servers-count: 2
+
+vless://75bf4758-0dfa-4b7e-8a73-813088edb780@2.27.105.172:443?encryption=none&flow=xtls-rprx-vision&pbk=koIuNibeQcUFNPBwA_jvFdKgd8-GHT7RcjPhq9EywAQ&security=reality&sid=bb186e4397a2792d&sni=www.yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: www.yandex.ru ┃ 🇩🇪 Германия
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&fp=chrome&type=grpc&serviceName=home.v1.ApiService&sni=bg3.univesalsrv.com&sid=1be1bd931c98c84a#🇧🇬 Болгария
