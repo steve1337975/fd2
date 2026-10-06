@@ -1,7 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN KR — #1
+# profile-title: VPN IN — #1
 # profile-update-interval: 1
 # generated-at: 2026-10-06 00:13
 # servers-count: 1
 
-vless://81c4547b-e5d8-4af8-baf0-91c5c0c05a9b@icn-a-01.auuas.com:1891?security=reality&flow=xtls-rprx-vision&pbk=mKvw6P0pTdasFPgyT3d_rHJSJfA-aaCxV8krGByqQS0&sid=8378f267&sni=www.npmjs.com&type=tcp&headerType=none&host=www.npmjs.com&path=%2F&fp=android#%F0%9F%87%B0%F0%9F%87%B7%20AetrisVPN
+vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&encryption=none&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&headerType=&fp=chrome&type=tcp&sni=www.apple.com&sid=9980e0609b0d3891#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇮🇳 Индия

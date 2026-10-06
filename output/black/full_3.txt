@@ -1,0 +1,25 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN BLACK — #3
+# profile-update-interval: 1
+# generated-at: 2026-10-06 00:13
+# servers-count: 19
+
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@95.85.227.129:443?encryption=none&security=tls&sni=bab-6.site&fp=chrome&type=ws&path=%2Fvws%2F&host=bab-6.site#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@134.195.101.119:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D%28Telegram%F0%9F%87%A8%F0%9F%87%B3+%40VPNine1%29fa03bb5%3A137563#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://3aef55f1-4824-432e-82ce-6f8a9e8b2700@81.17.159.115:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dk88.sonicsonic.icu&fp=qq&security=reality&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&sid=#%F0%9F%87%A9%E8%B7%A8%20AetrisVPN
+vless://bc659d88-a1e0-4c65-a49a-7b51b26a7a7f@87.192.47.10:52006?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=grok.setlisting.ru#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%2C%20Sandyford%20%28Sandyford%20Business%20Park%29%20%7C%20%5BBL%5D
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?encryption=none&type=raw&security=reality&sni=addons.mozilla.org&fp=qq&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headertype=none#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taipei%20%7C%20%5BBL%5D
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.56.113.202:443?encryption=none&security=tls&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&host=fzo5i.ir46.90k.hh.ov0.kdns.fr#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B1%F0%9F%87%BB%20%7C%20%5BBL%5D
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#🇺🇸 США
+vless://eb98ab60-f16d-4662-a740-c89307400939@151.101.213.164:443?insecure=0&sni=accounts.fastly.com&allowInsecure=0&security=tls&type=xhttp&host=fretranxrabet.net&path=%2F&mode=auto&encryption=none&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#🇺🇸 США
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053/?type=tcp&encryption=none&flow=&packetEncoding=xudp#🇩🇪 Германия
+vless://635ac0f9-5e30-4f1d-a74b-604cbbfcf05c@195.19.166.71:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=viva.keeneticdocs.ru&fp=firefox&security=reality&pbk=b3gpqoUVf1RKKAVOE20jxNwx72bT3PwgWG-_LO-R0Sc&sid=ee911749edaad12c#%F0%9F%87%B7%F0%9F%87%BA%20AetrisVPN
+vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?encryption=none&fp=firefox&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E&security=reality&sid=4cc9dc65f7770115&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20AetrisVPN
+vless://ce0cf224-1d6e-466e-a7e3-55aead76afed@cf.877774.xyz:8443?security=tls&type=ws&path=%2Fvless-argofp%3Dchrome&host=aaa.abcai.online&sni=aaa.abcai.online&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
+vless://29c3dd6b-b164-40ca-a0d5-f06aca52a8b2@news.zoom.us:8443?encryption=none&security=tls&sni=u.srilankangrill.online&fp=ios&insecure=0&allowInsecure=0&type=ws&host=u.srilankangrill.online&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Somapah%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://f49d04d6-aaa7-4013-b323-bc35b78230db@159.195.5.79:2083?&security=tls&fp=chrome&sni=s4ws.ragingbull.de5.net&type=ws&headerType=none&host=s4ws.ragingbull.de5.net&path=%2Fwsrb7k2m#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://441afe11-a180-4516-bb80-80a8a6b38705@193.163.203.253:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&security=reality&sid=5ee019e02e6ed99a&sni=yandex.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20AetrisVPN
+vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.28.224:40443?security=reality&flow=xtls-rprx-vision&sni=deepl.com&type=tcp&fp=qq&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8#%F0%9F%87%AE%F0%9F%87%B3%20India%2C%20New%20Delhi%20%7C%20%5BBL%5D
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&security=reality&sid=91af08b1ce1f&sni=www.foxsports.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.59.204.104:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cIgH-cz8JCjHnPQXA4qZNpYWwgYdVKCX3jDhuDbVK24&security=reality&sid=96ef4f5dd00f1ba0&sni=pl3.cloud-static.org&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN

@@ -1,9 +1,9 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN AM — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-05 18:22
+# generated-at: 2026-10-06 00:13
 # servers-count: 3
 
+vless://a4fc35d6-2df2-4319-b1b2-9a0cb5d954f6@157.228.69.248:57163?encryption=none&fp=firefox&pbk=B7tmAX9jcQZkmxfVVW89mAWM6qPTYjgwM4YPknjxa3I&security=reality&sid=e391809558517a&sni=yandex.com.ru&type=grpc#%F0%9F%87%AA%F0%9F%87%B8%20AetrisVPN
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&fp=firefox&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&security=reality&sid=0e&sni=yahoo.com&type=tcp#%F0%9F%87%A6%F0%9F%87%B2%20AetrisVPN
 vless://a4fc35d6-2df2-4319-b1b2-9a0cb5d954f6@157.228.69.248:57163?encryption=none&fp=firefox&pbk=B7tmAX9jcQZkmxfVVW89mAWM6qPTYjgwM4YPknjxa3I&security=reality&sid=e391809558517a&sni=yandex.com.ru&type=grpc#🇦🇲 Армения
-vless://a4fc35d6-2df2-4319-b1b2-9a0cb5d954f6@157.228.69.248:57163?encryption=none&fp=firefox&pbk=B7tmAX9jcQZkmxfVVW89mAWM6qPTYjgwM4YPknjxa3I&security=reality&sid=e391809558517a&sni=yandex.com.ru&type=grpc#%F0%9F%87%AA%F0%9F%87%B8%20AetrisVPN

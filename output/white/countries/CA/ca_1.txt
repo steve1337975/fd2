@@ -1,7 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN CA — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-05 18:22
+# generated-at: 2026-10-06 00:13
 # servers-count: 2
 
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#%F0%9F%87%A8%F0%9F%87%A6%20AetrisVPN
