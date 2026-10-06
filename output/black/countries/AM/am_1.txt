@@ -1,9 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN AM — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 00:13
-# servers-count: 3
+# generated-at: 2026-10-06 06:27
+# servers-count: 4
 
-vless://a4fc35d6-2df2-4319-b1b2-9a0cb5d954f6@157.228.69.248:57163?encryption=none&fp=firefox&pbk=B7tmAX9jcQZkmxfVVW89mAWM6qPTYjgwM4YPknjxa3I&security=reality&sid=e391809558517a&sni=yandex.com.ru&type=grpc#%F0%9F%87%AA%F0%9F%87%B8%20AetrisVPN
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@us3.xiaoliyu.cyou:18333?sni=us3.xiaoliyu.cyou#🇦🇲 Армения
+vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@91.198.108.211:2053?&security=tls&fp=chrome&sni=cf3.schzyc.cc.cd&type=ws&headerType=none&host=cf3.schzyc.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.net#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B2%20%F0%9F%87%AE%F0%9F%87%B6%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%5BBL%5D
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&fp=firefox&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&security=reality&sid=0e&sni=yahoo.com&type=tcp#%F0%9F%87%A6%F0%9F%87%B2%20AetrisVPN
 vless://a4fc35d6-2df2-4319-b1b2-9a0cb5d954f6@157.228.69.248:57163?encryption=none&fp=firefox&pbk=B7tmAX9jcQZkmxfVVW89mAWM6qPTYjgwM4YPknjxa3I&security=reality&sid=e391809558517a&sni=yandex.com.ru&type=grpc#🇦🇲 Армения

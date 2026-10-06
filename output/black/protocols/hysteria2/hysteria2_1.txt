@@ -1,13 +1,22 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN HYSTERIA2 — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 00:13
-# servers-count: 7
+# generated-at: 2026-10-06 06:27
+# servers-count: 16
 
-hysteria2://4ffc5c57-3242-4422-88de-25fb0f7e97bc@media.pantera-radio.ru:443?sni=media.pantera-radio.ru#🇺🇸 США
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@us3.xiaoliyu.cyou:18333?sni=us3.xiaoliyu.cyou#🇦🇲 Армения
+hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@77.239.107.191:8443?sni=wata.internet-card.sbs#🇷🇺 Россия
+hysteria2://0d6e70a5-abfd-4766-8ad4-e502173ba82b@2.26.52.97:443?sni=fi-pwd-003.virtez.pro#🇫🇮 Финляндия
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?sni=ru.xiaoliyu.cyou#🇷🇺 Россия
+hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@45.147.31.52:2443?sni=hy2.78.141.219.189.nip.io#🇸🇨 SC
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?sni=ru.xiaoliyu.cyou&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@e7q.internet-booster.online:2443?sni=hy2.78.141.219.189.nip.io#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+hysteria2://UfRjQpXI5OzVXsOy@de12.h1cloud.net:25096?headerType=none&encryption=none&sni=www.chip.de&pinSHA256=3971349f578bb2949a41b461f068a0b7b23933d98bb4ea9d100b5c5d0a6f7871&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@e7q.internet-booster.online:2443?sni=hy2.78.141.219.189.nip.io#🇸🇨 SC
+hysteria2://4ffc5c57-3242-4422-88de-25fb0f7e97bc@13.143.232.86:443?sni=media.pantera-radio.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
 hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=www.docker.com&security=tls#🇫🇷 Франция
-hysteria2://4ffc5c57-3242-4422-88de-25fb0f7e97bc@13.143.232.86:443/?sni=media.pantera-radio.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
-hysteria2://4ffc5c57-3242-4422-88de-25fb0f7e97bc@13.143.232.86:443?sni=media.pantera-radio.ru#🇺🇸 США
+hysteria2://4ffc5c57-3242-4422-88de-25fb0f7e97bc@media.pantera-radio.ru:443?sni=media.pantera-radio.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
+hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@e7q.internet-booster.online:2443?sni=hy2.78.141.219.189.nip.io#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+hysteria2://4ffc5c57-3242-4422-88de-25fb0f7e97bc@201.10.91.58:443?sni=mix.pantera-radio.ru#🇵🇱 Польша
+hysteria2://4ffc5c57-3242-4422-88de-25fb0f7e97bc@mix.pantera-radio.ru:443?sni=mix.pantera-radio.ru&security=tls#🇵🇱 Польша
+hysteria2://my_super_password_123@open.2ml.bid:443#🇯🇵 Япония
+hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@153.76.194.154:8443?sni=northernleaf.gazette.help#🇫🇮 Финляндия

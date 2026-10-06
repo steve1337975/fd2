@@ -1,17 +1,23 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN SC — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 00:13
-# servers-count: 11
+# generated-at: 2026-10-06 06:27
+# servers-count: 17
 
-vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.170:443?encryption=none&flow=xtls-rprx-vision&pbk=cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA&security=reality&sid=f6d23c76d0362796&sni=ai.rtnode.site&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.185:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA&security=reality&sid=f6d23c76d0362796&sni=cdn249.yump.online&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.170:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA&security=reality&sid=f6d23c76d0362796&sni=ai.rtnode.site&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@e7q.internet-booster.online:2443?sni=hy2.78.141.219.189.nip.io#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
+vless://40af9131-d540-448a-bc56-5bba147a1dc3@154.211.8.152:2053?type=ws&security=tls&fp=random&host=proxy-1cu.pages.dev&ed=2560#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
+vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.170:443?encryption=none&flow=xtls-rprx-vision&pbk=cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA&security=reality&sid=f6d23c76d0362796&sni=ai.rtnode.site&type=tcp&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.170:443?encryption=none&flow=xtls-rprx-vision&pbk=cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA&security=reality&sid=f6d23c76d0362796&sni=ai.rtnode.site&type=tcp&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@45.147.31.52:2443?sni=hy2.78.141.219.189.nip.io#🇸🇨 SC
+hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@e7q.internet-booster.online:2443?sni=hy2.78.141.219.189.nip.io#🇸🇨 SC
+trojan://humanity@45.205.0.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
 trojan://humanity@45.205.0.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.182:443?encryption=none&flow=xtls-rprx-vision&pbk=fpYQ3Ml1YhTM0tbf4Ixxx03gxMtOno3iGaq3uoxIszs&security=reality&sid=a7268acdcfef5862&sni=ai.yump.online&type=tcp&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.182:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fpYQ3Ml1YhTM0tbf4Ixxx03gxMtOno3iGaq3uoxIszs&security=reality&sid=a7268acdcfef5862&sni=ai.yump.online&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.139:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lG_61uLyha583CFPxkdXqBW-inIkP8Ejxy3ZIRD0bUU&security=reality&sid=43c9094a4a1eb1c9&sni=gemini.yump.online&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@e7q.internet-booster.online:2443?sni=hy2.78.141.219.189.nip.io#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.170:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA&sid=f6d23c76d0362796&sni=ai.rtnode.site#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.178:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fpYQ3Ml1YhTM0tbf4Ixxx03gxMtOno3iGaq3uoxIszs&security=reality&sid=a7268acdcfef5862&sni=aig.keeneticdocs.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
 vless://635ac0f9-5e30-4f1d-a74b-604cbbfcf05c@45.95.96.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gemini.yump.online&fp=firefox&security=reality&pbk=lG_61uLyha583CFPxkdXqBW-inIkP8Ejxy3ZIRD0bUU&sid=43c9094a4a1eb1c9#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
 ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#🇸🇨 SC
-vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.170:443?encryption=none&flow=xtls-rprx-vision&pbk=cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA&security=reality&sid=f6d23c76d0362796&sni=ai.rtnode.site&type=tcp&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://40af9131-d540-448a-bc56-5bba147a1dc3@154.211.8.152:2053?&security=tls&type=ws&headerType=none&host=proxy-1cu.pages.dev&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
+vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.185:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA&security=reality&sid=f6d23c76d0362796&sni=cdn249.yump.online&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://a47f8110-de83-4c37-b6a7-16010535aef4@45.95.96.170:443?encryption=none&flow=xtls-rprx-vision&pbk=cucAz_3afM4ykkSl8IqlW9LPzQNH2fnQx9tAZTyr0yA&security=reality&sid=f6d23c76d0362796&sni=ai.rtnode.site&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D

@@ -1,7 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN CY — #1
+# profile-title: VPN AM — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 00:13
+# generated-at: 2026-10-06 06:27
 # servers-count: 1
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKZW9xOHVqZmtxWktLdkFDUWhvcUJRMVBBM3VxNDI0Mg==@45.149.114.171:777#🇨🇾 Кипр
+vless://a4fc35d6-2df2-4319-b1b2-9a0cb5d954f6@157.228.69.248:57163?type=grpc&security=reality&fp=firefox&pbk=B7tmAX9jcQZkmxfVVW89mAWM6qPTYjgwM4YPknjxa3I&sid=e391809558517a&sni=yandex.com.ru#🇦🇲 Армения

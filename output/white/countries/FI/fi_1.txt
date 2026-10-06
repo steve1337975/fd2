@@ -1,10 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN FI — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 00:13
+# generated-at: 2026-10-06 06:27
 # servers-count: 4
 
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.145:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#AetrisVPN White list ┃ ✅ SNI: storage.yandex.net ┃ 🇬🇧 Великобритания
 vless://84124a40-4b02-4762-a3a6-6cf43f297724@fimain.fgnconnection.life:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=H46I56wuurV9oQyn2irq5ZleWz_FBpHWmWoqz1Hc-Qc&sid=53c8004fa34e8724#AetrisVPN White list ┃ ✅ SNI: eh.vk.com ┃ 🇫🇮 Финляндия
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.137:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#AetrisVPN White list ┃ ✅ SNI: storage.yandex.net ┃ 🇬🇧 Великобритания
 vless://5a676086-981f-4cdb-9b4e-6d579881a603@2.27.123.221:42062?type=tcp&security=reality&sni=api.vk.com&fp=firefox&pbk=nz_-f0x2HonNSLcydWbXLK_IeDTjMuXeMOPu9XmyxB8&sid=9e#AetrisVPN White list ┃ ✅ SNI: api.vk.com ┃ 🇫🇮 Финляндия
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.145:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#AetrisVPN White list ┃ ✅ SNI: storage.yandex.net ┃ 🇬🇧 Великобритания
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.137:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#AetrisVPN White list ┃ ✅ SNI: storage.yandex.net ┃ 🇬🇧 Великобритания

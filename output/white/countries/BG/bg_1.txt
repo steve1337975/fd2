@@ -1,8 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN BG — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 00:13
-# servers-count: 2
+# generated-at: 2026-10-06 06:27
+# servers-count: 1
 
 vless://75bf4758-0dfa-4b7e-8a73-813088edb780@2.27.105.172:443?encryption=none&flow=xtls-rprx-vision&pbk=koIuNibeQcUFNPBwA_jvFdKgd8-GHT7RcjPhq9EywAQ&security=reality&sid=bb186e4397a2792d&sni=www.yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: www.yandex.ru ┃ 🇩🇪 Германия
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@193.148.57.60:24444?security=reality&encryption=none&pbk=l84FK9JIi4Bx-mhBZIm4K4Td5V_ekOobJmkvNAvklSM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=107acb307423c5aa&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN

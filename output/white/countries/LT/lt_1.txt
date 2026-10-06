@@ -1,7 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN LT — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 00:13
+# generated-at: 2026-10-06 06:27
 # servers-count: 2
 
 vless://9463dae0-cb92-4d8e-93ae-b690456c35fe@5.199.170.83:443?flow=xtls-rprx-vision&sni=web.max.ru&security=reality&pbk=TZHS23NEm_dQqVRkfKVTPM5nPir6-R9Jq21BMkWvf3g&sid=12af42a948ad5b45&fp=qq#AetrisVPN White list ┃ ✅ SNI: web.max.ru ┃ 🇷🇺 Россия

@@ -1,7 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN KR — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 00:13
-# servers-count: 1
+# generated-at: 2026-10-06 06:27
+# servers-count: 6
 
-vless://81c4547b-e5d8-4af8-baf0-91c5c0c05a9b@icn-a-01.auuas.com:1891?security=reality&flow=xtls-rprx-vision&pbk=mKvw6P0pTdasFPgyT3d_rHJSJfA-aaCxV8krGByqQS0&sid=8378f267&sni=www.npmjs.com&type=tcp&headerType=none&host=www.npmjs.com&path=%2F&fp=android#%F0%9F%87%B0%F0%9F%87%B7%20AetrisVPN
+vless://d7ae1d81-f6a6-449b-9af7-f59c792a9e95@125.138.154.17:34616?encryption=none&security=tls&sni=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&fp=chrome&type=ws&path=%2F%40Marisa_kristi&host=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B0%F0%9F%87%B7%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
+vless://342f17d0-d164-4429-8c3d-3839849303f9@61.78.173.61:12020?encryption=none&security=tls&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&type=ws&path=%2F%40Marisa_kristi&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D
+vless://7151a041-9fd5-4099-8c01-92bbe104caf0@61.78.173.61:12020?encryption=none&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&fp=chrome&type=ws&path=%2F%40Marisa_kristi&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D
+vless://751bcc43-c65e-4f74-8bf4-d7e78c8259db@125.138.154.17:34616?encryption=none&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&fp=chrome&type=ws&path=%2F%40Marisa_kristi&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D
+vless://93a942d3-34aa-454b-a687-6d627d503448@61.78.173.61:12020?encryption=none&security=tls&sni=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&fp=chrome&type=ws&path=%2F%40Marisa_kristi&host=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@43.108.37.107:443?fp=chrome&host=edg-2oo.pages.dev&path=%2Fgroups%3Fed%3D2560&security=tls&sni=edg-2oo.pages.dev&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D
