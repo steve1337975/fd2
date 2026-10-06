@@ -1,11 +1,9 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN FR — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 13:30
-# servers-count: 5
+# generated-at: 2026-10-06 19:01
+# servers-count: 3
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@138.124.58.39:443?encryption=none&security=tls&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&host=fzo5i.ir46.90k.hh.ov0.kdns.fr#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=www.docker.com&security=tls#🇫🇷 Франция
-vless://59ab9bbf-3f08-4992-bbf3-4faddceb8e49@lv1d.lynch.ir:4040?type=raw&security=reality&fp=chrome&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&sid=73693dea6faae051&sni=www.actionvfx.com#🇫🇷 Франция
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.56.146.139:443?encryption=none&security=tls&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&host=fzo5i.ir46.90k.hh.ov0.kdns.fr#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.57.109.102:443?encryption=none&security=tls&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&host=fzo5i.ir46.90k.hh.ov0.kdns.fr#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
+hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=www.docker.com&security=tls#🇫🇷 Франция
+vless://59ab9bbf-3f08-4992-bbf3-4faddceb8e49@89.208.97.84:4040?encryption=none&fp=firefox&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&security=reality&sid=73693dea6faae051&sni=www.actionvfx.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN

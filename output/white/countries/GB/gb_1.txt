@@ -1,10 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN GB — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 13:30
-# servers-count: 4
+# generated-at: 2026-10-06 19:01
+# servers-count: 1
 
-vless://22b17a8a-f8de-4841-976b-8930ae86dadb@130.78.218.195:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=rt.api.operator.mail.ru&sid=428ef87fd47a3a32#AetrisVPN White list ┃ ✅ SNI: rt.api.operator.mail.ru ┃ 🇩🇪 Германия
 vless://b4caaf57-ad77-4948-a6f5-51b3513799bf@46.250.250.149:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=9922313fffed1c63&pbk=hieuCHb3HYdDYHmTDyWw2SGqyfo36AVuA-wSiZMdU1M#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇫🇷 Франция
-vless://7d40449f-92df-4256-9607-679241455d49@91.193.17.111:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=6Jm0J6DFfO2P-OOUd1OygjPigR4nQjLY5vpUsM83OXM&sid=4967e8608eb2a42c&sni=drive.yandex.ru&path=&host=#AetrisVPN White list ┃ ✅ SNI: drive.yandex.ru ┃ 🇺🇸 США
-vless://41618f24-d61d-4a8a-9f9c-6967ccb55d72@ukw-1.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=edge&pbk=cgXsLCAKHpA2hdGPl75HOquSlaxK9HJCn1p623U1Sz4&sid=54fa5b651f84e695&type=tcp&headerType=none#AetrisVPN White list ┃ ✅ SNI: eh.vk.com ┃ 🇺🇸 США

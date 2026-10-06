@@ -1,11 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN RO — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 13:30
-# servers-count: 5
+# generated-at: 2026-10-06 19:01
+# servers-count: 7
 
-vless://919a2568-3add-44ec-a769-915adad37bd2@95.133.247.19:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.atlanta-api.com&fp=random&pbk=dJqaQL_kSl2DFR7Dx3igZXhPuw1uW9d7XejtyYSvkGg&sid=aaa2ba7d45c12957&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20AetrisVPN
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@85.90.196.11:443?encryption=none&fp=firefox&host=fzo5i.ir46.90k.hh.ov0.kdns.fr&path=/glasspanel/guest000_0_5de14443985f/&security=tls&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.108:4443?security=tls&sni=grape-test-italy.dynuddns.net&type=tcp&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B3%F0%9F%87%B4%20%7C%20%5BBL%5D
 trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.107:4443?fp=firefox&security=tls&sni=grape-test-italy.dynuddns.net&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
 vless://919a2568-3add-44ec-a769-915adad37bd2@95.133.247.19:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dJqaQL_kSl2DFR7Dx3igZXhPuw1uW9d7XejtyYSvkGg&security=reality&sid=aaa2ba7d45c12957&sni=fr.atlanta-api.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@109.104.106.149:443?security=reality&flow=xtls-rprx-vision&pbk=a_v5l6R-rpVGlENLeONW4sz-GdRwIoDqISOWXGov8nw&sid=87709fed663228e5&fp=edge&sni=d3-ro.cloud-cdn.xyz&type=tcp&headerType=none&host=d3-ro.cloud-cdn.xyz&path=%2F#%F0%9F%87%B7%F0%9F%87%B4%20AetrisVPN
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@85.90.196.11:443?encryption=none&security=tls&sni=fzo5i.ir46.90k.hh.ov0.kdns.fr&type=ws&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F&host=fzo5i.ir46.90k.hh.ov0.kdns.fr#%F0%9F%87%B0%F0%9F%87%B7%20AetrisVPN
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@103.244.145.138:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=f4EJP55daJRlJkcZbbGsY-gFGGFGiXPPdfVxtNWQPCE&security=reality&sid=c8621ebb1e56abb3&sni=zsde.eu-cdn294.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.108:4443?security=tls&sni=grape-test-italy.dynuddns.net&type=tcp&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B3%F0%9F%87%B4%20%7C%20%5BBL%5D

@@ -1,22 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN HYSTERIA2 — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 13:30
-# servers-count: 16
+# generated-at: 2026-10-06 19:01
+# servers-count: 6
 
-hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@e7q.internet-booster.online:2443?sni=hy2.78.141.219.189.nip.io#🇸🇨 SC
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@us3.xiaoliyu.cyou:18333?insecure=1#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=www.docker.com&security=tls#🇫🇷 Франция
-hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@e7q.internet-booster.online:2443?sni=hy2.78.141.219.189.nip.io#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@us3.xiaoliyu.cyou:18333?sni=us3.xiaoliyu.cyou#🇦🇲 Армения
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@us3.xiaoliyu.cyou:18333?insecure=1&sni=us3.xiaoliyu.cyou#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@77.239.107.191:8443?sni=wata.internet-card.sbs&alpn=h3#🇷🇺 Россия
+hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@153.76.194.154:8443?sni=northernleaf.gazette.help#🇫🇮 Финляндия
 hysteria2://my_super_password_123@158.101.148.79:443?sni=open.2ml.bid#🇯🇵 Япония
-hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@153.76.194.154:8443/?sni=northernleaf.gazette.help#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
-hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@153.76.194.154:8443?sni=northernleaf.gazette.help&alpn=h3#🇫🇮 Финляндия
-hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@153.76.194.154:8443?sni=northernleaf.gazette.help&alpn=h3#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?sni=ru.xiaoliyu.cyou#🇷🇺 Россия
-hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@45.147.31.52:2443?sni=hy2.78.141.219.189.nip.io#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
-hysteria2://QFO6ZOwTxjvD8ITXouHLh_Rrp-QC3rXnZRTnShz_GcJPRsPXQ4QV456o1TN6ISbN@45.147.31.52:2443?sni=hy2.78.141.219.189.nip.io#🇸🇨 SC
 hysteria2://4ffc5c57-3242-4422-88de-25fb0f7e97bc@mix.pantera-radio.ru:443?sni=mix.pantera-radio.ru&security=tls#🇵🇱 Польша
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@ru.xiaoliyu.cyou:18333?insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@us3.xiaoliyu.cyou:18333?sni=us3.xiaoliyu.cyou#🇦🇲 Армения

@@ -1,7 +1,0 @@
-# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN DK — #1
-# profile-update-interval: 1
-# generated-at: 2026-10-06 13:30
-# servers-count: 1
-
-vless://3aef55f1-4824-432e-82ce-6f8a9e8b2700@81.17.159.115:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dk88.sonicsonic.icu&fp=qq&security=reality&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&sid=#%F0%9F%87%A9%E8%B7%A8%20AetrisVPN

@@ -1,8 +1,0 @@
-# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN IR — #1
-# profile-update-interval: 1
-# generated-at: 2026-10-06 13:30
-# servers-count: 2
-
-vless://6acbfd38-2332-4ef5-a09b-fdd74508ef76@194.1.155.84:11888?encryption=none&fp=firefox&pbk=EIVAlBAmThw5_pZ4Vqim-jaNaSXYcL9x9WwAzj5yyDE&security=reality&sid=bd47be887ad09611&sni=www.amazon.com&type=xhttp#%F0%9F%87%A6%F0%9F%87%AA%20AetrisVPN
-vless://6acbfd38-2332-4ef5-a09b-fdd74508ef76@193.228.90.116:11225?encryption=none&security=reality&sni=www.amazon.com&fp=random&pbk=qCb9RZqV7zP8Hf2_8IlbKfLY5cuUJYl4_Jffhn1gKE0&sid=1e7864e097dcbeb9&type=xhttp&path=%2F&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN

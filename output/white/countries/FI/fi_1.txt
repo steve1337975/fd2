@@ -1,8 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN FI — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 13:30
-# servers-count: 2
+# generated-at: 2026-10-06 19:01
+# servers-count: 7
 
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.145:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#AetrisVPN White list ┃ ✅ SNI: storage.yandex.net ┃ 🇬🇧 Великобритания
-vless://50e233ee-836c-42ed-a207-56ba63b40c09@45.149.147.93:8443?type=tcp&security=reality&sni=max.ru&fp=safari&flow=xtls-rprx-vision&pbk=7WI__yFrBoc5yAdDM4XFqfklSLxWXXW0W_xytXC6L08&sid=6511a9b59d0a90fc#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇫🇷 Франция
+vless://20ef7310-0b50-4943-98a6-3d0856b383b1@fi.alpheratzz.org:443/?type=xhttp&encryption=none&flow=&host=fi.alpheratzz.org&path=%2F&mode=auto&security=tls&sni=20ef7310.ferrin.uk&alpn=h2&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
+vless://20ef7310-0b50-4943-98a6-3d0856b383b1@fi.alpheratzz.org:443/?type=xhttp&encryption=none&flow=&host=fi.alpheratzz.org&path=%2F&mode=auto&security=tls&sni=20ef7310.ferrin.uk&alpn=h2&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
+vless://20ef7310-0b50-4943-98a6-3d0856b383b1@fi.alpheratzz.org:443?encryption=none&security=tls&sni=20ef7310.ferrin.uk&alpn=h2&type=xhttp&path=%2F&mode=stream-one&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
+vless://20ef7310-0b50-4943-98a6-3d0856b383b1@fi.alpheratzz.org:443?encryption=none&security=tls&sni=20ef7310.ferrin.uk&alpn=h2&type=xhttp&path=%2F&mode=stream-one&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
+vless://20ef7310-0b50-4943-98a6-3d0856b383b1@fi.alpheratzz.org:443/?type=xhttp&encryption=none&flow=&host=fi.alpheratzz.org&path=%2F&mode=auto&security=tls&sni=20ef7310.ferrin.uk&alpn=h2&fp=safari#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
+vless://20ef7310-0b50-4943-98a6-3d0856b383b1@fi.alpheratzz.org:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=20ef7310.ferrin.uk&path=%2F&host=fi.alpheratzz.org&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D
+vless://20ef7310-0b50-4943-98a6-3d0856b383b1@fi.alpheratzz.org:443?encryption=none&security=tls&sni=20ef7310.ferrin.uk&alpn=h2&type=xhttp&path=%2F&mode=stream-one&fp=android#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D

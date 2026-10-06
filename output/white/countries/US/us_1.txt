@@ -1,25 +1,21 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN US — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 13:30
-# servers-count: 19
+# generated-at: 2026-10-06 19:01
+# servers-count: 15
 
-vless://95003356-20f9-4c84-a21f-2f9c1fc285eb@us5.h1cloud.net:25178?encryption=none&security=reality&sni=www.icloud.com&pbk=UTK3fM9wiII4uIcBYUYJwppN1HezxBPhxPfIxDHZqj4&sid=ce43937e79bc30f0&spx=%2F&type=tcp&headerType=none&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-vless://95003356-20f9-4c84-a21f-2f9c1fc285eb@us5.h1cloud.net:25177?encryption=none&security=reality&sni=www.icloud.com&pbk=Fx-24jm_CeI_bLPdVD_5vq-mxRuyWGmqqvQTs8fnFlk&sid=5941fdd509782e74&spx=%2F&type=grpc&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&security=reality&sid=bbe46bd8f6b96839&sni=yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇩🇪 Германия
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=yandex.ru&fp=firefox&flow=xtls-rprx-vision&sid=bbe46bd8f6b96839&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇸🇬 Сингапур
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-vless://ad7a9316-1953-439a-854f-66355100a004@finland.nebesniy.com:8443?security=reality&encryption=none&pbk=RMC9Mz6Q-ZCQzvDTcaWyfb5TkgN0kRilWjlY1zXaGk8&headerType=none&fp=random&spx=%2Fmarqusha_vpn&type=tcp&flow=xtls-rprx-vision&sni=cloud.mail.ru&sid=ac925c392e4f#AetrisVPN White list ┃ ✅ SNI: cloud.mail.ru ┃ 🇺🇸 США
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
 vless://3710fc0f-5f0c-4b9c-a5d4-40cb419e943a@144.31.93.231:443?security=reality&type=tcp&packetEncoding=xudp&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&sid=b97e7d4582b6fa6e&pbk=WKN5yaRN05O2WdCURXRmS-yBVYaabaFWOvGudX6ohWc&encryption=none#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@usa.vrsvpn.com:444?type=grpc&security=reality&fp=ios&pbk=MF_E-_CYAXdWxC1N_wTkdFyk3K7_1cNqNDPb0vnwl20&sid=8311761729abcdef&sni=web.max.ru&serviceName=web.max.ru#AetrisVPN White list ┃ ✅ SNI: web.max.ru ┃ 🇺🇸 США
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&security=reality&sid=bbe46bd8f6b96839&sni=yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
+vless://352ff568-f971-4613-bf48-92997a5d44ed@23.95.222.127:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=35cd899f8de04801&pbk=ribQDOlZ69PzvZ1EDF0EcmMvbq_T5RQrVRBSGUU2riU#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇩🇪 Германия
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
+vless://352ff568-f971-4613-bf48-92997a5d44ed@23.95.222.127:8443?flow=xtls-rprx-vision&fp=chrome&pbk=ribQDOlZ69PzvZ1EDF0EcmMvbq_T5RQrVRBSGUU2riU&security=reality&sid=35cd899f8de04801&sni=www.apple.com&type=tcp#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇺🇸 США
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
+vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:18662?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇺🇸 США
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?security=reality&encryption=none&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=bbe46bd8f6b96839#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?&security=reality&flow=xtls-rprx-vision&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&fp=firefox&sni=yandex.ru&type=tcp&headerType=none&host=yandex.ru&path=%2F#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#🇺🇸 США
+vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&security=reality&sid=bbe46bd8f6b96839&sni=yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇫🇮 Финляндия
+vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&security=reality&sid=bbe46bd8f6b96839&sni=yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия

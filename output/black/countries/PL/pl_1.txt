@@ -1,20 +1,16 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN PL — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 13:30
-# servers-count: 14
+# generated-at: 2026-10-06 19:01
+# servers-count: 10
 
-vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@94.183.157.192:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=pl-root.sworkingvpn.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.207:705?type=grpc&security=reality&fp=firefox&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&sni=www.kayak.com#🇵🇱 Польша
 vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@94.183.157.192:443?security=reality&encryption=none&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl-root.sworkingvpn.com&sid=15bcc0a77c3cacdf#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@95.85.227.129:443?encryption=none&security=tls&sni=bab-6.site&fp=chrome&type=ws&path=%2Fvws%2F&host=bab-6.site#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.200:705?type=grpc&security=reality&fp=random&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&sni=www.kayak.com&mode=gun#🇵🇱 Польша
-vless://67bb6612-261d-47b5-811e-aa2aeb2100c7@150.251.113.167:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl1.utchka.cc&fp=random&pbk=QYYWux_XJsX_-GtwF5TJ4YVgtP-_YYxVDzg1YHWOyUw&sid=3f91d6a8c2e754b0&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
-vless://619f8d27-b403-4913-b589-55d4dda0d56a@62.132.117.17:43439?encryption=none&security=reality&sni=cdn.24cloudplay.ru&fp=random&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=39ad36226f3abec8&type=grpc&serviceName=streaming#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
-vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@94.183.157.192:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl-root.sworkingvpn.com&fp=random&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@45.192.12.111:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.207:705?mode=gun&security=reality&encryption=none&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&fp=chrome&type=grpc&sni=www.kayak.com#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.201:705?mode=gun&security=reality&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&fp=edge&spx=%2F&type=grpc&sni=www.kayak.com#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
-vless://67bb6612-261d-47b5-811e-aa2aeb2100c7@150.251.113.167:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QYYWux_XJsX_-GtwF5TJ4YVgtP-_YYxVDzg1YHWOyUw&security=reality&sid=3f91d6a8c2e754b0&sni=pl1.utchka.cc&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.201:705?type=grpc&security=reality&fp=random&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&sni=www.kayak.com&mode=gun&spx=/#🇵🇱 Польша
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.207:705?type=grpc&security=reality&fp=random&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&sni=www.kayak.com&mode=gun#🇵🇱 Польша
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@pl-2070d4dca0.shamanapp.online:33740/?type=xhttp&encryption=none&flow=&host=pl-2070d4dca0.shamanapp.online&path=%2FShamanXHTTP2026&mode=stream-up&security=tls&sni=pl-2070d4dca0.shamanapp.online&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@pl-2070d4dca0.shamanapp.online:33740?mode=stream-up&path=%2FShamanXHTTP2026&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=pl-2070d4dca0.shamanapp.online&fp=chrome&type=xhttp&sni=pl-2070d4dca0.shamanapp.online#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
+vless://4f625bca-c923-40fa-8fb9-18b09b642723@144.31.2.75:443?mode=stream-one&path=/api/v1/connect&security=reality&encryption=none&pbk=b32p0P-hFC6YgIhS4wCzl87WyyeJQuupOlTvRKQzwQI&fp=chrome&type=xhttp&sni=web.wispwardengame.net&sid=a1b2c3d4e5f6a7b8#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
 hysteria2://4ffc5c57-3242-4422-88de-25fb0f7e97bc@mix.pantera-radio.ru:443?sni=mix.pantera-radio.ru&security=tls#🇵🇱 Польша
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.207:705?encryption=none&fp=firefox&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&security=reality&sni=www.kayak.com&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN

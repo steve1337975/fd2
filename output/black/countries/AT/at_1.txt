@@ -1,7 +1,8 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN AT — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 13:30
-# servers-count: 1
+# generated-at: 2026-10-06 19:01
+# servers-count: 2
 
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.104.63.173:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&security=reality&sid=8fbdc8d37cc76852&sni=zsat.eu-cdn294.com&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20AetrisVPN
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@3zot60.anusvovi.stream:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=zsat.eu-cdn294.com&fp=firefox&security=reality&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&sid=8fbdc8d37cc76852#%F0%9F%87%A6%F0%9F%87%B9%20AetrisVPN
+vless://9f5b9ca7-d0bb-4e50-a3ca-acf5968027fc@193.32.8.238:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YqGEAa1FewP1zZRUOpbObWV4LRMTdX81pHRlZrU80js&security=reality&sid=42c8ccf0c7fc226a&sni=at-08-10.zetnik.site&type=tcp#%F0%9F%87%A6%F0%9F%87%B9%20AetrisVPN

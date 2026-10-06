@@ -1,8 +1,9 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN EE — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 13:30
-# servers-count: 2
+# generated-at: 2026-10-06 19:01
+# servers-count: 3
 
-vless://75f16ff9-6f18-4492-9abc-27e4a2069adb@185.200.196.201:443?security=reality&encryption=none&pbk=6p2zpZTSYvJQeK8Fe4KWkVmMlYFjsTFYp1eyCf6hnUg&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es.t1n2.com&sid=0aeb646b995db998#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
-vless://d77ad0b7-f73d-48b6-a37f-df435cabe889@93.89.220.24:1443?type=tcp&headerType=none&security=reality&encryption=none&sni=ee.cloude.one&fp=edge&pbk=2i0Ts_clPXJWv_gtpgo4Wsqrn10V7Y3xI1YGssvVD1w&sid=8d31ee9fb75b3061&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20AetrisVPN
+vless://919a2568-3add-44ec-a769-915adad37bd2@185.155.55.3:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ee-nf.reddotcorp.org&fp=chrome&security=reality&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&sid=661766b2bcef440a#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
+vless://919a2568-3add-44ec-a769-915adad37bd2@185.155.55.3:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&security=reality&sid=661766b2bcef440a&sni=ee-nf.reddotcorp.org&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
+vless://f622c73a-1532-4832-8e15-754191752209@13.143.239.67:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fQvafZ0GP7J-BM4z0Y3zcnu9iNTdbC-eto3XccpK_Ec&security=reality&sid=1ca2119aa517c7&sni=eeconverter.teddylink.com&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN

@@ -1,17 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN FI — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 13:30
-# servers-count: 11
+# generated-at: 2026-10-06 19:01
+# servers-count: 6
 
-vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@78.17.34.250:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=fl-root.sworkingvpn.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
-vless://790910c3-9a97-4375-998a-fcc36b0a2902@212.237.216.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QsXrvjhVX6Kwp5Gn9dMx8F9p3wUzXAp7ETkbPodmdC8&security=reality&sid=af0c601348f39d8a&sni=repo1.maven.org&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
-hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@153.76.194.154:8443/?sni=northernleaf.gazette.help#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
 vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@78.17.34.250:443?security=reality&encryption=none&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fl-root.sworkingvpn.com&sid=15bcc0a77c3cacdf#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
-hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@153.76.194.154:8443?sni=northernleaf.gazette.help&alpn=h3#🇫🇮 Финляндия
-hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@153.76.194.154:8443?sni=northernleaf.gazette.help&alpn=h3#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
-vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@13.143.129.45:443?security=reality&encryption=none&pbk=CsoM3VUYii1XxgxnrT4VEe-EALgn60k6BaKMJVP9qAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=7dd08043#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
-vless://3d3cc1bc-3d6f-7535-a531-19a1797952bc@64.188.76.98:443?security=reality&encryption=none&pbk=CMapQtcGwG9JWAcoCtiDNy4LvanIBOJ6sXBEW9L7vCw&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=platform-api.max.ru&sid=51ed7f46f0779f70#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@37.143.129.197:443?type=grpc&security=reality&fp=firefox&pbk=wkOdDtGijULUqkGSJv2aHGctI7Ss8GnOE1iS8QNwwjo&sid=98e90c117acf8155&sni=fi9.eu-cdn294.com&serviceName=1f251e273f#🇫🇮 Финляндия
 vless://c47b421f-65f1-4190-b7ba-bd2045086fe4@193.23.201.172:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=diw5L3O4EkRQGWDSfdpQooPUc3zBTItooeOQ_fIDFWI&security=reality&sid=7f2e9c4b1a8d6e53&sni=yahoo.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
-vless://b6282854-51f6-4b33-b979-ff355ec47c57@2.27.31.134:443?security=reality&encryption=none&pbk=f3B_39CgE2XFRjvLWcNZIea67Ekk8_50mE2TWAYh7UQ&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fi1.t1n2.com&sid=df53e9530d992409#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
+hysteria2://axP-VNWeg-V-Bd_ZaSJGxWbWEE-t35Y2@153.76.194.154:8443?sni=northernleaf.gazette.help#🇫🇮 Финляндия
+vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@78.17.176.174:11515?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&security=reality&sid=65149fc5ba&sni=www.sony.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
+vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@78.17.34.250:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=fl-root.sworkingvpn.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
+vless://3d3cc1bc-3d6f-7535-a531-19a1797952bc@64.188.76.98:443?security=reality&encryption=none&pbk=CMapQtcGwG9JWAcoCtiDNy4LvanIBOJ6sXBEW9L7vCw&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=platform-api.max.ru&sid=51ed7f46f0779f70#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
