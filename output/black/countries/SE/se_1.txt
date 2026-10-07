@@ -1,8 +1,8 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN SE — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-07 15:48
+# generated-at: 2026-10-07 20:49
 # servers-count: 2
 
-vless://e72272b3-f14b-4144-8670-68c44710e36d@64.188.81.52:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=palmych.lat&fp=random&pbk=yJ3MjqjMT254LNKm_S9S4GKrDeyll3X8-tjibI5cBTs&sid=7196c9&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20AetrisVPN
-vless://fc48c074-dd47-4e4c-bf36-30d40733bcef@81.90.21.26:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BPGMalRGP2MljH9ns31Om2wudY0_xMLXzAx0zyzwP28&security=reality&sni=unit-se.pantherstore.space&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20AetrisVPN
+vless://c20751de-06c3-4044-b6a4-eebc9b040d92@swebz.loozerp.wiki:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swebz.loozerp.wiki&fp=qq&security=reality&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a#%F0%9F%87%B8%F0%9F%87%AA%20AetrisVPN
+vless://c20751de-06c3-4044-b6a4-eebc9b040d92@5.157.10.250:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swebz.loozerp.wiki&fp=&security=reality&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a#%F0%9F%87%B8%F0%9F%87%AA%20AetrisVPN

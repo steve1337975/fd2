@@ -1,13 +1,9 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN EE — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-07 15:48
-# servers-count: 7
+# generated-at: 2026-10-07 20:49
+# servers-count: 3
 
-vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@95.85.242.160:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ee-root.sworkingvpn.com&fp=random&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
-vless://73705990-99fd-4deb-98b4-91ca7bf9bbc0@132.243.65.86:443?encryption=none&security=tls&sni=ee2x.global-cdn.org&fp=random&type=grpc&serviceName=content.v1.Feed#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
 vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@95.85.242.166:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ee-root.sworkingvpn.com&fp=chrome&security=reality&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
-vless://8fc806fa-350b-4548-937a-2bf35f7fe7eb@5.175.178.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&security=reality&sid=ae64c9b46bff174a&sni=ee1.sky-vault.top&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
-vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@95.85.242.166:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ee-root.sworkingvpn.com&fp=chrome&security=reality&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
-vless://8fc806fa-350b-4548-937a-2bf35f7fe7eb@5.175.178.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&security=reality&sid=ae64c9b46bff174a&sni=ee1.sky-vault.top&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
-vless://fc48c074-dd47-4e4c-bf36-30d40733bcef@143.246.41.33:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=unit-es.pantherstore.space&fp=random&pbk=cnt0KQVYb0u2a7MKoQ1v4UoXm3yfVDi8IDTDWMVgVm8&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@ee-2e06d85dc0.shamanapp.online:34451?mode=stream-up&path=%2FShamanXHTTP2026&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ee-2e06d85dc0.shamanapp.online&fp=chrome&type=xhttp&sni=ee-2e06d85dc0.shamanapp.online#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@31.56.187.208:34451?encryption=none&fp=firefox&host=ee-2e06d85dc0.shamanapp.online&path=/ShamanXHTTP2026&security=tls&sni=ee-2e06d85dc0.shamanapp.online&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D

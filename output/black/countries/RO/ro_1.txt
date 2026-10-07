@@ -1,8 +1,9 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN RO — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-07 15:48
-# servers-count: 2
+# generated-at: 2026-10-07 20:49
+# servers-count: 3
 
-trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.108:4443?sni=grape-test-italy.dynuddns.net&peer=grape-test-italy.dynuddns.net&security=tls&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20AetrisVPN
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@pa6r26.eu-cdn539.com:443?security=reality&encryption=none&sni=zsde.eu-cdn294.com&fp=firefox&pbk=f4EJP55daJRlJkcZbbGsY-gFGGFGiXPPdfVxtNWQPCE&sid=c8621ebb1e56abb3&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.108:4443?security=tls&sni=grape-test-italy.dynuddns.net&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20AetrisVPN
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@103.244.145.144:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=zsde.eu-cdn294.com&fp=random&pbk=f4EJP55daJRlJkcZbbGsY-gFGGFGiXPPdfVxtNWQPCE&sid=c8621ebb1e56abb3&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
