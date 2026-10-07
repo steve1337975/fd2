@@ -1,8 +1,9 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN LV — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 22:59
-# servers-count: 2
+# generated-at: 2026-10-07 02:10
+# servers-count: 3
 
 vless://441afe11-a180-4516-bb80-80a8a6b38705@193.163.203.253:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&security=reality&sid=5ee019e02e6ed99a&sni=yandex.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20AetrisVPN
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&security=reality&sid=b28db60d77c50b4f&sni=yandex.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20AetrisVPN
+vless://11c8ca1e-d7e7-46f9-afcb-556e8770a9d0@lv-02.kibosub.com:8443?type=grpc&security=reality&fp=firefox&pbk=I4np_asRMCzTNxbG2GmYckXgsulkO4ghzyjE05Vf4AM&sni=lv-02.kibosub.com&serviceName=lv-01_grpc#🇱🇻 Латвия

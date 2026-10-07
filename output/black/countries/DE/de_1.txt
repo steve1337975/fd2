@@ -1,23 +1,43 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN DE — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-06 22:59
-# servers-count: 17
+# generated-at: 2026-10-07 02:10
+# servers-count: 37
 
+vless://95003356-20f9-4c84-a21f-2f9c1fc285eb@de12.h1cloud.net:25095?encryption=none&security=reality&sni=www.chip.de&pbk=pvXuNe35fkSbA-CVmh6_b3ADAXLY8tBONjnwE8HM8yY&sid=397c81bed08f3f78&type=grpc&authority=&serviceName=f3d967fe8981&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?type=tcp&packetEncoding=none#🇩🇪 Германия
+vless://95003356-20f9-4c84-a21f-2f9c1fc285eb@de12.h1cloud.net:25095?encryption=none&security=reality&sni=www.chip.de&fp=random&pbk=pvXuNe35fkSbA-CVmh6_b3ADAXLY8tBONjnwE8HM8yY&sid=397c81bed08f3f78&type=grpc&serviceName=f3d967fe8981#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://2e511783-125c-466b-925d-a9cd1c98e30e@31.76.11.83:22849?type=tcp#🇩🇪 Германия
+vless://c797b9ad-6f9e-4eee-befd-eef119ec3637@144.31.63.114:443?security=tls&sni=assets-de.pleiades.codes&type=grpc&serviceName=cdn.v1.AssetService&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
+vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@31.76.35.27:443?security=reality&encryption=none&pbk=P-r-oVr8MTTCILgRxk8YuB9OKVojYw3MkH_ERUXzX3s&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=b76a6309#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#🇩🇪 Германия
-vless://95003356-20f9-4c84-a21f-2f9c1fc285eb@de12.h1cloud.net:25089?encryption=none&security=reality&sni=www.chip.de&fp=chrome&pbk=3ZxTHjZ8XHP2aYzLEKUPI3xQ5jYQYrSrIEXlUlULUEA&sid=56d9d9fba348e5e6&spx=%2F&type=tcp&headerType=none#🇷🇺 Россия
-vless://f49d04d6-aaa7-4013-b323-bc35b78230db@185.233.80.164:443?encryption=none&type=ws&path=%2Fwsrb7k2m&host=s3ws.ragingbull.de5.net&security=tls&sni=s3ws.ragingbull.de5.net&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
-trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-vless://95003356-20f9-4c84-a21f-2f9c1fc285eb@de12.h1cloud.net:25095?type=grpc&security=reality&fp=random&pbk=pvXuNe35fkSbA-CVmh6_b3ADAXLY8tBONjnwE8HM8yY&sid=397c81bed08f3f78&sni=www.chip.de&serviceName=f3d967fe8981#🇷🇺 Россия
-vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@31.76.35.27:443?security=reality&encryption=none&pbk=P-r-oVr8MTTCILgRxk8YuB9OKVojYw3MkH_ERUXzX3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=b76a6309&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?encryption=none&security=none&sni=milo.rubinaz.xyz&type=tcp&headerType=none#🇩🇪 Германия
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053/?type=tcp&encryption=none&flow=&packetEncoding=xudp#%F0%9F%87%AA%F0%9F%87%BA%20AetrisVPN
-trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+vless://d7cc299f-13c4-49de-8181-5600e234941d@188.137.228.139:48370?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zfpyEdwui3NTc2zbbxV9BQvF_rvw86EOr8rLQpjku2A&security=reality&sid=dd87d6bd8e0d&sni=play.google.com&spx=/d0f982d5fb347a0&support-x25519mlkem768=true&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://95003356-20f9-4c84-a21f-2f9c1fc285eb@de12.h1cloud.net:25089?encryption=none&security=reality&sni=www.chip.de&fp=chrome&pbk=3ZxTHjZ8XHP2aYzLEKUPI3xQ5jYQYrSrIEXlUlULUEA&sid=56d9d9fba348e5e6&spx=%2F&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://%40ZhilaVPN@46.225.255.204:39100?encryption=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+vless://c797b9ad-6f9e-4eee-befd-eef119ec3637@144.31.63.114:443?security=tls&sni=assets-de.pleiades.codes&type=grpc&serviceName=cdn.v1.AssetService&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
+vless://20ef7310-0b50-4943-98a6-3d0856b383b1@50.7.87.91:443?encryption=none&fp=firefox&security=tls&sni=20ef7310.ferrin.uk&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://ce148dac-7c43-456f-b1eb-e55885e58cf5@45.131.182.201:19771?security=reality&encryption=none&pbk=KR1BiF2E9rjtUF0LoV6A1BwijD3dLKbWe8wlkNMQ7Gk&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=chrome&spx=%2Fde372256a1b9db7&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=60f03ba16a#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://f49d04d6-aaa7-4013-b323-bc35b78230db@46.101.110.88:443?&security=tls&fp=chrome&sni=s4ws.ragingbull.de5.net&type=ws&headerType=none&host=s4ws.ragingbull.de5.net&path=%2Fwsrb7k2m#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://fd260c22-c5a9-47fc-bb68-5b3e890ee7c4@177.3.218.153:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&security=reality&sid=abcd1234&sni=fi2.yservice.help&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-vless://d18c7dfb-94c9-4caa-9d0d-da0e563a71ea@87.239.135.112:443?type=grpc&security=reality&fp=random&pbk=DpCRsmgaFW54dSpiAKYGnN6cNayu9prjZTYGAyiP_jo&sid=025f065c&sni=tel.free-run.club&mode=gun#🇩🇪 Германия
+ss://YWVzLTI1Ni1nY206a0tFZDByQnJkNTZGdXJqeg==@2.58.81.221:80#🇩🇪 Германия
 vless://f49d04d6-aaa7-4013-b323-bc35b78230db@185.233.80.164:443?encryption=none&type=ws&path=%2Fwsrb7k2m&host=s3ws.ragingbull.de5.net&security=tls&sni=s3ws.ragingbull.de5.net&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://b9c54c71-04e7-4d0a-bc20-e915a3cbc12c@85.215.254.37:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lololoshka.grani-gaming.shop&fp=random&pbk=pVIsEy4-3KzcUMefiMKpn11Uc9LqWnUQznXDSySiyGw&sid=91b7c3a4e6d2f058&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@31.76.35.27:443?security=reality&encryption=none&pbk=P-r-oVr8MTTCILgRxk8YuB9OKVojYw3MkH_ERUXzX3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=b76a6309&fp=randomized#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080#🇩🇪 Германия
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?type=raw#🇩🇪 Германия
+trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080/?type=tcp&encryption=none&flow=#🇩🇪 Германия
+vless://d342d11e-d224-4463-b982-532309285094@157.230.101.36:443?encryption=none&type=ws&path=%2F&host=ccc.010304.xyz&security=tls&sni=ccc.010304.xyz&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
+vless://95003356-20f9-4c84-a21f-2f9c1fc285eb@de12.h1cloud.net:25095?encryption=none&security=reality&sni=www.chip.de&fp=chrome&pbk=pvXuNe35fkSbA-CVmh6_b3ADAXLY8tBONjnwE8HM8yY&sid=397c81bed08f3f78&spx=%2F&type=grpc&authority=&serviceName=f3d967fe8981&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://c797b9ad-6f9e-4eee-befd-eef119ec3637@144.31.63.114:443?security=tls&sni=assets-de.pleiades.codes&type=grpc&serviceName=cdn.v1.AssetService&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
+vless://ce148dac-7c43-456f-b1eb-e55885e58cf5@45.131.182.201:19771?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KR1BiF2E9rjtUF0LoV6A1BwijD3dLKbWe8wlkNMQ7Gk&security=reality&sid=60f03ba16a&sni=play.google.com&spx=/de372256a1b9db7&support-x25519mlkem768=true&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&sni=milo.rubinaz.xyz&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+vless://5ffd914e-9594-4198-8327-145f096f8e4c@45.80.111.45:8880?&security=false&fp=chrome&type=ws&headerType=none&host=cnd.singapure.mygold.stream&path=%2Fcdn%2Fassets%2Fstream#🇩🇪 Германия
+vless://d18c7dfb-94c9-4caa-9d0d-da0e563a71ea@87.239.135.112:443?encryption=none&fp=firefox&pbk=DpCRsmgaFW54dSpiAKYGnN6cNayu9prjZTYGAyiP_jo&security=reality&sid=025f065c&sni=tel.free-run.club&type=grpc#🇩🇪 Германия
+vless://b9c54c71-04e7-4d0a-bc20-e915a3cbc12c@85.215.254.37:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lololoshka.grani-gaming.shop&fp=random&pbk=pVIsEy4-3KzcUMefiMKpn11Uc9LqWnUQznXDSySiyGw&sid=91b7c3a4e6d2f058&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?&security=false&fp=chrome&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053/?type=tcp&encryption=none&flow=&packetEncoding=xudp#%F0%9F%87%AA%F0%9F%87%BA%20AetrisVPN
