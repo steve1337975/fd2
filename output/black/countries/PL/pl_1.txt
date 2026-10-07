@@ -1,24 +1,17 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN PL — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-07 08:45
-# servers-count: 18
+# generated-at: 2026-10-07 15:48
+# servers-count: 11
 
-vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=qC0g7Y0pwyLFTGAPG2zfZNuo64Cda695wdKgLU4KkF8&sid=770618b6&sni=addons.mozilla.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
-vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?security=reality&encryption=none&pbk=qC0g7Y0pwyLFTGAPG2zfZNuo64Cda695wdKgLU4KkF8&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=770618b6#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
-vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?security=reality&encryption=none&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=46455ff0#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.200:705?type=grpc&security=reality&fp=random&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&sni=www.kayak.com&spx=/#🇵🇱 Польша
+vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&sni=addons.mozilla.org#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.207:705?encryption=none&fp=firefox&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&security=reality&sni=www.kayak.com&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
-vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@94.183.157.192:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl-root.sworkingvpn.com&fp=chrome&security=reality&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
-vless://d18c6897-2849-456a-8c46-d7ecece47c20@89.125.27.97:2053?encryption=none&security=tls&sni=wzs.echo.net.eu.org&fp=chrome&type=ws&path=%2Fvideo%2FHxNMGkZdGw0PRk1GVw8YF14OXkwNVVtIRg1HUlxQSwUEVRwJUx8BQRoaSVhfRhoOChkDDUs%3D&host=wzs.echo.net.eu.org#%F0%9F%87%B5%F0%9F%87%B9%20Portugal%2C%20Bel%C3%A9m%20Tower%20%7C%20%5BBL%5D
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.201:705?encryption=none&fp=firefox&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&security=reality&sni=www.kayak.com&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.207:705?mode=gun&security=reality&encryption=none&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&fp=chrome&type=grpc&sni=www.kayak.com#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
-vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?security=reality&encryption=none&pbk=qC0g7Y0pwyLFTGAPG2zfZNuo64Cda695wdKgLU4KkF8&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=770618b6#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
-vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=qC0g7Y0pwyLFTGAPG2zfZNuo64Cda695wdKgLU4KkF8&sid=770618b6&spx=/HesarWeb#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.201:705?type=grpc&security=reality&fp=chrome&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&sni=www.kayak.com&spx=/#🇵🇱 Польша
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.207:705?type=grpc&security=reality&fp=random&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&sni=www.kayak.com&spx=/#🇵🇱 Польша
-vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?security=reality&encryption=none&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=46455ff0#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.201:705?type=grpc&security=reality&fp=chrome&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&sni=www.kayak.com&spx=/#🇵🇱 Польша
 vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.201:705?mode=gun&security=reality&encryption=none&authority=PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&fp=edge&spx=%2F&type=grpc&sni=www.kayak.com#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
+vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@94.183.157.192:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=pl-root.sworkingvpn.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
+vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@94.183.157.192:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl-root.sworkingvpn.com&fp=chrome&security=reality&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.200:705?encryption=none&security=reality&sni=www.kayak.com&fp=random&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&spx=%2F&type=grpc&serviceName=#🇵🇱 Польша
 vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qC0g7Y0pwyLFTGAPG2zfZNuo64Cda695wdKgLU4KkF8&security=reality&sid=770618b6&sni=addons.mozilla.org&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
-vless://d18c6897-2849-456a-8c46-d7ecece47c20@81.90.17.201:2053?encryption=none&security=tls&sni=wzs.echo.net.eu.org&fp=chrome&type=ws&path=%2Fvideo%2FHxNMGkZdGw0PRk1GVw8YF14OXkwNVVtIRg1HUlxQSwUEVRwJUx8BQRoaSVhfRhoOChkDDUs%3D&host=wzs.echo.net.eu.org#%F0%9F%87%B5%F0%9F%87%B9%20Portugal%2C%20Bel%C3%A9m%20Tower%20%7C%20%5BBL%5D
-vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&sni=addons.mozilla.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
+vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@94.183.157.192:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl-root.sworkingvpn.com&fp=random&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
+vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@91.108.249.207:705?mode=gun&security=reality&encryption=none&pbk=nn7zao7trQrkZv5IjiOPmeWPe-Qtj3tFi14Eon9RHC4&fp=chrome&type=grpc&sni=www.kayak.com#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN

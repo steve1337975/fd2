@@ -1,7 +1,0 @@
-# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN MD — #1
-# profile-update-interval: 1
-# generated-at: 2026-10-07 08:45
-# servers-count: 1
-
-vless://24e99b91-f26c-41b9-a03f-218f0c4e34c2@fru01.tunnely.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=free03.tunnely.space&fp=random&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&sid=d1694c220d4b13e7&type=tcp#%F0%9F%87%AA%F0%9F%87%BA%20AetrisVPN

@@ -1,7 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN CL — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-07 08:45
+# generated-at: 2026-10-07 15:48
 # servers-count: 1
 
-vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?encryption=none&security=none&type=ws&host=%5B%27platform113.halalkhor.info%27%5D&path=%2Fplatform113#🇨🇱 Чили
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform113.golnamakcert.top:80?encryption=none&security=none&type=ws&host=%5B%27platform113.halalkhor.info%27%5D&path=%2Fplatform113#%F0%9F%87%A8%F0%9F%87%BE%20AetrisVPN

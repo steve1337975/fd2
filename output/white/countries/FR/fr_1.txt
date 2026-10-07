@@ -1,8 +1,0 @@
-# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN FR — #1
-# profile-update-interval: 1
-# generated-at: 2026-10-07 08:45
-# servers-count: 2
-
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=&encryption=none&type=ws#🇫🇷 Франция
-vless://c5c9d8ec-6c95-4f84-a395-de41ef895f34@145.223.69.171:443?security=reality&type=tcp&fp=firefox&sni=www.vk.com&pbk=JQHrZXZRnkZUOMdNHS7X1fPyMDqKjiQWlfTdntIOqzg&spx=%2F&sid=97c6c4b8&name=TG%3AYoutubeUnBlockRu#AetrisVPN White list ┃ ✅ SNI: www.vk.com ┃ 🇩🇪 Германия

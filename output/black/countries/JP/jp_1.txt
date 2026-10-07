@@ -1,14 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN JP — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-07 08:45
-# servers-count: 8
+# generated-at: 2026-10-07 15:48
+# servers-count: 4
 
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@141.11.138.167:443?encryption=none&security=tls&type=ws&host=vlso5.1d.mom&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&sni=vlso5.1d.mom&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B7%20%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.79.147.53:443?fp=chrome&host=edg-2oo.pages.dev&path=%2Fpage%2Fcourse%2Fdownload%3Fed%3D2560&security=tls&sni=edg-2oo.pages.dev&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B7%20%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.211.132.111:443?encryption=none&fp=firefox&host=edg-2oo.pages.dev&path=/edu/teacher/torrent?ed=2560&security=tls&sni=edg-2oo.pages.dev&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B7%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AF%F0%9F%87%B5%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BBL%5D
-trojan://UX82473651@prime-corgi.rooster465.autos:443?security=tls&sni=prime-corgi.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
-trojan://UX82473651@54.250.237.143:443?security=tls&sni=accurate-frog.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=tcp&sni=152.69.195.67#🇯🇵 Япония
 hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?sni=bing.com#🇯🇵 Япония
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.211.132.111:443?encryption=none&security=tls&sni=edg-2oo.pages.dev&fp=chrome&type=ws&host=edg-2oo.pages.dev&path=%2Fedu%2Fteacher%2Ftorrent%3Fed%3D2560#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B7%20%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%5BBL%5D
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@160.16.139.182:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&security=reality&sid=1a&sni=www.amazon.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#🇯🇵 Япония
