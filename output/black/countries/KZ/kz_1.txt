@@ -1,7 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN KZ — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-07 02:10
+# generated-at: 2026-10-07 08:45
 # servers-count: 1
 
-vless://5e16365b-2a2d-43af-a973-852711b192bd@206.223.245.125:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7VDaTbO6QMT8ZkkYSqFTiKLdu7RQGADy0u8pecwLF3A&security=reality&sni=kztravel.myfirstsite.party&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20AetrisVPN
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@109.248.247.44:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HXFe_cPryw01zqXchAFjZciDAS4UJg1-xScx6vjgjjY&security=reality&sid=7f2e9c4b1a8d6e25&sni=kzself.yandex-api.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20AetrisVPN

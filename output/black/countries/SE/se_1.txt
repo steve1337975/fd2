@@ -1,8 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN SE — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-07 02:10
-# servers-count: 2
+# generated-at: 2026-10-07 08:45
+# servers-count: 4
 
 vless://c20751de-06c3-4044-b6a4-eebc9b040d92@swebz.loozerp.wiki:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swebz.loozerp.wiki&fp=qq&security=reality&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a#%F0%9F%87%B8%F0%9F%87%AA%20AetrisVPN
+vless://7b102311-43fd-4e8f-877e-8090623c101d@109.120.134.91:443?encryption=none&security=tls&sni=vp58.cc.cd&fp=chrome&type=ws&path=%2FTelegram%E9%A6%83%E5%9A%9A%E9%A6%83%E5%9A%A6+%40VPNine1&host=vp58.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
 vless://c20751de-06c3-4044-b6a4-eebc9b040d92@5.157.10.250:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swebz.loozerp.wiki&fp=&security=reality&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a#%F0%9F%87%B8%F0%9F%87%AA%20AetrisVPN
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@swself2.yandex-api.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=HXFe_cPryw01zqXchAFjZciDAS4UJg1-xScx6vjgjjY&sid=7f2e9c4b1a8d6e25&sni=swself2.yandex-api.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D

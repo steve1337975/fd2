@@ -1,8 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN VN — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-07 02:10
-# servers-count: 2
+# generated-at: 2026-10-07 08:45
+# servers-count: 1
 
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?type=tcp#🇻🇳 Вьетнам
 vless://d09411a6-7bbf-5da7-a856-3e425d7751ee@123.30.210.61:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=peer.pan.baidu.com&fp=random&pbk=QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14&sid=96e03e0f184639ef&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN

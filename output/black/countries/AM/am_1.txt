@@ -1,11 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN AM — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-07 02:10
-# servers-count: 5
+# generated-at: 2026-10-07 08:45
+# servers-count: 4
 
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=reality&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&sni=yahoo.com&packetEncoding=none#🇦🇲 Армения
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@us3.xiaoliyu.cyou:18333?sni=us3.xiaoliyu.cyou#🇦🇲 Армения
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&fp=firefox&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&security=reality&sid=0e&sni=yahoo.com&type=tcp#%F0%9F%87%A6%F0%9F%87%B2%20AetrisVPN
-hysteria2://19f72087-4591-4d72-930b-2697078ec2be@us3.xiaoliyu.cyou:18333?insecure=1#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@us3.xiaoliyu.cyou:18333?insecure=1&sni=us3.xiaoliyu.cyou#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://19f72087-4591-4d72-930b-2697078ec2be@us3.xiaoliyu.cyou:18333?insecure=1#%F0%9F%87%AE%F0%9F%87%B9%20Italy%2C%20Milan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=reality&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&sni=yahoo.com&packetEncoding=none#🇦🇲 Армения

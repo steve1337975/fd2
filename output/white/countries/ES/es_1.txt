@@ -1,9 +1,0 @@
-# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN ES — #1
-# profile-update-interval: 1
-# generated-at: 2026-10-07 02:10
-# servers-count: 3
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#🇪🇸 Испания
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#🇪🇸 Испания
-vless://55a2940a-ae07-40b4-ab32-4d3e0617731f@es4.h1cloud.net:25047?security=reality&encryption=none&pbk=opG0oNW-PMHi8V4E0101eEqOqPlZVKCuRkF6dcWeqBU&headerType=&fp=chrome&type=tcp&sni=www.apple.com&sid=8b7227d48365dda9#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇩🇪 Германия

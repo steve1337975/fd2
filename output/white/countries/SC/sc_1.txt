@@ -1,7 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN SC — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-07 02:10
+# generated-at: 2026-10-07 08:45
 # servers-count: 1
 
 ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#🇸🇨 SC

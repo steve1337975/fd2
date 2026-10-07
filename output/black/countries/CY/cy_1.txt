@@ -1,10 +1,8 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN CY — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-07 02:10
-# servers-count: 4
+# generated-at: 2026-10-07 08:45
+# servers-count: 2
 
-vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&security=reality&sid=68a8&sni=deepl.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20AetrisVPN
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?security=none&type=ws&host=vms.lifetime58.workers.dev&path=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%B6%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
 vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?type=tcp&security=reality&fp=chrome&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&sid=a8ae&sni=deepl.com&host=v2raynplus--v2raynplus--v2raynplus#🇨🇾 Кипр
-vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&security=reality&sid=88b6&sni=deepl.com&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20AetrisVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKZW9xOHVqZmtxWktLdkFDUWhvcUJRMVBBM3VxNDI0Mg==@45.149.114.171:777#%F0%9F%87%AE%F0%9F%87%B3%20India%2C%20New%20Delhi%20%7C%20%5BBL%5D

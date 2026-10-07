@@ -1,0 +1,9 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN LT — #1
+# profile-update-interval: 1
+# generated-at: 2026-10-07 08:45
+# servers-count: 3
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.67.50:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS&host=vms.lifetime05.workers.dev&packetEncoding=xudp&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.67.50:8880?type=ws&host=vms.lifetime05.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%5BBL%5D
+vless://095ed44e-b2f9-4f61-ba77-2142583578d8@45.81.252.181:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=mk-lt2.silalink.sbs&encryption=none#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%2C%20Vilnius%20%7C%20%5BBL%5D
