@@ -1,0 +1,7 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN AU — #1
+# profile-update-interval: 1
+# generated-at: 2026-10-08 19:37
+# servers-count: 1
+
+vless://38009570-f150-4ebd-9517-cdcb8a1e7cff@gpt-plus.vepene.site:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&pbk=BgH8ba_xaAeLa5pyvwwJp6HT7i09aNoiAsE1HgTXXkU&sid=3275b9d98d3b69fc#AetrisVPN White list ┃ ✅ SNI: api-maps.yandex.ru ┃ 🇺🇸 США

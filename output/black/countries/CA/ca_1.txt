@@ -1,8 +1,8 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN CA — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-08 13:55
+# generated-at: 2026-10-08 19:37
 # servers-count: 2
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.39.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime17.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20AetrisVPN
+vless://ab9929fd-ab22-48e3-8723-480733c0eca9@209.200.246.61:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=NO3w10fOUvwK8L7vzCVPDLWIKYCHDaB6ealdMnv4jS4&sid=e287e3906e3c&sni=ca.vpnskyline.com#%F0%9F%87%A8%F0%9F%87%A6%20AetrisVPN
 vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@45.148.103.85:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ca-root.sworkingvpn.com&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf&fp=firefox#%F0%9F%87%A8%F0%9F%87%A6%20AetrisVPN

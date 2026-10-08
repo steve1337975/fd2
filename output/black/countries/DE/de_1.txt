@@ -1,40 +1,37 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN DE — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-08 13:55
-# servers-count: 34
+# generated-at: 2026-10-08 19:37
+# servers-count: 31
 
-vless://2e511783-125c-466b-925d-a9cd1c98e30e@31.76.11.83:22849?type=tcp#🇩🇪 Германия
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080#🇬🇧 Великобритания
-vless://d2519b5e-495e-462e-9703-bbf68011d2f3@rfqo.vzse.electrocitymarket.ru:443?encryption=none&type=xhttp&security=tls&sni=rfqo.vzse.electrocitymarket.ru&fp=firefox&alpn=h2%2Chttp/1.1&mode=stream-up#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=ios#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://83rwy5zazcx1f4i6@top.bostnet.xyz:443?fp=chrome&security=tls#🇩🇪 Германия
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.181:443?encryption=none&fp=firefox&pbk=cjnlFCaz4n9lqF7OINyPCMwl6BXe_qVydhhnxbeK4Xk&security=reality&serviceName=api.v2.de7a41c9e0&sid=61a96efd3953f8ed&sni=de8.bbobr.win&type=grpc#🇩🇪 Германия
-hysteria2://83rwy5zazcx1f4i6@top.bostnet.xyz:443?sni=177.3.217.45#🇩🇪 Германия
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-vless://7a70989d-5977-44b3-a316-bc1f51dd6ce0@177.3.217.45:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=sGf4Met5kWgMtbw7TT3S796Cyv60T-nSECAquINAhDo&sid=9301d676016af512&sni=top.bostnet.xyz#🇩🇪 Германия
-vless://d2519b5e-495e-462e-9703-bbf68011d2f3@rohi.vdhp.electrocitymarket.ru:443?encryption=none&type=xhttp&security=tls&sni=rohi.vdhp.electrocitymarket.ru&fp=firefox&alpn=h2%2Chttp/1.1&mode=stream-up#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://d2519b5e-495e-462e-9703-bbf68011d2f3@woob.xetq.electrocitymarket.ru:443?encryption=none&type=xhttp&security=tls&sni=woob.xetq.electrocitymarket.ru&fp=firefox&alpn=h2%2Chttp/1.1&mode=stream-up#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://579b72a5-785a-4fb6-ac64-1de2f8c49601@147.45.63.64:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9J5SrrBYJ4Tz_zpSM3n-EWuin5jmUqEI8LJ5htsGZy8&security=reality&sni=cloudflare.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.33:443?type=grpc&security=reality&fp=random&pbk=cjnlFCaz4n9lqF7OINyPCMwl6BXe_qVydhhnxbeK4Xk&sid=61a96efd3953f8ed&sni=de8.bbobr.win&serviceName=api.v2.de7a41c9e0#🇩🇪 Германия
-trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://83rwy5zazcx1f4i6@top.bostnet.xyz:443?sni=177.3.217.45&fp=chrome&security=tls#🇩🇪 Германия
-vless://1b487f79-6b87-4971-863c-526bd31abd44@94.183.253.211:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uLuPk7Ee7W9BcvjgM2FJHYG2NJxEeEkP7QVL8jYudhI&security=reality&sid=aa9bfaebd76d8b95&sni=germ2.serverslocal.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-hysteria2://83rwy5zazcx1f4i6@top.bostnet.xyz:443?fp=chrome&insecure=1&security=tls#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
-vless://d18c7dfb-94c9-4caa-9d0d-da0e563a71ea@87.239.135.112:443?type=grpc&security=reality&fp=firefox&pbk=DpCRsmgaFW54dSpiAKYGnN6cNayu9prjZTYGAyiP_jo&sid=025f065c&sni=tel.free-run.club#🇩🇪 Германия
-trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+vless://6f0f17f0-d45c-4584-bf50-a00cb6e423d3@91.107.165.48:443?type=tcp&security=reality&fp=firefox&pbk=_OmNcv89o5SDt4H3ButRX9UynGIVwNZR250w4Zie-yk&sid=73693dea6faae051&sni=www.actionvfx.com#🇩🇪 Германия
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
+trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
+vless://40781fd4-c7df-4aeb-bd5a-ecfa3ba7b841@45.131.213.57:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xcTXD3of3Yt5hHdIwYGZ1LjMBgiL6sqj5J33J4U4ozM&security=reality&sid=a7c31f92&sni=indra623.filebeam.website&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
 hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@dehy.bbobr.win:443?security=tls&sni=dehy.bbobr.win&alpn=h3&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@de8.bbobr.win:443?encryption=none&type=grpc&security=reality&sni=de8.bbobr.win&pbk=cjnlFCaz4n9lqF7OINyPCMwl6BXe_qVydhhnxbeK4Xk&sid=61a96efd3953f8ed&fp=firefox&serviceName=api.v2.de7a41c9e0#🇩🇪 Германия
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?type=raw#🇩🇪 Германия
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.181:443?encryption=none&fp=firefox&pbk=cjnlFCaz4n9lqF7OINyPCMwl6BXe_qVydhhnxbeK4Xk&security=reality&serviceName=api.v2.de7a41c9e0&sid=61a96efd3953f8ed&sni=de8.bbobr.win&type=grpc#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-vless://81d8f575-a9c3-03e7-be6b-c0e1dc1d2e20@91.233.8.141:443?security=reality&encryption=none&pbk=k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw&host=%2F%3FTelegram---Always_connected_1---Always_connected_1---Always_connected_1---Always_connected_1&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tnt-cloud.ru&sid=6e5f2a3b#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=tcp&security=false&path=/&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://ecbe8dbc-44f7-4275-8a6c-b0976a7bb5c8@94.103.168.57:2087?mode=stream-one&path=%2Fretasokrer&security=tls&alpn=h2&encryption=none&insecure=0&host=spp1.localip.ir&type=xhttp&allowInsecure=0&sni=spp1.localip.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@104.152.49.87:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=firefox&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
-vless://752a488f-1ac3-47d0-9165-6d80f1fc4b08@146.75.117.242:443?encryption=none&fp=firefox&host=piracy-android.video-streams.org&path=/ws&security=tls&sni=piracy-android.video-streams.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?type=tcp&packetEncoding=none#🇩🇪 Германия
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+vless://267b3a79-81f2-42ac-a409-c23b05b6329d@de8.bbobr.win:443?type=grpc&security=reality&fp=firefox&pbk=cjnlFCaz4n9lqF7OINyPCMwl6BXe_qVydhhnxbeK4Xk&sid=61a96efd3953f8ed&sni=de8.bbobr.win&serviceName=api.v2.de7a41c9e0#🇩🇪 Германия
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+vless://40781fd4-c7df-4aeb-bd5a-ecfa3ba7b841@45.131.213.57:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=xcTXD3of3Yt5hHdIwYGZ1LjMBgiL6sqj5J33J4U4ozM&sid=a7c31f92&sni=indra623.filebeam.website#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@dehy.bbobr.win:443?sni=dehy.bbobr.win&security=tls#🇩🇪 Германия
+vless://ecbe8dbc-44f7-4275-8a6c-b0976a7bb5c8@94.103.168.57:2087?mode=stream-one&path=%2Fretasokrer%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=h2&encryption=none&insecure=0&host=spp1.localip.ir&type=xhttp&allowInsecure=0&sni=spp1.localip.ir#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://596be9d9-0bb9-41bc-bff5-1adb483cbc32@189.24.107.174:443?security=reality&flow=xtls-rprx-vision&pbk=gox8U8f-JNoWrH7BLfIRBsw3mKwEjIDUOcgozmi_nzQ&sid=8b36e9b7b3&fp=edge&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
 vless://3d1752a5-2832-4981-878d-f4aca87d6f86@64.188.119.73:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=zvLIiZsAqG2Uz9FEBPJ1q2P6lUmG4SBv-M7vlDuqEFo&sid=421880b82d&sni=ocd1.global-media-cache.com#🇩🇪 Германия
-vless://81d8f575-a9c3-03e7-be6b-c0e1dc1d2e20@91.233.8.141:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k76Ze8R0E5NyZwvBZT1A4n0zlVXxTeHQDAs0bBqiGQw&security=reality&sid=6e5f2a3b&sni=tnt-cloud.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
 vless://659ffdfa-47d2-47d7-af40-5afe0907eead@162.55.242.208:2053?type=raw&security=reality&fp=chrome&pbk=jeS6Zu-p1Gf6GtraIAbpgQoSeT26Xq3GqgqVxccbVhY&sid=4d14da19b19cfc8c&sni=www.cloudflare.com#🇩🇪 Германия
+vless://a6be94fc-e742-4714-8a38-c8d7410ae066@50.7.157.237:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=edge&sni=edge-fr.extazy.net&pbk=ygxQyBcJzlLgpSl3MCRDDiFET4TT-3wxa4GdG1obkCY&sid=ba4b2afa9e7193ea&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&sni=milo.rubinaz.xyz&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?&security=false&fp=chrome&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.181:443?type=grpc&security=reality&fp=firefox&pbk=cjnlFCaz4n9lqF7OINyPCMwl6BXe_qVydhhnxbeK4Xk&sid=61a96efd3953f8ed&sni=de8.bbobr.win&serviceName=api.v2.de7a41c9e0#🇩🇪 Германия
+vless://2e511783-125c-466b-925d-a9cd1c98e30e@31.76.11.83:22849?type=raw#🇩🇪 Германия
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=raw#🇬🇧 Великобритания
+vless://d18c7dfb-94c9-4caa-9d0d-da0e563a71ea@87.239.135.112:443?type=grpc&security=reality&fp=firefox&pbk=DpCRsmgaFW54dSpiAKYGnN6cNayu9prjZTYGAyiP_jo&sid=025f065c&sni=tel.free-run.club#🇩🇪 Германия
+vless://596be9d9-0bb9-41bc-bff5-1adb483cbc32@189.24.107.174:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gox8U8f-JNoWrH7BLfIRBsw3mKwEjIDUOcgozmi_nzQ&security=reality&sid=8b36e9b7b3&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+vless://7a70989d-5977-44b3-a316-bc1f51dd6ce0@177.3.217.45:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=sGf4Met5kWgMtbw7TT3S796Cyv60T-nSECAquINAhDo&sid=9301d676016af512&sni=top.bostnet.xyz#🇩🇪 Германия
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?&packet-encoding=xudp&sni=milo.rubinaz.xyz&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.33:443?type=grpc&security=reality&fp=random&pbk=cjnlFCaz4n9lqF7OINyPCMwl6BXe_qVydhhnxbeK4Xk&sid=61a96efd3953f8ed&sni=de8.bbobr.win&serviceName=api.v2.de7a41c9e0#🇩🇪 Германия

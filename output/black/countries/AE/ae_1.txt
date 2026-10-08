@@ -1,15 +1,21 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN AE — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-08 13:55
-# servers-count: 9
+# generated-at: 2026-10-08 19:37
+# servers-count: 15
 
+vless://73bec071-8d42-4294-a453-de168627649b@94.183.193.212:443?type=tcp&security=reality&fp=firefox&pbk=zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M&sid=1ed136481e0ede74&sni=eu86.vaultberry.cloud#🇦🇪 ОАЭ
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?type=ws&packetEncoding=none#🇦🇪 ОАЭ
+vless://ed7fd359-573d-45e5-a093-379af60afbab@151.241.137.98:2087?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PcccWYnF60dh4yJ457YSsDIxWYEBPh20N5A1ka1XHgM&security=reality&sid=194a5813fabb9081&sni=w5n8t-grade.nordlinemedia.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fi-s-1.pythonmakemigreat.wiki:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi-s-1.pythonmakemigreat.wiki&fp=chrome&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=78f97d82e16aaad6&type=tcp#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Dubai%20%28Nadd%20ash%20Shib%C4%81%29%20%7C%20%5BBL%5D
+vless://40781fd4-c7df-4aeb-bd5a-ecfa3ba7b841@217.60.100.47:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xcTXD3of3Yt5hHdIwYGZ1LjMBgiL6sqj5J33J4U4ozM&security=reality&sid=a7c31f92&sni=cipher351.atlasparser.site&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
+vless://c6cfcc53-9271-4ef7-88c5-5141621c8db1@31.59.216.141:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7zsU1U-30jh-qqfmqZukMfoqHB75ksKFA5aQFi8LGW4&security=reality&sid=70b4ca&sni=193.23.216.239.cdn-one.org&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20AetrisVPN
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.26:2088?encryption=none&fp=firefox&pbk=Eq3c19Y0WGB1APWMADQB-oxCvZFSVFAQxG5L6b8EkUg&security=reality&serviceName=astracat&sid=b1ad165f903c62fe&sni=www.yandex.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20AetrisVPN
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.26:2088?type=grpc&security=reality&fp=safari&pbk=Eq3c19Y0WGB1APWMADQB-oxCvZFSVFAQxG5L6b8EkUg&sid=b1ad165f903c62fe&sni=www.yandex.ru&serviceName=astracat#🇦🇪 ОАЭ
 vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.24:2087?encryption=none&fp=firefox&pbk=W2OLbQ682PLJ9yHQ21Q0nPJk9U8RuL5YnlP-U1fdQzI&security=reality&serviceName=astracat&sid=a11023050f134216&sni=www.yandex.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20AetrisVPN
-vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.37:443?type=grpc&security=reality&fp=firefox&pbk=5k0dtOSzmshCubdYeKppsUdHU4i2ghaB9uSJSzGjHW4&sid=6dbf4931096f9890&sni=www.yandex.ru&serviceName=astracat#🇦🇪 ОАЭ
-vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.37:443?encryption=none&fp=firefox&pbk=5k0dtOSzmshCubdYeKppsUdHU4i2ghaB9uSJSzGjHW4&security=reality&serviceName=astracat&sid=6dbf4931096f9890&sni=www.yandex.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20AetrisVPN
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@132.243.24.196:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=firefox&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
-vless://9ff17e23-c6ed-4472-90e3-c85c74e88478@31.56.18.107:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Ean56I1ZAGD67m6VW-qXZ77bXsE5ClwvYLuQNyXRyH8&security=reality&sid=832d9228ddd3&sni=akdeta.serveroff.net&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-vless://d3c9d170-80fa-489a-8ba2-f4cc80d240e3@130.185.121.69:443?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://e43829fe-a157-46ff-a416-00cc97f91c64@shop.tgcenterapp.ru:443?encryption=none&security=tls&sni=shop.tgcenterapp.ru&fp=ios&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=shop.tgcenterapp.ru&path=%2Fapi%2Fcart%2Fsync&mode=packet-up&extra=%7B%22mode%22%3A%22packet-up%22%2C%22path%22%3A%22%2Fapi%2Fcart%2Fsync%22%2C%22seqKey%22%3A%22chunk%22%2C%22seqPlacement%22%3A%22cookie%22%2C%22sessionIDKey%22%3A%22visitor_id%22%2C%22sessionIDPlacement%22%3A%22path%22%2C%22uplinkChunkSize%22%3A0%2C%22uplinkDataPlacement%22%3A%22body%22%2C%22uplinkHTTPMethod%22%3A%22HEAD%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingHeader%22%3A%22X-Cache-Status%22%2C%22xPaddingKey%22%3A%22_ts%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingPlacement%22%3A%22queryInHeader%22%7D#%F0%9F%87%B7%F0%9F%87%BA%20AetrisVPN
-vless://d3c9d170-80fa-489a-8ba2-f4cc80d240e3@130.185.121.69:443?type=ws#🇦🇪 ОАЭ
-vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.24:2087?type=grpc&security=reality&fp=firefox&pbk=W2OLbQ682PLJ9yHQ21Q0nPJk9U8RuL5YnlP-U1fdQzI&sid=a11023050f134216&sni=www.yandex.ru&serviceName=astracat#🇦🇪 ОАЭ
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.37:443?type=grpc&security=reality&fp=firefox&pbk=5k0dtOSzmshCubdYeKppsUdHU4i2ghaB9uSJSzGjHW4&sid=6dbf4931096f9890&sni=www.yandex.ru&serviceName=astracat#🇦🇪 ОАЭ
+vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?type=ws&host=uae.unixzone.us#🇦🇪 ОАЭ
+vless://ed7fd359-573d-45e5-a093-379af60afbab@151.241.137.98:443?encryption=none&fp=firefox&pbk=fOZb8aqxTTbxBfLlKfm0o3GwdwKsMSh1yE3uHE4GYzI&security=reality&serviceName=03ceea834a&sid=52ed319119f5fc1e&sni=w5n8t-grade.nordlinemedia.com&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.24:2087?type=grpc&security=reality&fp=firefox&pbk=W2OLbQ682PLJ9yHQ21Q0nPJk9U8RuL5YnlP-U1fdQzI&sid=a11023050f134216&sni=www.yandex.ru&mode=gun&serviceName=astracat#🇦🇪 ОАЭ
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@217.60.178.61:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ZqVz1kWNxh_5zQ5PPkoPHoaXQOvppM0ZyIo8uKp2dCg&sid=78f97d82e16aaad6&sni=fi-s-1.pythonmakemigreat.wiki#%F0%9F%87%B3%F0%9F%87%B1%20AetrisVPN

@@ -1,7 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN AT — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-08 13:55
+# generated-at: 2026-10-08 19:37
 # servers-count: 1
 
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@3zot60.anusvovi.stream:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=zsat.eu-cdn294.com&fp=firefox&security=reality&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&sid=8fbdc8d37cc76852#%F0%9F%87%A6%F0%9F%87%B9%20AetrisVPN

@@ -1,10 +1,9 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN PL — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-08 13:55
-# servers-count: 4
+# generated-at: 2026-10-08 19:37
+# servers-count: 3
 
+vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?mode=gun&security=reality&encryption=none&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&fp=random&type=grpc&serviceName=telegram-bridge&sni=willow.cdn.cachefleet.com&sid=a0938b702257f780#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
 vless://267b3a79-81f2-42ac-a409-c23b05b6329d@pl7.bbobr.win:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl7.bbobr.win&fp=firefox&security=reality&pbk=jZ8yA5Qm_-fP3XM_Q8F7zCSZglmK0TmZKNGckmM3O2w&sid=1e025404945a396c#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
-vless://3d3cc1bc-3d6f-7542-a531-19a1797952bc@185.138.90.52:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sfxjlR0FMYgbUJ_4gK4rSgfgJ6hxh_Y1i52OJHKAiGY&security=reality&sid=663d30479b605335&sni=platform-api.max.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
-vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@94.183.157.192:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=pl-root.sworkingvpn.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
 vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@94.183.157.192:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl-root.sworkingvpn.com&fp=chrome&security=reality&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN

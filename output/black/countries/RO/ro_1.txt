@@ -1,7 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN RO — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-08 13:55
+# generated-at: 2026-10-08 19:37
 # servers-count: 1
 
-vless://69d76969-4c52-40f5-ac1d-303571634362@46.183.16.4:2087?encryption=none&fp=firefox&security=tls&sni=ro1.b0w.ir&type=ws#%F0%9F%87%B7%F0%9F%87%B4%20Romania%2C%20Bucharest%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@103.244.145.144:443?security=reality&encryption=none&pbk=f4EJP55daJRlJkcZbbGsY-gFGGFGiXPPdfVxtNWQPCE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsde.eu-cdn294.com&sid=c8621ebb1e56abb3#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN

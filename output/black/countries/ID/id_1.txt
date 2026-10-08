@@ -1,7 +1,0 @@
-# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN ID — #1
-# profile-update-interval: 1
-# generated-at: 2026-10-08 13:55
-# servers-count: 1
-
-vless://3977434d-6a9b-4858-8ced-80326ba5e367@103.172.197.2:29172?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=pff94OJwuKXnF7_3SJ8KKJuAN4GJtInBlR-kg-4mwzQ&type=tcp&headerType=none&host=aws.amazon.com&path=%2F#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%2C%20Gambiran%20Satu%20%7C%20%5BBL%5D
