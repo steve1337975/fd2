@@ -1,7 +1,0 @@
-# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN UNKNOWN — #1
-# profile-update-interval: 1
-# generated-at: 2026-10-07 20:49
-# servers-count: 1
-
-vless://ff7390de-ce93-4d7d-b08b-bef8f71a85cf@tiny-lake-c7f3.16-1af.workers.dev:8880?type=ws#🇺🇸 США
