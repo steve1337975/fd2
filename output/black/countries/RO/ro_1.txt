@@ -1,7 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN RO — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-08 19:37
-# servers-count: 1
+# generated-at: 2026-10-08 23:56
+# servers-count: 4
 
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@103.244.145.144:443?security=reality&encryption=none&pbk=f4EJP55daJRlJkcZbbGsY-gFGGFGiXPPdfVxtNWQPCE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsde.eu-cdn294.com&sid=c8621ebb1e56abb3#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=css.rbxcdn.com&downmbps=50&type=tcp&upmbps=10#🇷🇴 Румыния
+vless://a6be94fc-e742-4714-8a38-c8d7410ae066@95.133.247.19:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dJqaQL_kSl2DFR7Dx3igZXhPuw1uW9d7XejtyYSvkGg&security=reality&sid=aaa2ba7d45c12957&sni=fr.atlanta-api.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@103.244.145.138:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=f4EJP55daJRlJkcZbbGsY-gFGGFGiXPPdfVxtNWQPCE&security=reality&sid=c8621ebb1e56abb3&sni=zsde.eu-cdn294.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=speedtest.tinkoff.ru#🇷🇴 Румыния

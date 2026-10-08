@@ -1,12 +1,15 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN FI — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-08 19:37
-# servers-count: 6
+# generated-at: 2026-10-08 23:56
+# servers-count: 9
 
-vless://fd260c22-c5a9-47fc-bb68-5b3e890ee7c4@31.76.8.154:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi2.yservice.help&fp=chrome&security=reality&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@dk7.bbobr.win:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dk7.bbobr.win&fp=firefox&security=reality&pbk=zBNHm7DwlBZ2rfu2F5e3jMsmR2q74KpS2L6EavCVmkA&sid=f6985908fcb5612f#%F0%9F%87%A9%E8%B7%A8%20AetrisVPN
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@87.58.158.82:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zBNHm7DwlBZ2rfu2F5e3jMsmR2q74KpS2L6EavCVmkA&security=reality&sid=f6985908fcb5612f&sni=dk7.bbobr.win&type=tcp#%F0%9F%87%A9%E8%B7%A8%20AetrisVPN
-vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?type=raw&security=reality&fp=firefox&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&sid=d368b94e275ab080&sni=www.google.com#🇫🇮 Финляндия
 vless://267b3a79-81f2-42ac-a409-c23b05b6329d@142.228.52.101:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tmTxawUP9tQ-CpfNqrxGHvWpEf4qbYWEHGFChh9mYUA&security=reality&sid=42b8975fc11f3127&sni=fi7.bbobr.win&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=tcp&security=false&path=%2F&host=milo.rubinaz.xyz&sni=milo.rubinaz.xyz&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://267b3a79-81f2-42ac-a409-c23b05b6329d@87.58.158.82:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zBNHm7DwlBZ2rfu2F5e3jMsmR2q74KpS2L6EavCVmkA&security=reality&sid=f6985908fcb5612f&sni=dk7.bbobr.win&type=tcp#%F0%9F%87%A9%E8%B7%A8%20AetrisVPN
+vless://267b3a79-81f2-42ac-a409-c23b05b6329d@87.58.158.82:443?security=reality&encryption=none&pbk=zBNHm7DwlBZ2rfu2F5e3jMsmR2q74KpS2L6EavCVmkA&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=dk7.bbobr.win&sid=f6985908fcb5612f#%F0%9F%87%A9%E8%B7%A8%20AetrisVPN
+vless://267b3a79-81f2-42ac-a409-c23b05b6329d@dk7.bbobr.win:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dk7.bbobr.win&fp=firefox&security=reality&pbk=zBNHm7DwlBZ2rfu2F5e3jMsmR2q74KpS2L6EavCVmkA&sid=f6985908fcb5612f#%F0%9F%87%A9%E8%B7%A8%20AetrisVPN
+vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?type=raw&security=reality&fp=firefox&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&sid=d368b94e275ab080&sni=www.google.com#🇫🇮 Финляндия
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?&security=false&fp=chrome&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://fd260c22-c5a9-47fc-bb68-5b3e890ee7c4@31.76.8.154:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi2.yservice.help&fp=chrome&security=reality&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080#🇬🇧 Великобритания
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?&packet-encoding=xudp&sni=milo.rubinaz.xyz&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D

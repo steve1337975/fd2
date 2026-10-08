@@ -1,20 +1,19 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN DE — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-08 19:37
-# servers-count: 14
+# generated-at: 2026-10-08 23:56
+# servers-count: 13
 
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#🇩🇪 Германия
-vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@72.56.105.228:443?security=reality&encryption=none&pbk=iSo20v7O_zNHG6EmG4jGxfUkdqARzC8nFlB-JR4q4BA&headerType=none&fp=firefox&type=tcp&sni=max.ru&sid=1a0ec8752eeaf912#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇬🇧 Великобритания
-vless://3d3cc1bc-3d6f-753e-a531-19a1797952bc@77.110.107.64:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=lunNhspkwstFWBY77Deig8sPSiSPh-7ROWlLo_jyFAY&sid=d48dc41c83be7968&sni=platform-api.max.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: platform-api.max.ru ┃ 🇩🇪 Германия
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#🇩🇪 Германия
-vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@80.76.43.245:443?fp=qq&host=www.google.com&mode=auto&path=%2F&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&security=reality&sni=www.google.com&type=xhttp#AetrisVPN White list ┃ ✅ SNI: www.google.com ┃ 🇩🇪 Германия
-vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=firefox&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com#AetrisVPN White list ┃ ✅ SNI: www.google.com ┃ 🇩🇪 Германия
-vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@80.76.43.245:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com#AetrisVPN White list ┃ ✅ SNI: www.google.com ┃ 🇩🇪 Германия
-vless://8325bd97-b77c-4917-acaa-2446e9e8cc03@sr0a8o1y.smart-cats.ru:443?type=xhttp&security=reality&path=%2F59tsizleh76f&sni=yandex.ru&fp=chrome&pbk=lOTpfTnTFRzKiVdQgZ5VBrcn4dIZiuCgyKDpR0CMugQ&sid=62e44eab0e4a1f15#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇩🇪 Германия
-vless://7d40449f-92df-4256-9607-679241455d49@95.85.239.102:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=JCY4HTvbv3PLZV8lBETziQpoU-DK-FSUp5qK-vCnDwQ&sid=d534122e6a18eb59&sni=drive.yandex.ru&path=&host=#AetrisVPN White list ┃ ✅ SNI: drive.yandex.ru ┃ 🇩🇪 Германия
-vless://838de912-398a-4c0e-9228-0fd44b0d1f8b@157.173.27.148:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=KP-P4zenuMuYe3UxPCjDEVmgqI4GiRZ95UbsAfmL71g&sid=970098f31b96a3e8&type=tcp&headerType=none#AetrisVPN White list ┃ ✅ SNI: travel.yandex.ru ┃ 🇩🇪 Германия
-vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.48.250.31:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=firefox&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com#AetrisVPN White list ┃ ✅ SNI: www.google.com ┃ 🇩🇪 Германия
 vless://94006a20-6cd6-4751-a14d-c5a0bacb68bb@64.188.79.106:443?security=reality&encryption=none&pbk=dBvFkg2zny545Ws6H_LXKEohOYV2MW_zACRrRQE1IUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=992e5a9a#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇩🇪 Германия
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp#🇫🇮 Финляндия
-hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@dehy.bbobr.win:443?security=tls&sni=dehy.bbobr.win&alpn=h3&insecure=0#🇩🇪 Германия
+vless://7d40449f-92df-4256-9607-679241455d49@95.85.239.102:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=JCY4HTvbv3PLZV8lBETziQpoU-DK-FSUp5qK-vCnDwQ&sid=d534122e6a18eb59&sni=drive.yandex.ru&path=&host=#AetrisVPN White list ┃ ✅ SNI: drive.yandex.ru ┃ 🇩🇪 Германия
+vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@80.76.43.245:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com#AetrisVPN White list ┃ ✅ SNI: www.google.com ┃ 🇩🇪 Германия
+vless://8a4d32e8-ab02-4398-84a7-8d7672426ad6@grm.janaj.space:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=p2kybyvJhP9F98fLS4TcL8nNcFE-MdhfGoVBlGkdHUs&security=reality&sid=d1&sni=api-maps.yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: api-maps.yandex.ru ┃ 🇺🇸 США
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=firefox&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com#AetrisVPN White list ┃ ✅ SNI: www.google.com ┃ 🇩🇪 Германия
+vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@80.76.43.245:443?fp=qq&host=www.google.com&mode=auto&path=%2F&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&security=reality&sni=www.google.com&type=xhttp#AetrisVPN White list ┃ ✅ SNI: www.google.com ┃ 🇩🇪 Германия
+vless://8a4d32e8-ab02-4398-84a7-8d7672426ad6@144.31.164.108:443?security=reality&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&type=tcp&pbk=p2kybyvJhP9F98fLS4TcL8nNcFE-MdhfGoVBlGkdHUs&sid=d1#AetrisVPN White list ┃ ✅ SNI: api-maps.yandex.ru ┃ 🇺🇸 США
+vless://3d3cc1bc-3d6f-753e-a531-19a1797952bc@77.110.107.64:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=lunNhspkwstFWBY77Deig8sPSiSPh-7ROWlLo_jyFAY&sid=d48dc41c83be7968&sni=platform-api.max.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: platform-api.max.ru ┃ 🇩🇪 Германия
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@185.159.108.42:443?security=reality&encryption=none&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f429ad1f28#AetrisVPN White list ┃ ✅ SNI: web.max.ru ┃ 🇺🇸 США
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#🇩🇪 Германия
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.48.250.31:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=firefox&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com#AetrisVPN White list ┃ ✅ SNI: www.google.com ┃ 🇩🇪 Германия
+vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@72.56.105.228:443?security=reality&encryption=none&pbk=iSo20v7O_zNHG6EmG4jGxfUkdqARzC8nFlB-JR4q4BA&headerType=none&fp=firefox&type=tcp&sni=max.ru&sid=1a0ec8752eeaf912#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇬🇧 Великобритания
