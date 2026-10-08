@@ -1,8 +1,9 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN KZ — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-07 20:49
-# servers-count: 2
+# generated-at: 2026-10-08 06:30
+# servers-count: 3
 
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@93.183.87.85:24446?encryption=none&security=reality&sni=willow.cdn.cachefleet.com&fp=random&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&sid=a0938b702257f780&type=grpc&serviceName=telegram-bridge&mode=gun#%F0%9F%87%AA%F0%9F%87%BA%20AetrisVPN
-vless://e0ca1d04-d2a2-418d-835f-38e44f3fcfbb@83.97.77.63:2053?encryption=none&security=tls&sni=QjSDgI-6551.gborole.buzz&fp=random&allowInsecure=1&insecure=1&type=ws&path=%2Fapi%2Fmwjxr0uE8cqJw8Nso6&host=QjSDgI-6551.gborole.buzz#%F0%9F%87%AC%F0%9F%87%A7%20AetrisVPN
+vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@199.189.254.16:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=panel.surfweb.club#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Almaty%20%7C%20%5BBL%5D
+vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@199.189.254.16:443?type=tcp&security=tls&sni=panel.surfweb.club&fp=firefox&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Almaty%20%7C%20%5BBL%5D
+vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@199.189.254.16:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=panel.surfweb.club#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Almaty%20%7C%20%5BBL%5D

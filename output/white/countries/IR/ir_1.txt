@@ -1,0 +1,8 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN IR — #1
+# profile-update-interval: 1
+# generated-at: 2026-10-08 06:30
+# servers-count: 2
+
+vless://5e90bbb0-4880-419f-99a4-8ba3648f880e@tun3.phonepanel.ir:8023?security=reality&encryption=none&pbk=3VKs9HG9EgsB69ppfvFEJcXiO5MDOvvQOByDD2HceXQ&host=amp-api-edge.apps.apple.com&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=b7e45d3a65bfc319#AetrisVPN White list ┃ ✅ SNI: amp-api-edge.apps.apple.com ┃ 🇩🇪 Германия
+vless://5bb7df8d-ad02-41fa-a8e6-8a8a4650d2c4@62.60.247.40:8443?security=reality&flow=xtls-rprx-vision&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&sid=7bcfc0bc&fp=firefox&sni=storage.yandex.net&type=tcp&headerType=none&host=storage.yandex.net&path=%2F#AetrisVPN White list ┃ ✅ SNI: storage.yandex.net ┃ 🇩🇪 Германия

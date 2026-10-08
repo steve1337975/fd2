@@ -1,9 +1,8 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN EE — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-07 20:49
-# servers-count: 3
+# generated-at: 2026-10-08 06:30
+# servers-count: 2
 
-vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@95.85.242.166:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ee-root.sworkingvpn.com&fp=chrome&security=reality&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@ee-2e06d85dc0.shamanapp.online:34451?mode=stream-up&path=%2FShamanXHTTP2026&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ee-2e06d85dc0.shamanapp.online&fp=chrome&type=xhttp&sni=ee-2e06d85dc0.shamanapp.online#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@31.56.187.208:34451?encryption=none&fp=firefox&host=ee-2e06d85dc0.shamanapp.online&path=/ShamanXHTTP2026&security=tls&sni=ee-2e06d85dc0.shamanapp.online&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@45.12.28.108:443?encryption=none&fp=firefox&host=x.m-90.xyz&path=t.me/TEAMNETGRATISCOL&security=tls&sni=x.m-90.xyz&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@45.12.28.108:443?security=tls&type=ws&path=%2Ft.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz&packetEncoding=xudp&sni=x.m-90.xyz&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D

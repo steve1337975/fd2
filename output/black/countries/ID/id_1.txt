@@ -1,7 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN ID — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-07 20:49
+# generated-at: 2026-10-08 06:30
 # servers-count: 1
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg@103.160.63.199:31348#🇮🇩 Индонезия
+vless://7b102311-43fd-4e8f-877e-8090623c101d@168.110.200.146:443?encryption=none&security=tls&sni=vp58.cc.cd&fp=chrome&type=ws&path=%2FTelegram%E9%A6%83%E5%9A%9A%E9%A6%83%E5%9A%A6+%40VPNine1&host=vp58.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%5BBL%5D

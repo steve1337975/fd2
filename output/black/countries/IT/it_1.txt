@@ -1,8 +1,9 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN IT — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-07 20:49
-# servers-count: 2
+# generated-at: 2026-10-08 06:30
+# servers-count: 3
 
-vless://836e3596-09ce-4439-8493-39b1c3fd3616@194.180.207.250:7443?encryption=none&type=xhttp&security=reality&sni=node170.overcdn.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=6b2f4e6ac9b1d2f0&fp=firefox&path=/&mode=auto&extra=%7B%22headers%22%3A%7B%7D%2C%22noGRPCHeader%22%3Afalse%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%7D#%F0%9F%87%AE%F0%9F%87%B9%20AetrisVPN
-vless://836e3596-09ce-4439-8493-39b1c3fd3616@194.180.207.250:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=node170.overcdn.ru&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426&fp=firefox#%F0%9F%87%AE%F0%9F%87%B9%20AetrisVPN
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@158.180.231.216:443?encryption=none&security=tls&sni=bab-6.site&fp=chrome&type=ws&host=bab-6.site&path=%2Fvws%2F#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@158.180.231.216:443?encryption=none&fp=firefox&host=bab-6.site&path=/vws/&security=tls&sni=bab-6.site&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://a853e120-3570-462b-aec1-e8f3d4f92d24@72.146.234.10:443?encryption=none&security=tls&sni=asia.csmaster.site&fp=chrome&type=ws&host=asia.csmaster.site#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D

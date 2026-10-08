@@ -1,18 +1,15 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN NL — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-08 00:28
-# servers-count: 12
+# generated-at: 2026-10-08 06:30
+# servers-count: 9
 
-vless://ca990a85-cb33-44af-bb17-61b30b43d51e@72.56.85.221:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=qq&pbk=uTOxHZkQuw_YnO3GEIV0jDkVNOsOPQrTIPdRb2Rk8DQ&sni=apple.com&sid=00353c#AetrisVPN White list ┃ ✅ SNI: apple.com ┃ 🇳🇱 Нидерланды
-vless://5b2fc182-a497-4fbe-aeb8-1841dae99022@72.56.96.93:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=FSq5DVYJ8UaKArP3FtCmlZKqOQ08dKkqB2fefjRkA0M&security=reality&sni=eh.vk.com&type=tcp#AetrisVPN White list ┃ ✅ SNI: eh.vk.com ┃ 🇺🇦 Украина
-vless://ca990a85-cb33-44af-bb17-61b30b43d51e@72.56.85.221:443?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=qq&flow=xtls-rprx-vision&sid=00353c&pbk=uTOxHZkQuw_YnO3GEIV0jDkVNOsOPQrTIPdRb2Rk8DQ#AetrisVPN White list ┃ ✅ SNI: apple.com ┃ 🇫🇷 Франция
-vless://60f9bb33-6c48-41f3-8d0d-420f83bc3261@31.56.184.214:443?security=reality&encryption=none&pbk=3dNfDqAdlFbRtyc_lDw_qEE7O9XXiV6_WMB23QRVfgA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=avito.ru&sid=f6f2234d3773ad1c#AetrisVPN White list ┃ ✅ SNI: avito.ru ┃ 🇩🇪 Германия
-vless://7c6c3d89-e709-551d-89a2-5889f374e2b1@195.2.92.183:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.com&pbk=h_2ltojrlOLaZtaxFDkpiJpyPzWIshh9a5rDskjq3R8&sid=ffffffffff&spx=%2525252525252525252F#AetrisVPN White list ┃ ✅ SNI: vk.com ┃ 🇯🇵 Япония
 vless://ca990a85-cb33-44af-bb17-61b30b43d51e@72.56.85.221:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=uTOxHZkQuw_YnO3GEIV0jDkVNOsOPQrTIPdRb2Rk8DQ&sid=00353c#AetrisVPN White list ┃ ✅ SNI: apple.com ┃ 🇺🇸 США
-vless://b36c3c07-dfc3-497f-9338-8f32d808592f@nider-t.sbrf-cdn342.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=max.ru&pbk=IzCxPP6AbT5ncuSfj17EsHCyjnirVQ_LN62uIiQeQVA&sid=111111#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇺🇸 США
-vless://ca990a85-cb33-44af-bb17-61b30b43d51e@72.56.85.221:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=uTOxHZkQuw_YnO3GEIV0jDkVNOsOPQrTIPdRb2Rk8DQ&sni=apple.com&sid=00353c#AetrisVPN White list ┃ ✅ SNI: apple.com ┃ 🇺🇸 США
-vless://328c690b-6e08-5b45-b82d-ba4010192194@144.124.226.216:443?encryption=none&mode=auto&path=%2F&fp=chrome&pbk=JkU5Vn1pM0jelR62NIqNwbE-b6Xs4kx-Vc6F-qNq1Fo&security=reality&sid=c8ea649c63208b&sni=ozon.ru&type=xhttp#AetrisVPN White list ┃ ✅ SNI: ozon.ru ┃ 🇩🇪 Германия
-vless://a56a3bda-e89a-4182-a671-a1858bb0f47c@88.218.248.89:443?security=reality&encryption=none&pbk=xFEvOfCpuJIJzWv27x9BZ0npZAemtKctvbE3EnAAX3E&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=59eee550a1014198#AetrisVPN White list ┃ ✅ SNI: api-maps.yandex.ru ┃ 🇩🇪 Германия
 vless://ca990a85-cb33-44af-bb17-61b30b43d51e@72.56.85.221:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=random&pbk=uTOxHZkQuw_YnO3GEIV0jDkVNOsOPQrTIPdRb2Rk8DQ&sid=00353c&type=tcp#AetrisVPN White list ┃ ✅ SNI: apple.com ┃ 🇳🇱 Нидерланды
+vless://ca990a85-cb33-44af-bb17-61b30b43d51e@72.56.85.221:443?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=qq&flow=xtls-rprx-vision&sid=00353c&pbk=uTOxHZkQuw_YnO3GEIV0jDkVNOsOPQrTIPdRb2Rk8DQ#AetrisVPN White list ┃ ✅ SNI: apple.com ┃ 🇺🇸 США
+vless://ca990a85-cb33-44af-bb17-61b30b43d51e@72.56.85.221:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=uTOxHZkQuw_YnO3GEIV0jDkVNOsOPQrTIPdRb2Rk8DQ&sni=apple.com&sid=00353c#AetrisVPN White list ┃ ✅ SNI: apple.com ┃ 🇺🇸 США
+vless://ca990a85-cb33-44af-bb17-61b30b43d51e@72.56.85.221:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=qq&pbk=uTOxHZkQuw_YnO3GEIV0jDkVNOsOPQrTIPdRb2Rk8DQ&sni=apple.com&sid=00353c#AetrisVPN White list ┃ ✅ SNI: apple.com ┃ 🇳🇱 Нидерланды
 vless://ca990a85-cb33-44af-bb17-61b30b43d51e@72.56.85.221:443?flow=xtls-rprx-vision&fp=chrome&pbk=uTOxHZkQuw_YnO3GEIV0jDkVNOsOPQrTIPdRb2Rk8DQ&security=reality&sid=00353c&sni=apple.com&type=tcp#AetrisVPN White list ┃ ✅ SNI: apple.com ┃ 🇺🇸 США
+vless://a56a3bda-e89a-4182-a671-a1858bb0f47c@88.218.248.89:443?security=reality&encryption=none&pbk=xFEvOfCpuJIJzWv27x9BZ0npZAemtKctvbE3EnAAX3E&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=59eee550a1014198#AetrisVPN White list ┃ ✅ SNI: api-maps.yandex.ru ┃ 🇩🇪 Германия
+vless://ff527822-be9c-5c11-8519-45b8cc4c644a@144.124.226.216:443?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=JkU5Vn1pM0jelR62NIqNwbE-b6Xs4kx-Vc6F-qNq1Fo&security=reality&sid=60e335610b12b2cc&sni=ozon.ru&type=xhttp#AetrisVPN White list ┃ ✅ SNI: ozon.ru ┃ 🇩🇪 Германия
+vless://7c6c3d89-e709-551d-89a2-5889f374e2b1@195.2.92.183:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.com&pbk=h_2ltojrlOLaZtaxFDkpiJpyPzWIshh9a5rDskjq3R8&sid=ffffffffff&spx=%2F#AetrisVPN White list ┃ ✅ SNI: vk.com ┃ 🇯🇵 Япония

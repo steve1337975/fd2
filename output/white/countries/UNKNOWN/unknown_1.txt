@@ -1,0 +1,7 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN UNKNOWN — #1
+# profile-update-interval: 1
+# generated-at: 2026-10-08 06:30
+# servers-count: 1
+
+vless://b4a18856-301d-4bb2-b729-6afcb700faf5@red-flower-a2bf.363.workers.dev:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&encryption=none&type=ws#🇺🇸 США

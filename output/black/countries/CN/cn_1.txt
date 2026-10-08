@@ -1,0 +1,7 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN CN — #1
+# profile-update-interval: 1
+# generated-at: 2026-10-08 06:30
+# servers-count: 1
+
+vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@171.83.48.117:8443?type=ws&security=tls&fp=chrome&host=kkkk-xcd.pages.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%5BBL%5D

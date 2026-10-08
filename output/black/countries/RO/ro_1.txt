@@ -1,9 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN RO — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-07 20:49
-# servers-count: 3
+# generated-at: 2026-10-08 06:30
+# servers-count: 4
 
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@pa6r26.eu-cdn539.com:443?security=reality&encryption=none&sni=zsde.eu-cdn294.com&fp=firefox&pbk=f4EJP55daJRlJkcZbbGsY-gFGGFGiXPPdfVxtNWQPCE&sid=c8621ebb1e56abb3&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-trojan://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.108:4443?security=tls&sni=grape-test-italy.dynuddns.net&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20AetrisVPN
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@103.244.145.144:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=zsde.eu-cdn294.com&fp=random&pbk=f4EJP55daJRlJkcZbbGsY-gFGGFGiXPPdfVxtNWQPCE&sid=c8621ebb1e56abb3&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://7b102311-43fd-4e8f-877e-8090623c101d@45.136.199.148:443?encryption=none&security=tls&sni=vp58.cc.cd&fp=chrome&type=ws&path=%2FTelegramU0001F1E8U0001F1F3+%40VPNine1fp%3Dchrome&host=vp58.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B7%F0%9F%87%B4%20%7C%20%5BBL%5D
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@45.136.199.148:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@45.136.199.148:443?security=tls&type=ws&path=%2Ft.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz&packetEncoding=xudp&sni=x.m-90.xyz&fp=chrome&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
+vless://40781fd4-c7df-4aeb-bd5a-ecfa3ba7b841@88.80.135.196:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xcTXD3of3Yt5hHdIwYGZ1LjMBgiL6sqj5J33J4U4ozM&security=reality&sid=a7c31f92&sni=prism617.filebeam.website&type=tcp#%F0%9F%87%B7%F0%9F%87%B4%20AetrisVPN
