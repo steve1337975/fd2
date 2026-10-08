@@ -1,8 +1,8 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN LV — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-08 06:30
+# generated-at: 2026-10-08 13:55
 # servers-count: 2
 
+vless://a853e120-3570-462b-aec1-e8f3d4f92d24@217.60.62.30:443?encryption=none&fp=firefox&host=asia.csmaster.site&security=tls&sni=asia.csmaster.site&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://a853e120-3570-462b-aec1-e8f3d4f92d24@217.60.62.30:443?encryption=none&security=tls&sni=asia.csmaster.site&fp=chrome&type=ws&host=asia.csmaster.site#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@46.8.236.152:443?encryption=none&security=tls&sni=bab-6.site&fp=chrome&type=ws&path=%2Fvws%2F&host=bab-6.site#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D

@@ -1,9 +1,9 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN IT — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-08 06:30
+# generated-at: 2026-10-08 13:55
 # servers-count: 3
 
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@158.180.231.216:443?encryption=none&security=tls&sni=bab-6.site&fp=chrome&type=ws&host=bab-6.site&path=%2Fvws%2F#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@158.180.231.216:443?encryption=none&fp=firefox&host=bab-6.site&path=/vws/&security=tls&sni=bab-6.site&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://a853e120-3570-462b-aec1-e8f3d4f92d24@72.146.234.10:443?encryption=none&security=tls&sni=asia.csmaster.site&fp=chrome&type=ws&host=asia.csmaster.site#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@5.249.148.85:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=firefox&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?type=tcp&packetEncoding=none#🇮🇹 Италия
+vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?type=raw&security=reality&fp=firefox&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&sid=5b8a942318178e7b&sni=www.apple.com#🇮🇹 Италия

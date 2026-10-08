@@ -1,12 +1,8 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN CA — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-08 06:30
-# servers-count: 6
+# generated-at: 2026-10-08 13:55
+# servers-count: 2
 
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@172.93.167.175:443?encryption=none&security=tls&sni=bab-6.site&fp=chrome&type=ws&path=%2Fvws%2F&host=bab-6.site#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.39.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime17.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20AetrisVPN
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@shopify.com:443?security=tls&type=ws&path=/?ed=2560fp=random&host=misaka.cndyw.ggff.net&packetEncoding=xudp&sni=misaka.cndyw.ggff.net&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@shopify.com:443?encryption=none&security=tls&sni=misaka.cndyw.ggff.net&fp=random&type=ws&host=misaka.cndyw.ggff.net&path=%2F%3Fed%3D2560#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
 vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@45.148.103.85:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ca-root.sworkingvpn.com&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf&fp=firefox#%F0%9F%87%A8%F0%9F%87%A6%20AetrisVPN
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@shopify.com:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D

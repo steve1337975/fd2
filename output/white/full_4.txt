@@ -1,0 +1,13 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN WHITE — #4
+# profile-update-interval: 1
+# generated-at: 2026-10-08 13:55
+# servers-count: 7
+
+vless://441afe11-a180-4516-bb80-80a8a6b38705@193.163.203.253:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a&type=tcp&headerType=none#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇩🇪 Германия
+vless://3882f374-8a1c-4295-93bd-e2f80b6cde8b@185.229.9.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7o36V1H4H_34kTMpwCfJmDB1bbd21Rgbk2dM_dAonyM&security=reality&sid=0bb3fbdc6cb178d4&sni=www.vk.com&spx=%2F&type=raw#AetrisVPN White list ┃ ✅ SNI: www.vk.com ┃ 🇩🇪 Германия
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.24:2087?type=grpc&headerType=none&security=reality&encryption=none&sni=www.yandex.ru&pbk=W2OLbQ682PLJ9yHQ21Q0nPJk9U8RuL5YnlP-U1fdQzI&sid=a11023050f134216&serviceName=astracat&fp=android#AetrisVPN White list ┃ ✅ SNI: www.yandex.ru ┃ 🇩🇪 Германия
+vless://4ef48c2f-3bcc-400b-a3f7-b1ef28465229@189.74.114.152:443?encryption=none&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediaples.cc&type=tcp&fp=safari#AetrisVPN White list ┃ ✅ SNI: api.mediaples.cc ┃ 🇳🇱 Нидерланды
+vless://4c37df21-0a34-41bf-8bc7-78efd823c03b@shiny-salad-e491.479.workers.dev:8880?type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&sni=shiny-salad-e491.479.workers.dev#🇺🇸 США
+vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇩🇪 Германия
+vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?security=reality&sni=ok.ru&fp=edge&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&sid=864fbb122f15b43d&type=xhttp&path=%2Fapi%2Fv1%2Fe0163615&encryption=none#AetrisVPN White list ┃ ✅ SNI: ok.ru ┃ 🇷🇺 Россия

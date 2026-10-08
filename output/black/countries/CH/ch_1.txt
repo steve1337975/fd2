@@ -1,14 +1,15 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN CH — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-08 06:30
-# servers-count: 8
+# generated-at: 2026-10-08 13:55
+# servers-count: 9
 
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@146.70.233.51:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@185.237.225.47:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=firefox&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@91.90.193.54:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=firefox&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
+vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?type=raw&security=reality&fp=chrome&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&sni=www.apple.com#🇨🇭 Швейцария
 vless://a853e120-3570-462b-aec1-e8f3d4f92d24@84.234.16.169:443?encryption=none&security=tls&sni=asia.csmaster.site&fp=chrome&type=ws&host=asia.csmaster.site#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://7b102311-43fd-4e8f-877e-8090623c101d@185.234.213.169:443?encryption=none&security=tls&sni=vp58.cc.cd&fp=chrome&type=ws&path=%2FTelegram%E9%A6%83%E5%9A%9A%E9%A6%83%E5%9A%A6+%40VPNine1&host=vp58.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%AE%F0%9F%87%AA%20%7C%20%5BBL%5D
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.50:8880/?type=ws&encryption=none&flow=&host=vms.lifetime47.workers.dev&path=/?ed=2560&#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-vless://a853e120-3570-462b-aec1-e8f3d4f92d24@179.237.104.215:443?encryption=none&security=tls&sni=asia.csmaster.site&fp=chrome&type=ws&host=asia.csmaster.site#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@146.70.233.51:443?security=tls&type=ws&path=%2Ft.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz&packetEncoding=xudp&sni=x.m-90.xyz&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@91.90.193.54:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
+vless://a853e120-3570-462b-aec1-e8f3d4f92d24@84.234.16.169:443?encryption=none&fp=firefox&host=asia.csmaster.site&security=tls&sni=asia.csmaster.site&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://a853e120-3570-462b-aec1-e8f3d4f92d24@91.90.193.106:443?encryption=none&security=tls&sni=asia.csmaster.site&fp=chrome&type=ws&host=asia.csmaster.site#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.50:8880/?type=ws&encryption=none&flow=&host=vms.lifetime47.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+vless://a853e120-3570-462b-aec1-e8f3d4f92d24@179.237.104.215:443?encryption=none&fp=firefox&host=asia.csmaster.site&security=tls&sni=asia.csmaster.site&type=ws#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://a853e120-3570-462b-aec1-e8f3d4f92d24@179.237.104.215:443?encryption=none&security=tls&sni=asia.csmaster.site&fp=chrome&type=ws&host=asia.csmaster.site#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D

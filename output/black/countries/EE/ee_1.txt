@@ -1,8 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN EE — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-08 06:30
-# servers-count: 2
+# generated-at: 2026-10-08 13:55
+# servers-count: 5
 
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@153.56.171.216:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=firefox&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?type=raw&security=reality&fp=random&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&sni=www.samsung.com#🇪🇪 Эстония
 vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@45.12.28.108:443?encryption=none&fp=firefox&host=x.m-90.xyz&path=t.me/TEAMNETGRATISCOL&security=tls&sni=x.m-90.xyz&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
 vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@45.12.28.108:443?security=tls&type=ws&path=%2Ft.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz&packetEncoding=xudp&sni=x.m-90.xyz&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@212.87.190.93:25895?type=tcp&security=reality&fp=firefox&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&sni=www.samsung.com#🇪🇪 Эстония

@@ -1,7 +1,0 @@
-# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN TW — #1
-# profile-update-interval: 1
-# generated-at: 2026-10-08 06:30
-# servers-count: 1
-
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@188.253.6.249:443?encryption=none&security=tls&type=ws&host=vlso5.1d.mom&path=%2Fsocks5%3D888%3A888%40hkip.1d.mom%3A1080&sni=vlso5.1d.mom&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B9%F0%9F%87%BC%20%7C%20%5BBL%5D

@@ -1,8 +1,0 @@
-# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN IR — #1
-# profile-update-interval: 1
-# generated-at: 2026-10-08 06:30
-# servers-count: 2
-
-vless://e19f406e-0f0f-4abd-9861-a3d2d213b650@link.mrpgd.ir:6008?encryption=none&security=none&sni=cafebazaar.ir&type=xhttp&host=cafebazaar.ir&path=%2Fassets&mode=stream-up#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%BF%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20%5BBL%5D
-vless://e19f406e-0f0f-4abd-9861-a3d2d213b650@link.mrpgd.ir:6008?encryption=none&security=none&type=xhttp&headerType=none&path=%2Fassets&host=cafebazaar.ir&mode=stream-up#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%BF%20%F0%9F%87%AE%F0%9F%87%B7%20%7C%20%5BBL%5D

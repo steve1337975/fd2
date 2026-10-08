@@ -1,7 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN IQ — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-08 06:30
+# generated-at: 2026-10-08 13:55
 # servers-count: 1
 
 vless://0e538403-1c73-479a-b121-121087fa59af@178.17.50.235:7443?encryption=none&fp=firefox&host=staticpool.ru&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=Np5eNpCJdcXe4IvMs0stzE-sMtlphhTnZeuCkhjQXzQ&security=reality&sid=a8389289e18af5f4&sni=staticpool.ru&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
