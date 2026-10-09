@@ -1,0 +1,11 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN SI — #1
+# profile-update-interval: 1
+# generated-at: 2026-10-09 11:29
+# servers-count: 5
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.30:8880?security=none&type=ws&host=vms.lifetime18.workers.dev&path=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.30:8880?security=false&packet-encoding=xudp&type=ws&headerType=none&host=vms.lifetime18.workers.dev&path=%2F&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.30:8880?security=none&type=ws&sni=vms.lifetime18.workers.dev&path=%2F&host=vms.lifetime18.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.30:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=vms.lifetime18.workers.dev&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.30:8880?security=false&packet-encoding=xudp&type=ws&headerType=none&host=vms.lifetime18.workers.dev&path=%2F&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B0%F0%9F%87%BF%20%7C%20%5BBL%5D

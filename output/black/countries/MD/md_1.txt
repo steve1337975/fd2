@@ -1,18 +1,16 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN MD — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-09 04:32
-# servers-count: 12
+# generated-at: 2026-10-09 11:29
+# servers-count: 10
 
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.34:443?type=grpc&security=reality&fp=firefox&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sid=aa9884f2982b7d3c&sni=md5.univesalsrv.com&mode=gun&serviceName=app.v1.PushService#🇲🇩 Молдова
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?type=grpc&headerType=none&security=reality&encryption=none&sni=md3.univesalsrv.com&fp=firefox&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&sid=9a72d40f1ff882b3&serviceName=stats.v2.PushService#🇲🇩 Молдова
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?type=grpc&security=reality&fp=firefox&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&sid=9a72d40f1ff882b3&sni=md3.univesalsrv.com&serviceName=stats.v2.PushService#🇲🇩 Молдова
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?type=grpc&security=reality&fp=firefox&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&sni=md2.univesalsrv.com&serviceName=hub.v1.SyncService#🇲🇩 Молдова
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?type=grpc&headerType=none&security=reality&encryption=none&sni=md5.univesalsrv.com&fp=firefox&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sid=aa9884f2982b7d3c&serviceName=app.v1.PushService#🇲🇩 Молдова
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?type=grpc&security=reality&fp=chrome&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&mode=gun&serviceName=hub.v1.SyncService#🇲🇩 Молдова
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&sid=9a72d40f1ff882b3&mode=gun&serviceName=stats.v2.PushService#🇲🇩 Молдова
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?encryption=none&fp=firefox&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&security=reality&serviceName=stats.v2.PushService&sid=9a72d40f1ff882b3&sni=md3.univesalsrv.com&type=grpc#🇲🇩 Молдова
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&sid=9a72d40f1ff882b3&sni=md3.univesalsrv.com&serviceName=stats.v2.PushService#🇲🇩 Молдова
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.34:443?encryption=none&fp=firefox&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&security=reality&serviceName=app.v1.PushService&sid=aa9884f2982b7d3c&sni=md5.univesalsrv.com&type=grpc#%F0%9F%87%B2%F0%9F%87%A9%20AetrisVPN
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?type=grpc&security=reality&fp=chrome&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sid=aa9884f2982b7d3c&mode=gun&serviceName=app.v1.PushService#🇲🇩 Молдова
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?type=grpc&security=reality&fp=firefox&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&sni=md2.univesalsrv.com&mode=gun&serviceName=hub.v1.SyncService&authority=/t.me/V2rayBaaz#🇲🇩 Молдова
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?encryption=none&fp=firefox&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&security=reality&serviceName=hub.v1.SyncService&sid=d36a38659ce106cb&sni=md2.univesalsrv.com&type=grpc#%F0%9F%87%B2%F0%9F%87%A9%20AetrisVPN
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?encryption=none&fp=firefox&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&security=reality&serviceName=stats.v2.PushService&sid=9a72d40f1ff882b3&sni=md3.univesalsrv.com&type=grpc#%F0%9F%87%B2%F0%9F%87%A9%20AetrisVPN
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?type=grpc&security=reality&fp=chrome&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sid=aa9884f2982b7d3c&serviceName=app.v1.PushService#🇲🇩 Молдова
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&sni=md2.univesalsrv.com&mode=gun&serviceName=hub.v1.SyncService#🇲🇩 Молдова
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sid=aa9884f2982b7d3c&sni=md5.univesalsrv.com&serviceName=app.v1.PushService#🇲🇩 Молдова
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.34:443?encryption=none&fp=firefox&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&security=reality&serviceName=app.v1.PushService&sid=aa9884f2982b7d3c&sni=md5.univesalsrv.com&type=grpc#🇲🇩 Молдова
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&sni=md2.univesalsrv.com&serviceName=hub.v1.SyncService#🇲🇩 Молдова

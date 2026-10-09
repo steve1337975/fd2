@@ -1,8 +1,0 @@
-# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN IT — #1
-# profile-update-interval: 1
-# generated-at: 2026-10-09 04:32
-# servers-count: 2
-
-vless://a853e120-3570-462b-aec1-e8f3d4f92d24@72.146.234.10:443?encryption=none&security=tls&sni=asia.csmaster.site&fp=chrome&type=ws&host=asia.csmaster.site#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?security=none&encryption=none&headerType=none&type=tcp#🇮🇹 Италия

@@ -1,13 +1,15 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN PL — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-09 04:32
-# servers-count: 7
+# generated-at: 2026-10-09 11:29
+# servers-count: 9
 
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443#🇵🇱 Польша
-vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@94.183.157.192:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&security=reality&sid=15bcc0a77c3cacdf&sni=pl-root.sworkingvpn.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?mode=gun&security=reality&encryption=none&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&fp=random&type=grpc&serviceName=telegram-bridge&sni=willow.cdn.cachefleet.com&sid=a0938b702257f780#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@185.70.199.98:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jZ8yA5Qm_-fP3XM_Q8F7zCSZglmK0TmZKNGckmM3O2w&security=reality&sid=1e025404945a396c&sni=pl7.bbobr.win&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=#🇵🇱 Польша
+hy2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?hop_interval=10&sni=admin.wwwinternetvideo.click#🇵🇱 Польша
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@pol2.fytpn.com:2097?type=tcp&security=tls&sni=pol2.fytpn.com&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@pol2.fytpn.com:2097?sni=pol2.fytpn.com&peer=pol2.fytpn.com&security=tls#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
+vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?encryption=none&security=reality&sni=willow.cdn.cachefleet.com&fp=random&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&sid=a0938b702257f780&type=grpc&mode=gun&authority=&serviceName=telegram-bridge#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
+vless://a889fba5-5472-4022-a6b4-9710157fda2f@pol2.fytpn.com:8443?encryption=none&type=tcp&security=reality&sni=pol2.fytpn.com&fp=chrome&pbk=7JLSiscJksRdmmRLnbqXlBgc4nce6lTvhKp3NIlXHFg&sid=a2aa&flow=xtls-rprx-vision#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
 vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@94.183.157.192:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl-root.sworkingvpn.com&fp=chrome&security=reality&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@pl7.bbobr.win:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl7.bbobr.win&fp=firefox&security=reality&pbk=jZ8yA5Qm_-fP3XM_Q8F7zCSZglmK0TmZKNGckmM3O2w&sid=1e025404945a396c#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
+vless://a889fba5-5472-4022-a6b4-9710157fda2f@pol2.fytpn.com:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=pol2.fytpn.com&fp=firefox&pbk=7JLSiscJksRdmmRLnbqXlBgc4nce6lTvhKp3NIlXHFg&sid=a2aa#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@pol2.fytpn.com:2097?type=tcp&security=tls&sni=pol2.fytpn.com&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN

@@ -1,19 +1,15 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN HYSTERIA2 — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-09 04:32
-# servers-count: 13
+# generated-at: 2026-10-09 11:29
+# servers-count: 9
 
-hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=google.com#🇷🇴 Румыния
-hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=speedtest.tinkoff.ru#🇷🇴 Румыния
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443#🇵🇱 Польша
+hysteria2://user317_windows:c70565e9-a99f-40ef-b96c-469a3949eed2@s3.huhiuh.space:18642?sni=www.bing.com#🇭🇰 Гонконг
 hysteria2://83rwy5zazcx1f4i6@top.bostnet.xyz:443?fp=chrome&security=tls#🇩🇪 Германия
-hysteria2://83rwy5zazcx1f4i6@top.bostnet.xyz:443?sni=177.3.217.45&fp=chrome&security=tls#🇩🇪 Германия
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=#🇵🇱 Польша
+hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=css.rbxcdn.com&downmbps=50&type=tcp&upmbps=10#🇷🇴 Румыния
 hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=173.212.201.85#🇫🇷 Франция
-hysteria2://user317_windows:c70565e9-a99f-40ef-b96c-469a3949eed2@s3.huhiuh.space:18642?sni=s3.huhiuh.space#🇭🇰 Гонконг
+hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@dehy.bbobr.win:443?sni=dehy.bbobr.win&security=tls#🇩🇪 Германия
+hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=speedtest.tinkoff.ru#🇷🇴 Румыния
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?sni=germany3.h2corp.local#🇷🇺 Россия
-hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.181:443?sni=dehy.bbobr.win#🇩🇪 Германия
-hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?sni=bing.com#🇯🇵 Япония
-hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=css.rbxcdn.com&upmbps=10&type=tcp&downmbps=50#🇷🇴 Румыния
-hysteria2://83rwy5zazcx1f4i6@top.bostnet.xyz:443?sni=177.3.217.45#🇩🇪 Германия
+hysteria2://user317_windows:c70565e9-a99f-40ef-b96c-469a3949eed2@s3.huhiuh.space:18642?sni=s3.huhiuh.space#🇭🇰 Гонконг

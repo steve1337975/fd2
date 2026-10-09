@@ -1,15 +1,18 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN FI — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-09 04:32
-# servers-count: 9
+# generated-at: 2026-10-09 11:29
+# servers-count: 12
 
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=tcp&sni=milo.rubinaz.xyz&host=milo.rubinaz.xyz&packet-encoding=xudp#🇬🇧 Великобритания
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=tcp&security=false&path=%2F&host=milo.rubinaz.xyz&sni=milo.rubinaz.xyz&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://267b3a79-81f2-42ac-a409-c23b05b6329d@142.228.52.101:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tmTxawUP9tQ-CpfNqrxGHvWpEf4qbYWEHGFChh9mYUA&security=reality&sid=42b8975fc11f3127&sni=fi7.bbobr.win&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?&security=false&fp=chrome&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://267b3a79-81f2-42ac-a409-c23b05b6329d@dk7.bbobr.win:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dk7.bbobr.win&fp=firefox&security=reality&pbk=zBNHm7DwlBZ2rfu2F5e3jMsmR2q74KpS2L6EavCVmkA&sid=f6985908fcb5612f#%F0%9F%87%A9%E8%B7%A8%20AetrisVPN
-vless://fd260c22-c5a9-47fc-bb68-5b3e890ee7c4@31.76.8.154:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi2.yservice.help&fp=chrome&security=reality&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=%2F#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?&packet-encoding=xudp&sni=milo.rubinaz.xyz&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=%2F#🇩🇪 Германия
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@177.1.188.96:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&security=reality&sid=4be4110078ebed4a&sni=fl1.balancer.vbuste-bot.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?type=tcp#🇫🇮 Финляндия
 vless://00639297-2f4d-0001-9567-cd92d95d2dcf@fi7.bbobr.win:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi7.bbobr.win&fp=firefox&security=reality&pbk=tmTxawUP9tQ-CpfNqrxGHvWpEf4qbYWEHGFChh9mYUA&sid=42b8975fc11f3127#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=tcp&security=false&path=/&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&sni=milo.rubinaz.xyz&type=tcp#🇬🇧 Великобритания
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?fp=chrome&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%28Ville-Marie%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://267b3a79-81f2-42ac-a409-c23b05b6329d@87.58.158.82:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dk7.bbobr.win&fp=random&pbk=zBNHm7DwlBZ2rfu2F5e3jMsmR2q74KpS2L6EavCVmkA&sid=f6985908fcb5612f&type=tcp#%F0%9F%87%A9%E8%B7%A8%20AetrisVPN
+vless://267b3a79-81f2-42ac-a409-c23b05b6329d@87.58.158.82:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zBNHm7DwlBZ2rfu2F5e3jMsmR2q74KpS2L6EavCVmkA&security=reality&sid=f6985908fcb5612f&sni=dk7.bbobr.win&type=tcp#%F0%9F%87%A9%E8%B7%A8%20AetrisVPN
+vless://fd260c22-c5a9-47fc-bb68-5b3e890ee7c4@31.76.8.154:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fi2.yservice.help&fp=chrome&security=reality&pbk=-qLezG1nUEtvOJi-Ra7WRYv-aHkv3PSefEuXpWV2G04&sid=abcd1234#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?type=tcp&sni=milo.rubinaz.xyz&host=milo.rubinaz.xyz&packet-encoding=xudp#🇩🇪 Германия

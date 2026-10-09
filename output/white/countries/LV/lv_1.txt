@@ -1,11 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN LV — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-09 04:32
-# servers-count: 5
+# generated-at: 2026-10-09 11:29
+# servers-count: 4
 
-vless://84124a40-4b02-4762-a3a6-6cf43f297724@ltmain.fgnconnection.life:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=H46I56wuurV9oQyn2irq5ZleWz_FBpHWmWoqz1Hc-Qc&sid=53c8004fa34e8724#AetrisVPN White list ┃ ✅ SNI: eh.vk.com ┃ 🇮🇳 Индия
+vless://3d3cc1bc-3d6f-757b-a531-19a1797952bc@85.159.228.121:443?type=tcp&security=reality&sni=platform-api.max.ru&fp=firefox&flow=xtls-rprx-vision&pbk=1_Cv1zoj4jVq_lO970W_Ln5BcrBda2X20hNlmzR1Gkg&sid=6870f5fe87841d4d#AetrisVPN White list ┃ ✅ SNI: platform-api.max.ru ┃ 🇫🇮 Финляндия
 vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a&flow=xtls-rprx-vision#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
+vless://84124a40-4b02-4762-a3a6-6cf43f297724@ltmain.fgnconnection.life:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=H46I56wuurV9oQyn2irq5ZleWz_FBpHWmWoqz1Hc-Qc&sid=53c8004fa34e8724#AetrisVPN White list ┃ ✅ SNI: eh.vk.com ┃ 🇮🇳 Индия
 vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&security=reality&sid=5ee019e02e6ed99a&sni=yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&type=tcp&headerType=none#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇩🇪 Германия
-vless://441afe11-a180-4516-bb80-80a8a6b38705@193.163.203.253:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a&type=tcp&headerType=none#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇩🇪 Германия
