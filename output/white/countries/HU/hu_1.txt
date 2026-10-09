@@ -1,7 +1,8 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN HU — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-09 17:31
-# servers-count: 1
+# generated-at: 2026-10-09 21:52
+# servers-count: 2
 
 vless://557a0638-0981-4176-a8bc-13dbf588291d@217.13.104.149:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=4a3ad88ff867a295&sni=travel.yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: travel.yandex.ru ┃ 🇩🇪 Германия
+vless://cf1a37bc-140b-4a3a-a18c-10c9f87eaad6@217.13.104.154:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&spx=%2F&sid=95ec618532fa065e#AetrisVPN White list ┃ ✅ SNI: travel.yandex.ru ┃ 🇩🇪 Германия

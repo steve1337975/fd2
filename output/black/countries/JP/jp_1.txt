@@ -1,25 +1,30 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN JP — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-09 17:31
-# servers-count: 19
+# generated-at: 2026-10-09 21:52
+# servers-count: 24
 
-trojan://UX82473651@optimal-penguin.rooster465.autos:443?sni=optimal-penguin.rooster465.autos&peer=optimal-penguin.rooster465.autos&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://UX82473651@52.192.217.187:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=evolving-platypus.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@35.78.243.103:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
-trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&fp=chrome&path=/#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
-trojan://UX82473651@amazed-mako.rooster465.autos:443?sni=amazed-mako.rooster465.autos&peer=amazed-mako.rooster465.autos&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@13.115.139.162:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
-trojan://UX82473651@equipped-stingray.rooster465.autos:443?sni=equipped-stingray.rooster465.autos&peer=equipped-stingray.rooster465.autos&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@13.115.139.162:443?security=tls&type=ws&path=%2Ft.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz&packetEncoding=xudp&sni=x.m-90.xyz&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
-vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=tcp&packetEncoding=none#🇯🇵 Япония
-trojan://UX82473651@52.192.45.137:443?security=tls&sni=promoted-rattler.rooster465.autos&fp=chrome&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@150.230.63.93:443?encryption=none&fp=firefox&host=x.m-90.xyz&path=t.me/TEAMNETGRATISCOL&security=tls&sni=x.m-90.xyz&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
-trojan://UX82473651@warm-krill.rooster465.autos:443?sni=warm-krill.rooster465.autos&peer=warm-krill.rooster465.autos&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
-trojan://UX82473651@internal-krill.rooster465.autos:443?sni=internal-krill.rooster465.autos&peer=internal-krill.rooster465.autos&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=tcp&sni=152.69.195.67#🇯🇵 Япония
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@153.121.36.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&security=reality&sid=1a&sni=www.amazon.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
-trojan://UX82473651@warm-krill.rooster465.autos:443?sni=warm-krill.rooster465.autos&peer=warm-krill.rooster465.autos&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:443?type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
-trojan://UX82473651@internal-krill.rooster465.autos:443?type=tcp&security=tls&sni=internal-krill.rooster465.autos&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://UX82473651@optimal-penguin.rooster465.autos:443?sni=optimal-penguin.rooster465.autos&peer=optimal-penguin.rooster465.autos&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@13.231.221.179:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@13.115.139.162:443?security=tls&type=ws&path=%2Ft.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz&packetEncoding=xudp&sni=x.m-90.xyz&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@64.110.97.200:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=firefox&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
 vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@13.231.221.179:443?security=tls&type=ws&path=%2Ft.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz&packetEncoding=xudp&sni=x.m-90.xyz&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
+trojan://UX82473651@equipped-stingray.rooster465.autos:443?type=tcp&security=tls&sni=equipped-stingray.rooster465.autos&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:443?type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
+hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443/?insecure=1&sni=bing.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D
+trojan://UX82473651@optimal-penguin.rooster465.autos:443?sni=optimal-penguin.rooster465.autos&peer=optimal-penguin.rooster465.autos&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@153.121.36.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&security=reality&sid=1a&sni=www.amazon.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
+trojan://UX82473651@stable-python.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=stable-python.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
+trojan://UX82473651@equipped-stingray.rooster465.autos:443?sni=equipped-stingray.rooster465.autos&peer=equipped-stingray.rooster465.autos&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
+trojan://UX82473651@stable-python.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=stable-python.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://UX82473651@warm-krill.rooster465.autos:443?sni=warm-krill.rooster465.autos&peer=warm-krill.rooster465.autos&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@35.78.243.103:443?security=tls&type=ws&path=%2Ft.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz&packetEncoding=xudp&sni=x.m-90.xyz&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
+trojan://UX82473651@internal-krill.rooster465.autos:443?sni=internal-krill.rooster465.autos&peer=internal-krill.rooster465.autos&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
+hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?sni=bing.com#🇯🇵 Япония
+trojan://UX82473651@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&peer=normal-macaque.rooster465.autos&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@13.115.139.162:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
+trojan://UX82473651@amazed-mako.rooster465.autos:443?sni=amazed-mako.rooster465.autos&peer=amazed-mako.rooster465.autos&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@35.78.243.103:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
+trojan://UX82473651@equipped-stingray.rooster465.autos:443?sni=equipped-stingray.rooster465.autos&peer=equipped-stingray.rooster465.autos&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@160.16.139.182:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&security=reality&sid=1a&sni=www.amazon.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN

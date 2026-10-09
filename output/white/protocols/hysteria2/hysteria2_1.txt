@@ -1,9 +1,8 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN HYSTERIA2 — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-09 17:31
-# servers-count: 3
+# generated-at: 2026-10-09 21:52
+# servers-count: 2
 
-hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.181:443?sni=dehy.bbobr.win#🇩🇪 Германия
 hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443?sni=admin.wwwinternetvideo.click#🇵🇱 Польша
-hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@dehy.bbobr.win:443?security=tls&sni=dehy.bbobr.win&alpn=h3&insecure=0#🇩🇪 Германия
+hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.181:443?sni=dehy.bbobr.win#🇩🇪 Германия

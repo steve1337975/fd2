@@ -1,8 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN ES — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-09 17:31
-# servers-count: 2
+# generated-at: 2026-10-09 21:52
+# servers-count: 7
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Barcelona%20%7C%20%5BBL%5D
+vless://c1c13ef7-affa-47e1-8967-25cc67679c10@es3.h1cloud.net:25136?type=tcp&security=reality&fp=firefox&pbk=nkmfL3QCskKAfBUk-OiTgcWyIXGmXrZVtDEoio0Qo1w&sid=f78838fbd85e59ae&sni=www.cloudflare.com#🇪🇸 Испания
 trojan://humanity@185.114.72.31:2053?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
+vless://c1c13ef7-affa-47e1-8967-25cc67679c10@es3.h1cloud.net:25136?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=firefox&pbk=nkmfL3QCskKAfBUk-OiTgcWyIXGmXrZVtDEoio0Qo1w&sid=f78838fbd85e59ae&spx=%2F#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Madrid%20%28Chamart%C3%ADn%29%20%7C%20%5BBL%5D
+vless://c1c13ef7-affa-47e1-8967-25cc67679c10@45.198.55.200:25136?type=tcp&security=reality&fp=firefox&pbk=nkmfL3QCskKAfBUk-OiTgcWyIXGmXrZVtDEoio0Qo1w&sid=f78838fbd85e59ae&sni=www.cloudflare.com#🇪🇸 Испания
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY=@108.181.121.226:8388#%F0%9F%87%AA%F0%9F%87%B8%20Spain%2C%20Barcelona%20%7C%20%5BBL%5D
+trojan://humanity@185.114.72.31:2053?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#%F0%9F%87%AA%F0%9F%87%B8%20AetrisVPN
