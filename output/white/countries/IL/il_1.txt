@@ -1,0 +1,7 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN IL — #1
+# profile-update-interval: 1
+# generated-at: 2026-10-09 17:31
+# servers-count: 1
+
+vless://d977e7ec-ff45-d4a9-5b52-9c1cc5c04c43@83.143.106.7:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&type=xhttp&sni=res.cdn.office.net&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20AetrisVPN

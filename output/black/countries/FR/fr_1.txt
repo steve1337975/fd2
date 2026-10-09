@@ -1,8 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN FR — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-09 11:29
-# servers-count: 2
+# generated-at: 2026-10-09 17:31
+# servers-count: 4
 
+vless://2219d55c-f419-402d-a185-9498cb031423@206.245.131.165:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.fr.forge-relay.com&fp=firefox&pbk=tW28ur4PP6lSr5XeKLu1njwm_W2Cv83EOoBaMn7ivVg&sid=a1b2c3d4#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@89.168.59.98:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=firefox&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
+hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=www.docker.com&security=tls#🇫🇷 Франция
 hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=173.212.201.85#🇫🇷 Франция
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@89.168.59.98:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=firefox&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D

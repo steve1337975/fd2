@@ -1,15 +1,17 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN PL — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-09 11:29
-# servers-count: 9
+# generated-at: 2026-10-09 17:31
+# servers-count: 11
 
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443#🇵🇱 Польша
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443?sni=admin.wwwinternetvideo.click#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443?security=tls&sni=admin.wwwinternetvideo.click&alpn=h3&insecure=0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
+vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@94.183.157.192:443?security=reality&encryption=none&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl-root.sworkingvpn.com&sid=15bcc0a77c3cacdf#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
 hy2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?hop_interval=10&sni=admin.wwwinternetvideo.click#🇵🇱 Польша
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@pol2.fytpn.com:2097?type=tcp&security=tls&sni=pol2.fytpn.com&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@pol2.fytpn.com:2097?sni=pol2.fytpn.com&peer=pol2.fytpn.com&security=tls#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
-vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?encryption=none&security=reality&sni=willow.cdn.cachefleet.com&fp=random&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&sid=a0938b702257f780&type=grpc&mode=gun&authority=&serviceName=telegram-bridge#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
-vless://a889fba5-5472-4022-a6b4-9710157fda2f@pol2.fytpn.com:8443?encryption=none&type=tcp&security=reality&sni=pol2.fytpn.com&fp=chrome&pbk=7JLSiscJksRdmmRLnbqXlBgc4nce6lTvhKp3NIlXHFg&sid=a2aa&flow=xtls-rprx-vision#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
-vless://2b781b4a-5942-0018-a7f3-5a07b7b488c1@94.183.157.192:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pl-root.sworkingvpn.com&fp=chrome&security=reality&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
-vless://a889fba5-5472-4022-a6b4-9710157fda2f@pol2.fytpn.com:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=pol2.fytpn.com&fp=firefox&pbk=7JLSiscJksRdmmRLnbqXlBgc4nce6lTvhKp3NIlXHFg&sid=a2aa#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AD%F0%9F%87%B0%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@pol2.fytpn.com:2097?type=tcp&security=tls&sni=pol2.fytpn.com&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443/?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&sni=#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?sni=admin.wwwinternetvideo.click#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5BBL%5D
+vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?mode=gun&security=reality&encryption=none&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&fp=random&type=grpc&serviceName=telegram-bridge&sni=willow.cdn.cachefleet.com&sid=a0938b702257f780#%F0%9F%87%AA%F0%9F%87%AA%20AetrisVPN
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@pol2.fytpn.com:2097?sni=pol2.fytpn.com&peer=pol2.fytpn.com&security=tls#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?sni=admin.wwwinternetvideo.click#🇵🇱 Польша
+vless://566666a5-8d6d-5f04-b1bd-1d7a8d69767f@70.34.255.27:443?type=xhttp&security=reality&sni=www.vimeo.com&pbk=W346PrWeGZtvDoK9WoRlffNvDMciXm8sdeWGFzyEswE&sid=b9b2364a26584325&fp=firefox&path=%2Fd95ff8df6d41&mode=auto#🇵🇱 Польша
+vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&security=reality&sid=46455ff0&sni=addons.mozilla.org&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
