@@ -1,9 +1,9 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN CH — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-08 23:56
+# generated-at: 2026-10-09 04:32
 # servers-count: 3
 
-trojan://g44i2hzwivmm7r29@195.15.202.111:4455?type=raw&headerType=none&security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&sni=play-apps-features.googleusercontent.com&sid=befb#%F0%9F%87%A8%F0%9F%87%AD%20AetrisVPN
-vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?type=raw&security=reality&fp=chrome&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&sni=www.apple.com#🇨🇭 Швейцария
 vless://15c9be2b-20f1-47b7-bf33-747ed1ff7fb7@179.255.191.86:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&security=reality&sni=sweth.ali-bard.online&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20AetrisVPN
+vless://15c9be2b-20f1-47b7-bf33-747ed1ff7fb7@179.255.191.86:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&security=reality&sni=sweth.ali-bard.online&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20AetrisVPN
+trojan://g44i2hzwivmm7r29@195.15.202.111:4455?security=reality&pbk=f4lHcjcn_RbaaNCQonkTpOyRhfPKWYxpYvL03kCXemo&headerType=none&fp=chrome&spx=/824fc1bd087b613&type=tcp&sni=play-apps-features.googleusercontent.com&sid=befb#%F0%9F%87%A8%F0%9F%87%AD%20AetrisVPN

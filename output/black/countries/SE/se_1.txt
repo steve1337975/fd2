@@ -1,10 +1,9 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN SE — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-08 23:56
-# servers-count: 4
+# generated-at: 2026-10-09 04:32
+# servers-count: 3
 
-vless://e327401a-0897-4d45-8d5a-af685c7ee363@177.3.209.112:443?security=reality&encryption=none&pbk=0gjEApZ0V3smDLC8BbSaSSFMnQIzPRBh5rQ40K-LIVM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sw.shhflow.xyz#%F0%9F%87%B8%F0%9F%87%AA%20AetrisVPN
-vless://fc00adfb-232a-46ce-8b93-0c70e516aa8a@62.60.159.81:2053?type=grpc&security=reality&fp=firefox&pbk=ygmJxS-Mc7g0buNSUTVGhazT-FoBjyYtLLfUYIQxFTw&sid=d0ea1847066af5a6&sni=www.samsung.com&serviceName=grpce5bb9e71#🇸🇪 Швеция
-vless://c20751de-06c3-4044-b6a4-eebc9b040d92@swebz.loozerp.wiki:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swebz.loozerp.wiki&fp=qq&security=reality&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a#%F0%9F%87%B8%F0%9F%87%AA%20AetrisVPN
+vless://e327401a-0897-4d45-8d5a-af685c7ee363@177.3.209.112:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0gjEApZ0V3smDLC8BbSaSSFMnQIzPRBh5rQ40K-LIVM&security=reality&sni=sw.shhflow.xyz&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20AetrisVPN
 vless://c20751de-06c3-4044-b6a4-eebc9b040d92@5.157.10.250:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swebz.loozerp.wiki&fp=&security=reality&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a#%F0%9F%87%B8%F0%9F%87%AA%20AetrisVPN
+vless://c20751de-06c3-4044-b6a4-eebc9b040d92@swebz.loozerp.wiki:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=swebz.loozerp.wiki&fp=qq&security=reality&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a#%F0%9F%87%B8%F0%9F%87%AA%20AetrisVPN

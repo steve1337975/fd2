@@ -1,8 +1,0 @@
-# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN CZ — #1
-# profile-update-interval: 1
-# generated-at: 2026-10-08 23:56
-# servers-count: 2
-
-vless://57c73139-e6ea-4859-9da1-5a833636ed31@153.76.185.151:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%87%A8%F0%9F%87%BF%20AetrisVPN
-hysteria2://c-E0lamG8OnEj9M_uh3oJPmIXqYIVGctO-NHELF1TmNYs7Jl@95.85.238.173:443?sni=cz.h2.cleanersaz.help#🇨🇿 Чехия
