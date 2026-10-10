@@ -1,8 +1,8 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN CH — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 07:31
+# generated-at: 2026-10-10 13:57
 # servers-count: 2
 
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.50:8880?host=vms.lifetime47.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.50:8880?type=ws&host=vms.lifetime47.workers.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+vless://698b212d-ca12-4794-8256-252a6e1b4533@89.127.196.31:443?encryption=none&security=tls&sni=m3k8.vpnpolar.online&fp=chrome&alpn=http%2F1.1&type=ws&path=%2Fbeeline&host=m3k8.vpnpolar.online#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
+vless://698b212d-ca12-4794-8256-252a6e1b4533@179.237.111.118:443?encryption=none&security=tls&sni=m3k8.vpnpolar.online&fp=chrome&alpn=http%2F1.1&type=ws&path=%2Fbeeline&host=m3k8.vpnpolar.online#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D

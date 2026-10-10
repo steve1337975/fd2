@@ -1,0 +1,9 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN GE — #1
+# profile-update-interval: 1
+# generated-at: 2026-10-10 13:57
+# servers-count: 3
+
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@217.11.164.183:2118?security=reality&encryption=none&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&headerType=&fp=chrome&spx=/b0801adb7de08fd&type=tcp&sni=www.apple.com&sid=68c328105c#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇩🇪 Германия
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@217.11.164.183:2120?security=reality&encryption=none&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&headerType=&fp=chrome&spx=/b0801adb7de08fd&type=tcp&sni=www.apple.com&sid=ddaaf1630788aeac#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇩🇪 Германия
+vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@217.11.164.183:2112?security=reality&encryption=none&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&headerType=&fp=chrome&spx=/b0801adb7de08fd&type=tcp&sni=www.apple.com&sid=06#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇩🇪 Германия

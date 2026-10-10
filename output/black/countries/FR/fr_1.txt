@@ -1,14 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN FR — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 07:31
-# servers-count: 8
+# generated-at: 2026-10-10 13:57
+# servers-count: 4
 
-vless://6bf680d5-7275-4554-88ee-fe4db3b14a6b@51.75.118.149:20291?path=%2Fsukot-hu&security=none&encryption=none&type=httpupgrade#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%5BBL%5D
-vless://49ade50d-9cd6-81a9-db5d-8e4a7f56930b@51.75.118.165:20023?type=ws&security=none&path=/ws/49ade50d-9cd6-81a9-db5d-8e4a7f56930b#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%5BBL%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU=@51.77.225.200:8388#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Erith%20%7C%20%5BBL%5D
-hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=www.docker.com&security=tls#🇫🇷 Франция
 hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=173.212.201.85#🇫🇷 Франция
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Strasbourg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://6bf680d5-7275-4554-88ee-fe4db3b14a6b@51.75.118.149:20291?path=%2Fsukot-trojan&security=none&host=51.75.118.149&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU%3D@51.255.13.232:8388?headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
+hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=www.docker.com&security=tls#🇫🇷 Франция
+vless://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?type=tcp&security=reality&fp=firefox&pbk=g63cT3uI0Y5iUtj3m__RYz7nmR1eIK4AYikdnZCl63w&sid=bfe58beb41f1d09f&sni=www.apple.com#🇫🇷 Франция
