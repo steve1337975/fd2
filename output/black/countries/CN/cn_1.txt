@@ -1,10 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN CN — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 13:57
-# servers-count: 4
+# generated-at: 2026-10-10 18:14
+# servers-count: 6
 
-vless://8ff8938c-49b6-b22f-a934-b55e91154ca3@122.8.45.3:8443?type=grpc&security=reality&fp=chrome&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&sni=www.hp.com&mode=gun&serviceName=TunService#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Kyiv%20%7C%20%5BBL%5D
 vless://8ff8938c-49b6-b22f-a934-b55e91154ca3@122.8.45.3:8443?type=grpc&security=reality&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&sni=www.hp.com&mode=gun&serviceName=TunService&fp=ios#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Kyiv%20%7C%20%5BBL%5D
-vless://8ff8938c-49b6-b22f-a934-b55e91154ca3@122.8.45.3:8443?mode=gun&security=reality&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&fp=chrome&type=grpc&serviceName=TunService&sni=www.hp.com#🇨🇳 Китай
+vless://8ff8938c-49b6-b22f-a934-b55e91154ca3@122.8.45.3:8443?type=grpc&security=reality&fp=firefox&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&sni=www.hp.com&mode=gun&serviceName=TunService#🇨🇳 Китай
+vless://8ff8938c-49b6-b22f-a934-b55e91154ca3@122.8.45.3:8443?type=grpc&security=reality&fp=chrome&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&sni=www.hp.com&mode=gun&serviceName=TunService#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Kyiv%20%7C%20%5BBL%5D
 vless://8ff8938c-49b6-b22f-a934-b55e91154ca3@122.8.45.3:8443?type=grpc&security=reality&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&sni=www.hp.com&mode=gun&serviceName=TunService&fp=firefox#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Kyiv%20%7C%20%5BBL%5D
+vless://8ff8938c-49b6-b22f-a934-b55e91154ca3@122.8.45.3:8443?type=grpc&security=reality&fp=random&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&sni=www.hp.com&mode=gun&serviceName=TunService#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%2C%20Kyiv%20%7C%20%5BBL%5D
+vless://8ff8938c-49b6-b22f-a934-b55e91154ca3@122.8.45.3:8443?type=grpc&security=reality&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&sni=www.hp.com&mode=gun&serviceName=TunService&fp=chrome#%F0%9F%87%BA%F0%9F%87%A6%20AetrisVPN

@@ -1,8 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN LV — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 13:57
-# servers-count: 2
+# generated-at: 2026-10-10 18:14
+# servers-count: 1
 
-vless://698b212d-ca12-4794-8256-252a6e1b4533@95.182.115.61:443?encryption=none&security=tls&sni=m3k8.vpnpolar.online&fp=chrome&alpn=http%2F1.1&type=ws&path=%2Fbeeline&host=m3k8.vpnpolar.online#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://698b212d-ca12-4794-8256-252a6e1b4533@188.130.154.43:443?encryption=none&security=tls&sni=m3k8.vpnpolar.online&fp=chrome&alpn=http%2F1.1&type=ws&path=%2Fbeeline&host=m3k8.vpnpolar.online#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://f7f48934-f14c-4819-b225-36e89bda5491@185.220.223.109:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lv.shadowshroom.org&pbk=RdMrEyniUBYe4bPHFYIwdczUWW4vbZe_DboFu8gjN0w&type=tcp&fp=firefox#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%7C%20%5BBL%5D

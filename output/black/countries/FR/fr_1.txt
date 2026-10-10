@@ -1,10 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN FR — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 13:57
+# generated-at: 2026-10-10 18:14
 # servers-count: 4
 
 hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=173.212.201.85#🇫🇷 Франция
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU%3D@51.255.13.232:8388?headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
+vless://b804593e-8b69-5cd0-9082-5ca59f59eeec@173.199.71.90:443?encryption=none&type=xhttp&security=reality&sni=www.vimeo.com&pbk=ctzP6t-rVczgXwSI0p9iJaiOxCxCeAr7dic2q9n08kU&sid=2d217da6b57e3d9d&fp=firefox&path=/48bf90eba6bb&mode=auto&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxConcurrency%22%3A0%7D%7D#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
 hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=www.docker.com&security=tls#🇫🇷 Франция
-vless://bf16ee0c-8b3c-41e4-ab3a-8b48033c404e@51.77.217.70:2053?type=tcp&security=reality&fp=firefox&pbk=g63cT3uI0Y5iUtj3m__RYz7nmR1eIK4AYikdnZCl63w&sid=bfe58beb41f1d09f&sni=www.apple.com#🇫🇷 Франция
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU%3D@51.255.13.232:8388?headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN

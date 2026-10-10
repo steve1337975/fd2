@@ -1,7 +1,0 @@
-# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN EE — #1
-# profile-update-interval: 1
-# generated-at: 2026-10-10 13:57
-# servers-count: 1
-
-vless://6e3e7688-84a3-425a-ba71-fae8b4a35554@132.243.66.56:8444?mode=stream-up&path=%2Fexvpn-wifi&security=reality&pbk=NzExXvFV3fCDZapFDxB3yQT8DBUZI5zWK8-n_qjXKCo&fp=random&type=xhttp&sni=www.cloudflare.com&sid=096816ee6a84b61e#🇪🇪 Эстония

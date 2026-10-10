@@ -1,7 +1,8 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN TR — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 13:57
-# servers-count: 1
+# generated-at: 2026-10-10 18:14
+# servers-count: 2
 
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@62.60.233.157:8444?type=grpc&security=reality&fp=chrome&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&sni=github.com&mode=gun&serviceName=GunService#🇹🇷 Турция
+vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@62.60.233.157:8444?type=grpc&security=reality&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&sni=github.com&serviceName=GunService#🇹🇷 Турция
+vless://1ad776a9-be7b-4c52-9d79-6ce80084f2a5@trrr-istrr-2.blook.network:443?encryption=none&security=tls&sni=trrr-istrr-2.blook.network&alpn=h2&type=xhttp&path=%2FVLSpdG9k&mode=stream-one&extra=%7B%22noGRPCHeader%22%3Atrue%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A%2216-32%22%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%22300-900%22%2C%22maxConcurrency%22%3A%221-2%22%7D%7D&fp=random#%F0%9F%87%B9%F0%9F%87%B7%20AetrisVPN

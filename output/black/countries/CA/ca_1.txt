@@ -1,7 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN CA — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 13:57
-# servers-count: 1
+# generated-at: 2026-10-10 18:14
+# servers-count: 4
 
-vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?type=raw&security=reality&fp=firefox&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&sid=83f8317a948bb769&sni=www.cloudflare.com#🇨🇦 Канада
+vless://79e0a664-cd66-4aa2-ab4f-5039c1c19bf2@70.38.95.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pkg.go.dev&fp=random&pbk=0du0bcP9VqKadj6p_W9P-3APJ9fJdNT1ZdHqg0JWkg8&sid=18de7b601c10639f&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20AetrisVPN
+vless://60d39760-3923-5026-83f6-511e6bd9f4c6@155.138.128.221:443?encryption=none&type=xhttp&security=reality&sni=www.vimeo.com&pbk=aQpjaDMsoeJT07B5RuOlwRxep4KP1FEInZuXiL1ghU4&sid=513c20798272775d&fp=firefox&path=/9199e2508808&mode=auto&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxConcurrency%22%3A0%7D%7D#%F0%9F%87%A8%F0%9F%87%A6%20AetrisVPN
+vless://60d39760-3923-5026-83f6-511e6bd9f4c6@155.138.128.221:443?encryption=none&type=xhttp&security=reality&sni=www.vimeo.com&pbk=aQpjaDMsoeJT07B5RuOlwRxep4KP1FEInZuXiL1ghU4&sid=513c20798272775d&fp=firefox&path=/9199e2508808&mode=auto&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxConcurrency%22%3A0%7D%7D#🇨🇦 Канада
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.39.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime17.workers.dev#%F0%9F%87%A8%F0%9F%87%A6%20AetrisVPN
