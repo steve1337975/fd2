@@ -1,14 +1,9 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN TROJAN — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 18:14
-# servers-count: 8
+# generated-at: 2026-10-10 21:48
+# servers-count: 3
 
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger1.fytpn.com:443?security=tls&sni=ger1.fytpn.com&type=tcp&headerType=none&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
 trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger1.fytpn.com:443?security=tls&sni=ger1.fytpn.com&fp=firefox&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@91.92.43.240:443?security=tls&sni=ger1.fytpn.com&fp=firefox&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-trojan://aec8e5e3-bb81-4b22-8802-0b88c54997b3@my1.australiacaregroup.site:10003?security=tls&type=ws&host=my1.australiacaregroup.site&path=%2Ftrojan&sni=my1.australiacaregroup.site#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?security=tls&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@91.92.43.240:443?security=tls&sni=ger1.fytpn.com&type=tcp&headerType=none&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
 trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?security=tls#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-trojan://aec8e5e3-bb81-4b22-8802-0b88c54997b3@my1.australiacaregroup.site:10003?security=tls&type=ws&host=my1.australiacaregroup.site&path=%2Ftrojan&sni=my1.australiacaregroup.site&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
+trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@91.92.43.240:443?security=tls&sni=ger1.fytpn.com&fp=firefox&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN

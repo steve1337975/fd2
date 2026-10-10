@@ -1,8 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN AM — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 18:14
-# servers-count: 2
+# generated-at: 2026-10-10 21:48
+# servers-count: 1
 
-vless://8bd04756-3beb-4348-82c9-d35453df50ce@spainspeedboostjbl88.qcloud.surf:27311?security=reality&encryption=none&pbk=9vHDWMrmerdjndp_XHbCc9jaR-9K95H_mwpLvI2emkY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=56daff9a#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания
 vless://8bd04756-3beb-4348-82c9-d35453df50ce@157.228.69.91:27311?security=reality&encryption=none&pbk=9vHDWMrmerdjndp_XHbCc9jaR-9K95H_mwpLvI2emkY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=56daff9a#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇪🇸 Испания

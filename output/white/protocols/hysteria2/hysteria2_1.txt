@@ -1,7 +1,0 @@
-# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN HYSTERIA2 — #1
-# profile-update-interval: 1
-# generated-at: 2026-10-10 18:14
-# servers-count: 1
-
-hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443#🇵🇱 Польша

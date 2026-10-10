@@ -1,9 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN CZ — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 18:14
-# servers-count: 3
+# generated-at: 2026-10-10 21:48
+# servers-count: 4
 
-vless://14d14e40-16e5-4972-8e13-d87ec3a949ee@153.76.185.168:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%87%A8%F0%9F%87%BF%20AetrisVPN
-vless://8b48bec3-93ce-47fa-9010-0452de933a62@153.76.185.86:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Чехия
-vless://8b48bec3-93ce-47fa-9010-0452de933a62@153.76.185.91:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Чехия
+vless://a7a4e6f3-4e63-4cc2-ba22-4635f3ff6aca@153.76.185.164:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🇨🇿 Чехия
+vless://72551fa3-ab05-49b0-8b45-ea65b8c98d23@153.76.185.149:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%87%A8%F0%9F%87%BF%20AetrisVPN
+vless://8b48bec3-93ce-47fa-9010-0452de933a62@153.76.185.91:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%87%A8%F0%9F%87%BF%20AetrisVPN
+vless://8b48bec3-93ce-47fa-9010-0452de933a62@153.76.185.86:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#%F0%9F%87%A8%F0%9F%87%BF%20AetrisVPN

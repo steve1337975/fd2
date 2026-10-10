@@ -1,10 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN FR — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 18:14
-# servers-count: 4
+# generated-at: 2026-10-10 21:48
+# servers-count: 5
 
-hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=173.212.201.85#🇫🇷 Франция
-vless://b804593e-8b69-5cd0-9082-5ca59f59eeec@173.199.71.90:443?encryption=none&type=xhttp&security=reality&sni=www.vimeo.com&pbk=ctzP6t-rVczgXwSI0p9iJaiOxCxCeAr7dic2q9n08kU&sid=2d217da6b57e3d9d&fp=firefox&path=/48bf90eba6bb&mode=auto&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxConcurrency%22%3A0%7D%7D#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
 hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=www.docker.com&security=tls#🇫🇷 Франция
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU%3D@51.255.13.232:8388?headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
+vless://efa9d618-443e-4d9a-9c67-c4b3d9d73995@fi2.hidenet.xyz:8443?type=grpc&security=reality&fp=firefox&pbk=Fcr_qsQtCw12qIvMiIDSnsWXAd0nk9QVP6c5hZPy0AI&sni=fi2.hidenet.xyz&serviceName=grpc#🇫🇷 Франция
+vless://49ade50d-9cd6-81a9-db5d-8e4a7f56930b@51.75.118.165:20023?path=/ws/49ade50d-9cd6-81a9-db5d-8e4a7f56930b&security=&encryption=none&host=51.75.118.165&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
+vless://b804593e-8b69-5cd0-9082-5ca59f59eeec@173.199.71.90:443?encryption=none&type=xhttp&security=reality&sni=www.vimeo.com&pbk=ctzP6t-rVczgXwSI0p9iJaiOxCxCeAr7dic2q9n08kU&sid=2d217da6b57e3d9d&fp=firefox&path=/48bf90eba6bb&mode=auto&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxConcurrency%22%3A0%7D%7D#🇫🇷 Франция
+hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=173.212.201.85#🇫🇷 Франция

@@ -1,7 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN IR — #1
+# profile-title: VPN EE — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 18:14
+# generated-at: 2026-10-10 21:48
 # servers-count: 1
 
-vless://ff766b85-d50f-47b7-9b63-6ca4ea128f3f@mail.loyalsmile.net:2052?path=%2Fwp-content4&security=&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://698b212d-ca12-4794-8256-252a6e1b4533@5.101.118.146:443?encryption=none&security=tls&sni=m3k8.vpnpolar.online&fp=chrome&alpn=http%2F1.1&type=ws&path=%2Fbeeline&host=m3k8.vpnpolar.online#%F0%9F%87%B3%F0%9F%87%B1%20AetrisVPN

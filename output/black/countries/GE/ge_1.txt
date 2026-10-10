@@ -1,8 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN GE — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 18:14
-# servers-count: 2
+# generated-at: 2026-10-10 21:48
+# servers-count: 1
 
 vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@217.11.164.183:2112?security=reality&encryption=none&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&headerType=&fp=chrome&spx=/b0801adb7de08fd&type=tcp&sni=www.apple.com&sid=06#🇬🇪 Грузия
-vless://4476ca08-bdb4-41c1-bae4-a960bdb28c19@217.11.164.183:2120?security=reality&encryption=none&pbk=bWIOrQAqUWCrz6BGdwaG42xaV-HEo8sUdGqVktUh0XU&headerType=&spx=%2Fb0801adb7de08fd&type=tcp&sni=www.apple.com&sid=ddaaf1630788aeac&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20AetrisVPN

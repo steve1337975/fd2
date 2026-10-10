@@ -1,0 +1,8 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN CH — #1
+# profile-update-interval: 1
+# generated-at: 2026-10-10 21:48
+# servers-count: 2
+
+vless://698b212d-ca12-4794-8256-252a6e1b4533@179.237.111.118:443?encryption=none&security=tls&sni=m3k8.vpnpolar.online&fp=chrome&alpn=http%2F1.1&type=ws&path=%2Fbeeline&host=m3k8.vpnpolar.online#%F0%9F%87%B3%F0%9F%87%B1%20AetrisVPN
+vless://12e95f93-443c-45f0-9a2a-5b318b9124cf@179.255.191.86:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&sni=dobro.ali-bard.online#%F0%9F%87%A8%F0%9F%87%AD%20AetrisVPN

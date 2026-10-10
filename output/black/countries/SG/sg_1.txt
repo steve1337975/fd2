@@ -1,16 +1,17 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN SG — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 18:14
-# servers-count: 10
+# generated-at: 2026-10-10 21:48
+# servers-count: 11
 
-vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@34.87.113.18:443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&fp=qq#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
-vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@34.87.113.18:443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&fp=ios#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
-vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@34.87.113.18:443?security=reality&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20AetrisVPN
+vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@34.87.113.18:443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
+vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@34.87.113.18:443?security=reality&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=qq#🇸🇬 Сингапур
+vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@34.87.113.18:443?security=reality&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=safari#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
 vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@34.87.113.18:443?security=reality&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=firefox#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
 vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@34.87.113.18:443?&security=reality&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
-vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@34.87.113.18:443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
-vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@34.87.113.18:443?security=reality&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=qq#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
-vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@34.87.113.18:443?security=reality&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=safari#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
 vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@34.87.113.18:443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&fp=chrome#🇸🇬 Сингапур
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Queenstown%20Estate%29%20%7C%20%5BBL%5D
+vless://aec8e5e3-bb81-4b22-8802-0b88c54997b3@gz2.vatilon.cc:8447?encryption=none&security=tls&type=tcp&sni=48.maoming.org&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
+vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@34.87.113.18:443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&fp=ios#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
+vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@34.87.113.18:443?security=reality&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=qq#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
+vless://aec8e5e3-bb81-4b22-8802-0b88c54997b3@gz2.vatilon.cc:36032?encryption=none&security=tls&type=tcp&sni=us2.australiacaregroup.site&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://5567cac6-2a32-4318-83cd-7df3a9eebbd7@34.87.113.18:443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=hJCcmOf_ECJ3GUfHUjsgfcFKcgGb22H7cz_m_FvcVm4&sid=eb97ce837da2f6ad&fp=qq#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
