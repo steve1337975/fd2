@@ -1,9 +1,14 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN FR — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 01:26
-# servers-count: 3
+# generated-at: 2026-10-10 07:31
+# servers-count: 8
 
-vless://2219d55c-f419-402d-a185-9498cb031423@206.245.131.165:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.fr.forge-relay.com&fp=firefox&pbk=tW28ur4PP6lSr5XeKLu1njwm_W2Cv83EOoBaMn7ivVg&sid=a1b2c3d4#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
-hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=173.212.201.85#🇫🇷 Франция
+vless://6bf680d5-7275-4554-88ee-fe4db3b14a6b@51.75.118.149:20291?path=%2Fsukot-hu&security=none&encryption=none&type=httpupgrade#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%5BBL%5D
+vless://49ade50d-9cd6-81a9-db5d-8e4a7f56930b@51.75.118.165:20023?type=ws&security=none&path=/ws/49ade50d-9cd6-81a9-db5d-8e4a7f56930b#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU=@51.77.225.200:8388#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Erith%20%7C%20%5BBL%5D
 hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=www.docker.com&security=tls#🇫🇷 Франция
+hysteria2://gf1:gfhysteria2024@173.212.201.85:443?sni=173.212.201.85#🇫🇷 Франция
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Strasbourg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://6bf680d5-7275-4554-88ee-fe4db3b14a6b@51.75.118.149:20291?path=%2Fsukot-trojan&security=none&host=51.75.118.149&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Roubaix%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU%3D@51.255.13.232:8388?headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN

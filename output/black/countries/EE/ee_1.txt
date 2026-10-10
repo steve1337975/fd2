@@ -1,8 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN EE — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 01:26
-# servers-count: 2
+# generated-at: 2026-10-10 07:31
+# servers-count: 1
 
-vless://596bea4f-a61b-4ad9-86a1-717066a67192@185.93.33.20:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&security=reality&sid=2f49bccf11150ef2&sni=jobs.vkimages.io&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
-vless://596bea4f-a61b-4ad9-86a1-717066a67192@est.riotvpn.eu:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jobs.vkimages.io&fp=qq&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
+vless://6e3e7688-84a3-425a-ba71-fae8b4a35554@132.243.66.56:8444?mode=stream-up&path=%2Fexvpn-wifi&security=reality&pbk=NzExXvFV3fCDZapFDxB3yQT8DBUZI5zWK8-n_qjXKCo&fp=random&type=xhttp&sni=www.cloudflare.com&sid=096816ee6a84b61e#🇪🇪 Эстония

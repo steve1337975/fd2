@@ -1,0 +1,7 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN LU — #1
+# profile-update-interval: 1
+# generated-at: 2026-10-10 07:31
+# servers-count: 1
+
+vless://8325bd97-b77c-4917-acaa-2446e9e8cc03@lbeiggdz.smart-cats.ru:443?type=grpc&security=reality&fp=firefox&pbk=mzrVbIsEggpJfXR8M7yxki2vgv3sXWQdy1bGhXqatUY&sid=79651ae525860543&sni=vk.com&mode=gun&serviceName=haknewhpjmv&spx=%2F#AetrisVPN White list ┃ ✅ SNI: vk.com ┃ 🇩🇪 Германия
