@@ -1,10 +1,9 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN ZA — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-09 21:52
-# servers-count: 4
+# generated-at: 2026-10-10 01:26
+# servers-count: 3
 
-vless://8d65c8a7-4876-4556-bb6a-feccfb46ee81@34.35.186.228:443?fp=chrome&pbk=bSN0cv0VMxmYZsNsMkkLndOTHZu74C1htJ2M71QMaVE&security=reality&sid=89b3a20484eb43ec&sni=www.cloudflare.com&type=raw#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%2C%20Johannesburg%20%7C%20%5BBL%5D
-vless://4758aee6-6d1a-4306-b460-2398b5af4e35@34.35.189.111:443?type=tcp&security=reality&fp=chrome&pbk=dcox8XXfkOCmKn3kgrloj6wY5o1_0brJOi2mczYmAT4&sid=5ced03e42cc31aab&sni=www.cloudflare.com&host=www.cloudflare.com#🇿🇦 ЮАР
-vless://4758aee6-6d1a-4306-b460-2398b5af4e35@34.35.189.111:443?&security=reality&pbk=dcox8XXfkOCmKn3kgrloj6wY5o1_0brJOi2mczYmAT4&sid=5ced03e42cc31aab&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%2C%20Johannesburg%20%7C%20%5BBL%5D
 vless://4758aee6-6d1a-4306-b460-2398b5af4e35@34.35.189.111:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&type=tcp&pbk=dcox8XXfkOCmKn3kgrloj6wY5o1_0brJOi2mczYmAT4&sid=5ced03e42cc31aab#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%2C%20Johannesburg%20%7C%20%5BBL%5D
+vless://4758aee6-6d1a-4306-b460-2398b5af4e35@34.35.189.111:443?&security=reality&pbk=dcox8XXfkOCmKn3kgrloj6wY5o1_0brJOi2mczYmAT4&sid=5ced03e42cc31aab&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%2C%20Johannesburg%20%7C%20%5BBL%5D
+vless://8d65c8a7-4876-4556-bb6a-feccfb46ee81@34.35.186.228:443?fp=chrome&pbk=bSN0cv0VMxmYZsNsMkkLndOTHZu74C1htJ2M71QMaVE&security=reality&sid=89b3a20484eb43ec&sni=www.cloudflare.com&type=raw#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%2C%20Johannesburg%20%7C%20%5BBL%5D

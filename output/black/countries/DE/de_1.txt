@@ -1,31 +1,41 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN DE — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-09 21:52
-# servers-count: 25
+# generated-at: 2026-10-10 01:26
+# servers-count: 35
 
-hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@dehy.bbobr.win:443?sni=dehy.bbobr.win#🇩🇪 Германия
-hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@dehy.bbobr.win:443?security=tls&sni=dehy.bbobr.win&alpn=h3&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-vless://a889fba5-5472-4022-a6b4-9710157fda2f@78.17.153.110:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9PaxmP7HVz6WmHzkX0eUAit8_EFG5BNMM3GZ_PhmjG0&security=reality&sid=a2aa&sni=github.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-vless://596bea4f-a61b-4ad9-86a1-717066a67192@193.42.12.43:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&security=reality&sid=2f49bccf11150ef2&sni=static.vkimages.io&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.181:443?sni=dehy.bbobr.win#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-vless://a889fba5-5472-4022-a6b4-9710157fda2f@138.124.73.88:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SpDERK2bCJgRdaDP3cSsQDfOCghD94d0-zjuKIHYQy0&security=reality&sid=a2aa&sni=github.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.33:443?sni=dehy.bbobr.win&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vless://2219d55c-f419-402d-a185-9498cb031423@138.124.228.124:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.de.forge-relay.com&fp=firefox&pbk=tW28ur4PP6lSr5XeKLu1njwm_W2Cv83EOoBaMn7ivVg&sid=a1b2c3d4#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@177.3.216.217:20268?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&security=reality&sid=0c774b50&sni=metrika.yandex.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-vless://3d1752a5-2832-4981-878d-f4aca87d6f86@64.188.119.73:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=zvLIiZsAqG2Uz9FEBPJ1q2P6lUmG4SBv-M7vlDuqEFo&sid=421880b82d&sni=ocd1.global-media-cache.com#🇩🇪 Германия
-vless://596bea4f-a61b-4ad9-86a1-717066a67192@185.254.98.67:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&security=reality&sid=2f49bccf11150ef2&sni=static.vkimages.io&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=ios#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@dehy.bbobr.win:443?sni=dehy.bbobr.win&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://596bea4f-a61b-4ad9-86a1-717066a67192@194.107.126.243:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&security=reality&sid=2f49bccf11150ef2&sni=static.vkimages.io&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
 hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.33:443?sni=dehy.bbobr.win#🇩🇪 Германия
-hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.181:443?security=tls&sni=dehy.bbobr.win&alpn=h3&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@ge-s-1.pythonmakemigreat.wiki:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ge-s-1.pythonmakemigreat.wiki&fp=chrome&security=reality&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&sid=2c9a2790ad5900b2#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://596bea4f-a61b-4ad9-86a1-717066a67192@185.254.98.181:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&security=reality&sid=2f49bccf11150ef2&sni=static.vkimages.io&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?fp=chrome&host=test.keoplentuio.xyz&path=%2F&security=false&type=tcp#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp&sni=test.keoplentuio.xyz#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=qq#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.181:443?sni=dehy.bbobr.win#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+vless://a889fba5-5472-4022-a6b4-9710157fda2f@138.124.73.88:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SpDERK2bCJgRdaDP3cSsQDfOCghD94d0-zjuKIHYQy0&security=reality&sid=a2aa&sni=github.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
+hysteria2://83rwy5zazcx1f4i6@top.bostnet.xyz:443?sni=177.3.217.45#🇩🇪 Германия
+vless://596bea4f-a61b-4ad9-86a1-717066a67192@185.254.98.67:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&security=reality&sid=2f49bccf11150ef2&sni=static.vkimages.io&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?type=tcp&security=false&path=%2F&host=test.keoplentuio.xyz&sni=test.keoplentuio.xyz&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@dehy.bbobr.win:443?security=tls&sni=dehy.bbobr.win&alpn=h3&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@177.3.216.217:20268?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&security=reality&sid=0c774b50&sni=metrika.yandex.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
+vless://7a70989d-5977-44b3-a316-bc1f51dd6ce0@top.bostnet.xyz:443?type=xhttp&security=reality&fp=chrome&pbk=LFaQKwnc-e5bKkOm99cYxYTsy-cc3mdvsnRsdFXcOUk&sid=63c92cbb2b0f20fb&sni=de2.freenetrent.space&path=/li0jtr3e0m&mode=auto&extra={#🇩🇪 Германия
 vless://596bea4f-a61b-4ad9-86a1-717066a67192@194.107.126.143:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&security=reality&sid=2f49bccf11150ef2&sni=static.vkimages.io&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
 vless://2b5798ed-8acc-57fa-ad1a-e378ab143a43@45.32.152.194:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4O9OGLb8X8wUSx1mWlSG67kRZk7Jey4-MVyt8tzaNFk&security=reality&sid=17d65a607618697d&sni=www.vimeo.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
-vless://7a70989d-5977-44b3-a316-bc1f51dd6ce0@top.bostnet.xyz:443?type=xhttp&security=reality&fp=chrome&pbk=LFaQKwnc-e5bKkOm99cYxYTsy-cc3mdvsnRsdFXcOUk&sid=63c92cbb2b0f20fb&sni=de2.freenetrent.space&path=/li0jtr3e0m&mode=auto&extra={#🇩🇪 Германия
-trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-vless://596bea4f-a61b-4ad9-86a1-717066a67192@194.107.126.243:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&security=reality&sid=2f49bccf11150ef2&sni=static.vkimages.io&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.181:443?security=tls&sni=dehy.bbobr.win&alpn=h3&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
+hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@188.241.241.33:443?sni=dehy.bbobr.win&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+vless://596bea4f-a61b-4ad9-86a1-717066a67192@193.42.12.43:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&security=reality&sid=2f49bccf11150ef2&sni=static.vkimages.io&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+hysteria2://83rwy5zazcx1f4i6@top.bostnet.xyz:443?fp=chrome&security=tls#🇩🇪 Германия
+vless://3d1752a5-2832-4981-878d-f4aca87d6f86@64.188.119.73:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=zvLIiZsAqG2Uz9FEBPJ1q2P6lUmG4SBv-M7vlDuqEFo&sid=421880b82d&sni=ocd1.global-media-cache.com#🇩🇪 Германия
+vless://a889fba5-5472-4022-a6b4-9710157fda2f@78.17.153.110:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=9PaxmP7HVz6WmHzkX0eUAit8_EFG5BNMM3GZ_PhmjG0&security=reality&sid=a2aa&sni=github.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
 hysteria2://267b3a79-81f2-42ac-a409-c23b05b6329d@dehy.bbobr.win:443?sni=dehy.bbobr.win&security=tls#🇩🇪 Германия
-hysteria2://83rwy5zazcx1f4i6@top.bostnet.xyz:443?sni=177.3.217.45#🇩🇪 Германия
-vless://596bea4f-a61b-4ad9-86a1-717066a67192@185.254.98.181:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&security=reality&sid=2f49bccf11150ef2&sni=static.vkimages.io&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-trojan://humanity@45.80.111.7:443?security=tls&type=ws&path=%2Fassignment&sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
