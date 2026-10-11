@@ -1,7 +1,7 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN IT — #1
+# profile-title: VPN UNKNOWN — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 21:48
+# generated-at: 2026-10-11 00:32
 # servers-count: 1
 
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ%3D%3D@57.131.48.45:8388?headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20AetrisVPN
+vless://ed2864f9-37b3-4222-8c54-014aedc400a2@champion.xn--kivt58h.lol:80?type=ws&sni=champion.xn--kivt58h.lol&host=ak.mcdonaldshamburgergoodgoodgood.xyz#🇺🇸 США

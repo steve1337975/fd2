@@ -1,8 +1,8 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN AU — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 21:48
+# generated-at: 2026-10-11 00:32
 # servers-count: 2
 
+vless://73c5b3ea-084c-5b51-a220-f9f65f466d0d@149.28.182.132:443?encryption=none&type=xhttp&security=reality&sni=www.vimeo.com&pbk=BH2DyRz6XWjzwZXFGaLEwPHVuY0TlJnsNqfWV7sGLgE&sid=488b77e21aa1bee6&fp=firefox&path=/0eb09b0a0f1f&mode=auto&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxConcurrency%22%3A0%7D%7D#%F0%9F%87%A6%F0%9F%87%BA%20AetrisVPN
 vless://73c5b3ea-084c-5b51-a220-f9f65f466d0d@149.28.182.132:443?encryption=none&type=xhttp&security=reality&sni=www.vimeo.com&pbk=BH2DyRz6XWjzwZXFGaLEwPHVuY0TlJnsNqfWV7sGLgE&sid=488b77e21aa1bee6&fp=firefox&path=/0eb09b0a0f1f&mode=auto&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxConcurrency%22%3A0%7D%7D#🇦🇺 Австралия
-vless://8afeb33c-b686-43e9-a629-0d98f991ec28@144.172.65.72:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=random&pbk=f25sygANXTpzdc9YPCwkggwSmm3piA3BluSeHdfG-hg&sni=www.tradingview.com#%F0%9F%87%A6%F0%9F%87%BA%20Australia%2C%20Haymarket%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D

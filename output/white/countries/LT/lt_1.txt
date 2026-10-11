@@ -1,0 +1,7 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN LT — #1
+# profile-update-interval: 1
+# generated-at: 2026-10-11 00:32
+# servers-count: 1
+
+vless://54c4bece-fa4f-4ac3-9c19-7c12b379cd0a@fastest.phantom.direct:443?type=tcp&security=reality&sni=www.vk.com&pbk=Sh5wKMCzi5dg0zH6Vn6pSl0WPWC1Q4eVluKQRFm-9Rs&sid=dcc96d50632eb107&fp=firefox&spx=/&encryption=none&flow=xtls-rprx-vision#AetrisVPN White list ┃ ✅ SNI: www.vk.com ┃ 🇱🇹 Литва

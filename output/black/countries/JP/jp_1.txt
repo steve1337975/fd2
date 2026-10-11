@@ -1,15 +1,25 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN JP — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 21:48
-# servers-count: 9
+# generated-at: 2026-10-11 00:32
+# servers-count: 19
 
-vless://aec8e5e3-bb81-4b22-8802-0b88c54997b3@gz1.polymarket.party:23202?encryption=none&security=tls&type=tcp&sni=jp2.australiacaregroup.site&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Jose%20%7C%20%5BBL%5D
-vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=raw#🇯🇵 Япония
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?type=tcp&headerType=none&security=reality&encryption=none&sni=jp3.nztvpn.com&fp=firefox&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&sid=ea36c03d86f91287&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?sni=bing.com#🇯🇵 Япония
+vless://aec8e5e3-bb81-4b22-8802-0b88c54997b3@gz1.polymarket.party:50002?encryption=none&security=tls&type=tcp&sni=tyo1.australiacaregroup.site&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%28Higashishinagawa%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=tcp&sni=152.69.195.67#🇯🇵 Япония
+vless://81c4547b-e5d8-4af8-baf0-91c5c0c05a9b@tyo-a-02.auuas.com:1891?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.npmjs.com&fp=random&pbk=O7lEfntqflgUugTLJmJNv8qw9Qe0tagUlyDwS3yY4Uo&sid=8378f267&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?sni=bing.com&security=tls#🇯🇵 Япония
+vless://aec8e5e3-bb81-4b22-8802-0b88c54997b3@gz1.polymarket.party:23202?encryption=none&security=tls&type=tcp&sni=jp2.australiacaregroup.site&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Jose%20%7C%20%5BBL%5D
+vless://81c4547b-e5d8-4af8-baf0-91c5c0c05a9b@tyo-a-02.auuas.com:1891?type=tcp&security=reality&sni=www.npmjs.com&flow=xtls-rprx-vision&pbk=O7lEfntqflgUugTLJmJNv8qw9Qe0tagUlyDwS3yY4Uo&sid=8378f267&fp=qq#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?type=tcp&headerType=none&security=reality&encryption=none&sni=jp3.nztvpn.com&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&sid=ea36c03d86f91287&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?type=tcp&headerType=none&security=reality&encryption=none&sni=jp3.nztvpn.com&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&sid=ea36c03d86f91287&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&encryption=none&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&headerType=&type=tcp&flow=xtls-rprx-vision&sni=jp3.nztvpn.com&sid=ea36c03d86f91287#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?encryption=none&security=none&sni=152.69.195.67&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
+vless://81c4547b-e5d8-4af8-baf0-91c5c0c05a9b@tyo-a-02.auuas.com:1891?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=O7lEfntqflgUugTLJmJNv8qw9Qe0tagUlyDwS3yY4Uo&sid=8378f267&sni=www.npmjs.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?type=tcp&security=reality&sni=jp3.nztvpn.com&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&sid=ea36c03d86f91287&fp=firefox&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&sid=ea36c03d86f91287&sni=jp3.nztvpn.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=raw#🇯🇵 Япония
+vless://fe0721ac-c577-4938-b7ca-8ab5f43bb8da@38.180.202.173:9443?security=reality&flow=xtls-rprx-vision&pbk=0hIFPaEn4RdFib8_eP8HYxMywR5izEwM3JA2W1Zo8U4&sid=b390142456517acc&fp=random&sni=www.amazon.com&type=tcp&headerType=none&host=www.amazon.com&path=%2F#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?type=tcp&headerType=none&security=reality&encryption=none&sni=jp3.nztvpn.com&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&sid=ea36c03d86f91287&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?type=tcp&headerType=none&security=reality&encryption=none&sni=jp3.nztvpn.com&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&sid=ea36c03d86f91287&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
 vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?type=tcp&headerType=none&security=reality&encryption=none&sni=jp3.nztvpn.com&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&sid=ea36c03d86f91287&flow=xtls-rprx-vision&fp=ios#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?type=tcp&headerType=none&security=reality&encryption=none&sni=jp3.nztvpn.com&fp=firefox&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&sid=ea36c03d86f91287&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518?security=reality&sni=github.com&fp=chrome&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&sid=6caead99&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D

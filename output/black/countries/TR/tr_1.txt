@@ -1,7 +1,8 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN TR — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 21:48
-# servers-count: 1
+# generated-at: 2026-10-11 00:32
+# servers-count: 2
 
+vless://1c6bd728-c4bb-11f1-9b37-ae74803e1191@nl03-gos.everycom.store:8443?type=grpc&security=reality&fp=random&pbk=ULkeAC-sya96NLLkoSptqmwyc__sfpV7qWKXqQjn-Wk&sni=nl01-gos.everycom.store#🇹🇷 Турция
 vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@62.60.233.157:8444?type=grpc&security=reality&fp=chrome&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&sni=github.com&serviceName=GunService#🇹🇷 Турция

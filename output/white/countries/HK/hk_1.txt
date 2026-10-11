@@ -1,8 +1,9 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN HK — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 21:48
-# servers-count: 2
+# generated-at: 2026-10-11 00:32
+# servers-count: 3
 
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@43.247.132.85:41563?security=reality&sni=iosapps.itunes.apple.com&fp=random&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&sid=25c79e5856c7&flow=xtls-rprx-vision&type=tcp&encryption=none#AetrisVPN White list ┃ ✅ SNI: iosapps.itunes.apple.com ┃ 🇫🇷 Франция
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@43.247.132.85:41563?security=reality&sni=iosapps.itunes.apple.com&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&sid=25c79e5856c7&flow=xtls-rprx-vision&type=tcp&encryption=none&fp=random#AetrisVPN White list ┃ ✅ SNI: iosapps.itunes.apple.com ┃ 🇫🇷 Франция
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@43.247.132.85:41563?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&security=reality&sid=25c79e5856c7&sni=iosapps.itunes.apple.com&type=tcp#AetrisVPN White list ┃ ✅ SNI: iosapps.itunes.apple.com ┃ 🇫🇷 Франция
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@43.247.132.42:41563?security=reality&sni=iosapps.itunes.apple.com&fp=random&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&sid=25c79e5856c7&flow=xtls-rprx-vision&type=tcp&encryption=none#AetrisVPN White list ┃ ✅ SNI: iosapps.itunes.apple.com ┃ 🇫🇷 Франция

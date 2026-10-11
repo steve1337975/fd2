@@ -1,0 +1,11 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN NON-RU — #2
+# profile-update-interval: 1
+# generated-at: 2026-10-11 00:32
+# servers-count: 5
+
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp&headerType=none#🇩🇪 Германия
+vless://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#AetrisVPN White list ┃ ✅ SNI: web.max.ru ┃ 🇺🇸 США
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&alpn=http/1.1&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇵🇱 Польша
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
+vless://072baf2f-574e-4939-8b20-ccd89c17fefb@95.85.229.185:8443?type=tcp&security=reality&sni=eh.vk.com&fp=chrome&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6#AetrisVPN White list ┃ ✅ SNI: eh.vk.com ┃ 🇪🇸 Испания

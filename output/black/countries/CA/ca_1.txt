@@ -1,8 +1,8 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN CA — #1
 # profile-update-interval: 1
-# generated-at: 2026-10-10 21:48
+# generated-at: 2026-10-11 00:32
 # servers-count: 2
 
-vless://60d39760-3923-5026-83f6-511e6bd9f4c6@155.138.128.221:443?encryption=none&type=xhttp&security=reality&sni=www.vimeo.com&pbk=aQpjaDMsoeJT07B5RuOlwRxep4KP1FEInZuXiL1ghU4&sid=513c20798272775d&fp=firefox&path=/9199e2508808&mode=auto&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxConcurrency%22%3A0%7D%7D#🇨🇦 Канада
 vless://60d39760-3923-5026-83f6-511e6bd9f4c6@155.138.128.221:443?encryption=none&type=xhttp&security=reality&sni=www.vimeo.com&pbk=aQpjaDMsoeJT07B5RuOlwRxep4KP1FEInZuXiL1ghU4&sid=513c20798272775d&fp=firefox&path=/9199e2508808&mode=auto&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxConcurrency%22%3A0%7D%7D#%F0%9F%87%A8%F0%9F%87%A6%20AetrisVPN
+vless://60d39760-3923-5026-83f6-511e6bd9f4c6@155.138.128.221:443?encryption=none&type=xhttp&security=reality&sni=www.vimeo.com&pbk=aQpjaDMsoeJT07B5RuOlwRxep4KP1FEInZuXiL1ghU4&sid=513c20798272775d&fp=firefox&path=/9199e2508808&mode=auto&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A1%2C%22maxConcurrency%22%3A0%7D%7D#🇨🇦 Канада
